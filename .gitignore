@@ -1,0 +1,3 @@
+# e.g. for if you run `bundle config set path '.bundle/vendor' under src
+.bundle
+
