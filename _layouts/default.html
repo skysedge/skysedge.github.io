@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="/blog/main.css">
+    <noscript id="dark-mode-toggle-stylesheets">
+      <link rel="stylesheet" href="/blog/light.css" media="(prefers-color-scheme: light)">
+      <link rel="stylesheet" href="/blog/dark.css" media="(prefers-color-scheme: dark)">
+    </noscript>
+    <script src="https://googlechromelabs.github.io/dark-mode-toggle/src/dark-mode-toggle-stylesheets-loader.js"></script>
+    <script type="module" src="https://googlechromelabs.github.io/dark-mode-toggle/src/dark-mode-toggle.mjs"></script>
+    <link rel="alternate" href="{{ site.url }}/blog/feed.xml" type="application/atom+xml">
+  </head>
+
+  <body>
+    <div id="header">
+      <p><a href="/">skysedge.com/</a> <a href="/blog/">blog/</a></p>
+      <dark-mode-toggle id="dark-mode-toggle-1" appearance="toggle"></dark-mode-toggle>
+    </div>
+    <hr>
+    <div id="content" lang="en-us">
+      {{ content }}
+    </div>
+  </body>
+
+</html>
+

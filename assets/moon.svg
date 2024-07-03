@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="8mm"
+   height="8mm"
+   viewBox="0 0 8 8"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   sodipodi:docname="moon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="20.436185"
+     inkscape:cx="18.961465"
+     inkscape:cy="16.514824"
+     inkscape:window-width="1264"
+     inkscape:window-height="763"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="0.099999997"
+       spacingy="0.099999997"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect2"
+       is_visible="true"
+       lpeversion="1"
+       pattern="#rect2"
+       copytype="repeated_stretched"
+       prop_scale="1.89"
+       scale_y_rel="true"
+       spacing="1.9"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       hide_knot="false"
+       fuse_tolerance="0" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="display:none;fill:#bdbdbd;fill-opacity:1;stroke:none;stroke-width:1.3;stroke-opacity:1"
+       id="rect2"
+       width="1.9999999"
+       height="0.49999997"
+       x="9.499999"
+       y="2.9999998"
+       transform="matrix(0.2500003,0,0,1.9999997,7.1249965,-3.4999988)" />
+    <ellipse
+       style="fill:#191919;fill-opacity:1;stroke:none;stroke-width:1.58169;stroke-opacity:1"
+       id="path2"
+       cx="4"
+       cy="3.9999998"
+       rx="3.5"
+       ry="3.4999998" />
+    <path
+       id="path2-5"
+       style="fill:#b2b2b2;stroke-width:1.58169"
+       d="m 7.5,4 c 0,1.9329965 -1.5670034,3.4999998 -3.5,3.4999998 -0.7491895,0 -1.4434004,-0.2353917 -2.0127082,-0.6362507 0,0 1.8168569,0.4905991 3.512708,-1.1561452 C 7.355535,3.9057996 6.2572725,1.325169 6.2572725,1.325169 7.2824734,2.1366021 7.5,3.2595324 7.5,4 Z"
+       sodipodi:nodetypes="sscscs" />
+  </g>
+</svg>

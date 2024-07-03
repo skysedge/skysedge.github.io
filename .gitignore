@@ -1,3 +1,7 @@
 # e.g. for if you run `bundle config set path '.bundle/vendor'
 .bundle
 
+# jekyll output
+_site
+.jekyll-metadata
+
