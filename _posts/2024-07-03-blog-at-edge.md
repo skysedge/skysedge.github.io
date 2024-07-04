@@ -105,7 +105,7 @@ efficient to do this with the FPC connector, since the plastic will melt if it's
 soldered with a hot air station instead of our reflow oven. So for now,
 production is stalled until more of those parts arrive.
 
-Wise readers should be chastising us for letting this part run out expectedly!
+Wise readers should be chastising us for letting this part run out unexpectedly!
 Indeed, our inventory management is a little suboptimal. We've set up
 [InvenTree][inventree], and it works great, but taking inventory of the parts on
 our pick and place machine is not trivial. Some places actually have a whole
