@@ -4,7 +4,7 @@
 /* VARIABLES {{{ */
 :root {
     font-size: 18px;    /* this sets what a rem is */
-    --header-height: 5rem;
+    --header-height: 4rem;
     --max-content-width: min(50rem, 90%);
     --footnote-size: 0.8rem;
     --mono-stack: monospace;
@@ -90,7 +90,7 @@ body {
     p {
         color: var(--fg1);
         font-family: var(--sans-stack);
-        font-size: 1.2rem;
+        font-size: 1.4rem;
         font-weight: bold;
         a {
             color: var(--fg0);
