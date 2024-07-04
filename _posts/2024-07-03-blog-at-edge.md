@@ -54,31 +54,42 @@ Network connectivity
 
 Possibly the best news since Justine's last mass-email update is that with the
 new firmware[^1] we have network connectivity "working" on the phones. I say
-"working" in quotes because the process is rather opaque, and
+"working" in quotes because the process is rather opaque. Really it just comes
+down to if mobile network operators (MNOs) will accept the IMEIs of our phones,
+which isn't something that is well-documented. See table 37 in the [modem
+datasheet][lara_datasheet] to see which MNOs have given explicit approvals. It's
+also possible that an MNO could accept registration from a modem that it hasn't
+explicitly approved on its own.
 
-Many people have asked if the RUSP will connect to the network in their home
-countries. My answer to this is:
+Many people have asked questions of the form "will the RUSP connect to X network
+operator in Y country?" My answer to this is:
 
 - **If you use AT&T in North America**, this is the one configuration so far
   that has been tested by us to work, so unless something weird happens, it
   should be a fairly safe bet.
-- **If you use any other provider in North America**, the phone is likely to
-  work but it's technically untested. I played around with T-Mobile in the early
-  stages of firmware development and could at least ping cell towers, but we
-  haven't done any thorough testing yet.
-- **If you are outside of North America**, the phone *should* work in theory,
-  but is similarly untested. The "global" model of the RUSP has a modem that's
-  compatible with LTE towers basically anywhere in the world[^2], and we've had
-  one report of someone getting it working in the EU. However, most of the
-  option A kits we've shipped have been the North American variant.
+- **If you use any other MNO in North America**, the phone *should* work but
+  it's technically untested. I played around with T-Mobile in the early stages
+  of firmware development and could at least ping cell towers, but we haven't
+  done any thorough testing yet. Supposedly, the North American version of the
+  modem has approval from AT&T, FirstNet, Verizon, and T-Mobile. The Global
+  version has approval from AT&T and Verizon. Whether this approval is actually
+  required is unknown to me. Whether the phones will work on virtual network
+  operators (MVNOs) like US Mobile, which use the infrastructure from e.g. AT&T
+  and T-Mobile, is similarly unknown to me.
+- **If you are outside of North America**, the phone again *should* work, but
+  it's similarly untested and may depend on the network operator. The "global"
+  model of the RUSP has a modem that's compatible with LTE towers basically
+  anywhere in the world[^2], and we've had one report of someone getting it
+  working in the EU. However, most of the option A kits we've shipped have been
+  the North American variant.
 
-In other words: unless providers are up to some funny business we don't know
-about (e.g. IMEI allow-listing), the phones *should* work with the network as
-long as the correct model is chosen for the region. We really just need people
-to try it and report back! Note that it's possible to test the phone without
-even assembling it, by sending [Hayes AT][lara_hayes] commands to the modem from
-the serial port. You can even send text messages with this method! I'll write up
-a tutorial on this soon and link it here.
+In other words: unless mobile network operators are up to some funny business we
+don't know about with their own approval systems, the phones *should* work with
+the network as long as the correct model is chosen for the region. We really
+just need people to try it and report back. Note that it's possible to test the
+phone without even assembling it, by sending [Hayes AT][lara_hayes] commands to
+the modem from the serial port. You can even send text messages with this
+method! I'll write up a tutorial on this soon and link it here.
 
 <!-- *Ivy from the future here! The tutorial is here: TODO.* -->
 
@@ -130,8 +141,8 @@ Footnotes
     modem has a good enough signal and can draw enough current. We'll also test
     the old firmware again and see if we can figure out what was going on.
 
-[^2]: See table 1 of the modem's [datasheet][lara_datasheet] for regional
-    compatibility information.
+[^2]: See tables 1 and 37 of the modem's [datasheet][lara_datasheet] for
+    regional compatibility information.
 
 [^3]: As many of you know, we split orders into two options: option A, a kit
     that you can assemble yourself, and option B, a pre-assembled phone.
