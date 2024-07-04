@@ -113,11 +113,11 @@ x-ray machine just to count the parts in each reel. We'll either have to do
 regular checks on all the reels to see if any are getting low, or take on the
 annoying task of keeping precise counts of every single part.
 
-Either way, once the part arrives, we're aiming to resume production at a rate
-of—by my estimations—about 90 option A kits per week. As for option B, the
-timeline is much less certain; we have to get more volunteers trained on
-assembling the phones before we can start shipping those at any appreciable
-rate.
+Either way, we will resume production for option A kits as soon as the part
+arrives, after which we'll be sure to provide information on production rates.
+As for option B, the timeline is even less certain; we have to get more
+volunteers trained on assembling the phones before we can start shipping those
+at any appreciable rate.
 
 We appreciate everyone's patience as we sort out our production issues. It's
 rather unheard of for a small collective devoted to open-source hardware to do
