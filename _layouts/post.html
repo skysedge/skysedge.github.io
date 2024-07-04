@@ -11,16 +11,16 @@ layout: default
 
 {{ content }}
 
-{% for author in site.data.authors %}
-  {% if author.name == page.author %}
-  <div id="author">
-    {% if author.website %}
-      <h2>Author: <a href="{{ author.website }}">{{ author.name }}</a></h2>
-    {% else %}
-      <h2>Author: {{ author.name }}</h2>
+<div id="author">
+  {% for author in site.data.authors %}
+    {% if author.name == page.author %}
+      {% if author.website %}
+        <h2>Author: <a href="{{ author.website }}">{{ author.name }}</a></h2>
+      {% else %}
+        <h2>Author: {{ author.name }}</h2>
+      {% endif %}
+      <p>{{ author.intro }}</p>
     {% endif %}
-    {{ author.intro }}
-  </div>
-  {% endif %}
-{% endfor %}
+  {% endfor %}
+</div>
 
