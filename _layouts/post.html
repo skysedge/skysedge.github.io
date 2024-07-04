@@ -3,7 +3,24 @@ layout: default
 ---
 
 <h1>{{ page.title }}</h1>
-<p id="subtitle">{{ page.date | date: "%Y, %B %d (%A)" }}</p>
+<p id="subtitle">
+  {{ page.date | date: "%Y, %B %d (%A)" }}
+  <br>
+  {{ page.author }}
+</p>
 
 {{ content }}
+
+{% for author in site.data.authors %}
+  {% if author.name == page.author %}
+  <div id="author">
+    {% if author.website %}
+      <h2>Author: <a href="{{ author.website }}">{{ author.name }}</a></h2>
+    {% else %}
+      <h2>Author: {{ author.name }}</h2>
+    {% endif %}
+    {{ author.intro }}
+  </div>
+  {% endif %}
+{% endfor %}
 

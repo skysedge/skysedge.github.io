@@ -1,6 +1,15 @@
 :root {
-    --bg0: #101010;
-    --fg0: #EEEEEE;
-    --bg1: #202020;
-    --fg1: #FFFFFF;
+    --bg0: #1A1022;
+    --fg0: #E0E0E0;
+    --bg1: #2F1F2F;
+    --fg1: #E0E0E0;
 }
+
+a {
+    color: #FF5050;
+}
+
+a:visited {
+    color: #FF8080;
+}
+
