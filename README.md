@@ -1,7 +1,7 @@
 skysedge.github.io
 ==================
 
-Building Locally
+Building
 --------
 We use [Jekyll](https://jekyllrb.com/), a static site generator written in Ruby. See [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll) for a tutorial. In short, install [Bundler](https://bundler.io/), a tool for managing Ruby gems, and then run the following shell commands.
 
