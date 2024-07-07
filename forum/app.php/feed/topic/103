@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+	<link rel="self" type="application/atom+xml" href="https://skysedge.com/forum/app.php/feed/topic/103" />
+
+	<title>A Forum at Sky's Edge</title>
+	<subtitle>A Forum at Sky&#039;s Edge</subtitle>
+	<link href="https://skysedge.com/forum/index.php" />
+	<updated>2023-11-10T03:20:19</updated>
+
+	<author><name><![CDATA[A Forum at Sky's Edge]]></name></author>
+	<id>https://skysedge.com/forum/app.php/feed/topic/103</id>
+
+		<entry>
+		<author><name><![CDATA[justine]]></name></author>
+		<updated>2023-11-10T03:20:19</updated>
+
+		<published>2023-11-10T03:20:19</published>
+		<id>https://skysedge.com/forum/viewtopic.php?p=230#p230</id>
+		<link href="https://skysedge.com/forum/viewtopic.php?p=230#p230"/>
+		<title type="html"><![CDATA[Re: Little piece broke off during assembly]]></title>
+
+		
+		<content type="html" xml:base="https://skysedge.com/forum/viewtopic.php?p=230#p230"><![CDATA[
+Hi Joel,<br><br>As you know I replied to your email but for public edification I'm going to reply here, too.<br><br>That's just one of the "effect LEDs" that lights up the interior of the phone while dialing because it looks cool. It doesn't affect the functionality at all and there are other LEDs, but if anyone has this happen you can send the motherboard back and I'll fix it (though timeliness isn't promised).<br><br>~Justine<p>Statistics: Posted by <a href="https://skysedge.com/forum/memberlist.php?mode=viewprofile&amp;u=58">justine</a> — Fri Nov 10, 2023 3:20 am</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[joelsef]]></name></author>
+		<updated>2023-11-05T16:52:12</updated>
+
+		<published>2023-11-05T16:52:12</published>
+		<id>https://skysedge.com/forum/viewtopic.php?p=220#p220</id>
+		<link href="https://skysedge.com/forum/viewtopic.php?p=220#p220"/>
+		<title type="html"><![CDATA[Little piece broke off during assembly]]></title>
+
+		
+		<content type="html" xml:base="https://skysedge.com/forum/viewtopic.php?p=220#p220"><![CDATA[
+When inserting the dial into the motherboard, this one piece broke off the motherboard as I was sliding things around.<br><br>1) Is this a big deal (I assume it's important for something)<br>if so 2) Is this repairable?<br><br>Joel<dl class="file"><dt class="attach-image"><img src="https://skysedge.com/forum/download/file.php?id=16" class="postimage" alt="IMG_6138_small.jpg" onclick="viewableArea(this);" /></dt></dl><p>Statistics: Posted by <a href="https://skysedge.com/forum/memberlist.php?mode=viewprofile&amp;u=150">joelsef</a> — Sun Nov 05, 2023 4:52 pm</p><hr />
+]]></content>
+	</entry>
+	</feed>

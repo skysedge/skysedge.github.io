@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<!--
+    Ion by TEMPLATED    templated.co @templatedco    Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)    ==    Modified heavily by David van Popering    ==-->
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>Altitude Knob</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="https://www.skysedge.us/images/favicon.png" sizes="32x32">
+    <meta property="og:image" content="https://www.skysedge.us/images/favicon.png">
+    <!-- title>Left Sidebar - Ion by TEMPLATED</title-->
+    <meta content="amateur, astronomy, knob, mount" name="keywords">
+    <meta content="Altitude Knob" name="description">
+    <!--[if lte IE 8]><script src="js/html5shiv.js"></script><![endif]-->
+    <script src="js/jquery.min.js">
+    </script>
+    <script src="js/skel.min.js">
+    </script>
+    <script src="js/skel-layers.min.js">
+    </script>
+    <script src="js/init.js">
+    </script> <noscript>
+        <link href="css/skel.css" rel="stylesheet">
+        <link href="css/style.css" rel="stylesheet">
+        <link href="css/style-xlarge.css" rel="stylesheet">
+    </noscript>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Aref+Ruqaa">
+  </head>
+  <body id="top">
+    <!-- Header -->
+    <header class="skel-layers-fixed" id="header">
+      <!--TOP bar-->
+      <!-- Bootstrap core JavaScript
+    ================================================== -->
+      <!-- Placed at the end of the document so the pages load faster -->
+      <div class="row justify-content-center text-center text-muted ml-n1 mr-n1">
+        <div class="text-center col-md-2">
+          <div class="logo"> <a class="image fit" href="../../index.html"> <img src="../../images/SkysEdge_Blue_Small.png"
+                style="max-width:20%;height:auto;"> </a><br>
+          </div>
+        </div>
+        <nav id="nav" style="font-family: Aref Ruqaa;">
+          <ul>
+            <li> <a href="../../forum/index.html" target="_blank">Forum</a></li>
+            <li> <a href="../../philosophy/index.html">Open Source Rant</a> </li>
+            <li> <a href="../../work/index.html">The Purpose of Work</a> </li>
+            <li> <a href="../../future/index.html" target="_blank">Future Projects</a></li>
+            <li> <a href="../../about/index.html">Strange Company</a> </li>
+            <li> <a href="../../notes/index.html">Notes &amp; Links</a> </li>
+            <li>
+              <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr"
+                method="post"> <input name="cmd" value="_s-xclick" type="hidden">
+                <input name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----"
+                  type="hidden"> <input src="https://www.paypalobjects.com/en_US/i/btn/btn_viewcart_LG.gif"
+                  name="submit" alt="PayPal - The safer, easier way to pay online!"
+                  type="image" border="0"> <img alt="" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif"
+                  width="1" height="1" border="0"> </form>
+            </li>
+            <li> <a class="button special" href="../../contact/index.html">Contact</a>
+            </li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+    <!--END TOP bar-->
+    <!-- Main -->
+    <section class="wrapper style1" id="main">
+      <h1 style="font-family: Aref Ruqaa;" align="center">Open Source Altitude
+        Adjustment Knob</h1>
+      <div class="col-md-5" align="center"> <img src="../images/knob.jpg" style="max-width:40%;height:auto;">
+      </div>
+      <div class="container"> <br>
+        <div class="row" align="center">
+          <div class="1u">
+            <h6>spacer</h6>
+          </div>
+          <div class="8u" align="left">
+            <section>
+              <p>This fixed knob is a replacement for the altitude adjustment
+                handle on SkyWatcher EQ6-R Pro and Atlas II mounts. It provides
+                a more positive engagement, making altitude adjustment easier.
+                It replaces in seconds, and will not strip like the stock handle
+                does. 3D print your own or order here. </p>
+              <p>Developer: Steven Bellavia</p>
+              Comes with:
+              <li>1x Carbon-Filled PETG 3D Printed Knob. This is a strong,
+                durable material that should last a lifetime.</li>
+              <li>1x M5x20 Stainless Steel Socket Head Cap Screw</li>
+              <br>
+              Installation:
+              <ol>
+                <li>Remove the existing handle using a 4mm hex (Allen) wrench.</li>
+                <li>Gently tap the knob on using a block of wood and a hammer.
+                  The fit is intentionally tight.</li>
+                <li>Using the supplied M5X20 socket head screw, gently tighten
+                  with the 4mm hex wrench.</li>
+              </ol>
+              <br>
+              <div style="border:1px dotted black;padding-left:2em;padding-right:1em;padding-top:1em;padding-bottom:1em">
+                <h3 align="center"><b><i>Open Source Files:</i></b></h3>
+                <li><a href="designfiles.html">STL and STEP Files</a>: 3D print
+                  and/or modify your own</li>
+                <li><a href="https://www.skysedge.com/opensource/">License</a>:
+                  Read before forking</li>
+              </div>
+              <br>
+              <br>
+            </section>
+          </div>
+          <div class="3u">
+            <section>
+              <h3>Altitude Knob AAK1:</h3>
+              <h1>$44.00</h1>
+              <br>
+              <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr"
+                method="post"> <input name="cmd" value="_s-xclick" type="hidden">
+                <input name="hosted_button_id" value="A8M7QSHWHHVJE" type="hidden">
+                <input src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif"
+                  name="submit" alt="PayPal - The safer, easier way to pay online!"
+                  type="image" border="0"> <img alt="" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif"
+                  width="1" height="1" border="0"> </form>
+            </section>
+          </div>
+        </div>
+      </div>
+      <!-- Footer -->
+      <footer id="footer">
+        <div class="container"> <br>
+          <br>
+          <ul class="copyright">
+            <!--<li>Template: <a href="http://templated.co">TEMPLATED</a> </li>-->
+            Sky's Edge is a subsidiary of Lightsmith Scientific LLC. Wait, why?
+            Because when I first decided to start a company I decided on the
+            name Lightsmith Scientific and formed it as an LLC. A few years
+            later I thought of Sky's Edge, which comes from the <a href="https://www.goodreads.com/series/56392-revelation-space"><u>Revelation
+                Space universe</u></a> by Alastair Reynolds, and liked it much
+            better. So on paper Lightsmith Scientific has a "DBA" in NY state
+            for doing business as Sky's Edge. Also, if someone who knows
+            business could let me know if it's right to use the word
+            "subsidiary" in this context, I'd appreciate an email. ~Justine
+            Haupt<br>
+            <br>
+            Skysedge.us created &amp; maintained by <a href="mailto:dobsoniandave@gmail.com">David
+              van Popering</a>
+          </ul>
+        </div>
+      </footer>
+    </section>
+  </body>
+</html>

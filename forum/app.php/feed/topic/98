@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+	<link rel="self" type="application/atom+xml" href="https://skysedge.com/forum/app.php/feed/topic/98" />
+
+	<title>A Forum at Sky's Edge</title>
+	<subtitle>A Forum at Sky&#039;s Edge</subtitle>
+	<link href="https://skysedge.com/forum/index.php" />
+	<updated>2023-11-10T03:22:14</updated>
+
+	<author><name><![CDATA[A Forum at Sky's Edge]]></name></author>
+	<id>https://skysedge.com/forum/app.php/feed/topic/98</id>
+
+		<entry>
+		<author><name><![CDATA[justine]]></name></author>
+		<updated>2023-11-10T03:22:14</updated>
+
+		<published>2023-11-10T03:22:14</published>
+		<id>https://skysedge.com/forum/viewtopic.php?p=231#p231</id>
+		<link href="https://skysedge.com/forum/viewtopic.php?p=231#p231"/>
+		<title type="html"><![CDATA[Re: Bell Arm Assembly issue]]></title>
+
+		
+		<content type="html" xml:base="https://skysedge.com/forum/viewtopic.php?p=231#p231"><![CDATA[
+Hi guys,<br><br>I haven't updated the assembly instructions yet and you're reminding me to do that. <br><br>I updated the Daughterboard design so that the little locknut and washer on the bottom side is no longer necessary. Instead, the M2 screw will screw directly into that threaded insert. <br><br>I'll add pictures to the manual soon.<br><br>~Justine<p>Statistics: Posted by <a href="https://skysedge.com/forum/memberlist.php?mode=viewprofile&amp;u=58">justine</a> — Fri Nov 10, 2023 3:22 am</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[joelsef]]></name></author>
+		<updated>2023-11-05T17:23:47</updated>
+
+		<published>2023-11-05T17:23:47</published>
+		<id>https://skysedge.com/forum/viewtopic.php?p=221#p221</id>
+		<link href="https://skysedge.com/forum/viewtopic.php?p=221#p221"/>
+		<title type="html"><![CDATA[Re: Bell Arm Assembly issue]]></title>
+
+		
+		<content type="html" xml:base="https://skysedge.com/forum/viewtopic.php?p=221#p221"><![CDATA[
+I also saw that and just used that for the bell arm…is that wrong?<p>Statistics: Posted by <a href="https://skysedge.com/forum/memberlist.php?mode=viewprofile&amp;u=150">joelsef</a> — Sun Nov 05, 2023 5:23 pm</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[Geekphoria]]></name></author>
+		<updated>2023-10-05T21:05:20</updated>
+
+		<published>2023-10-05T21:05:20</published>
+		<id>https://skysedge.com/forum/viewtopic.php?p=213#p213</id>
+		<link href="https://skysedge.com/forum/viewtopic.php?p=213#p213"/>
+		<title type="html"><![CDATA[Bell Arm Assembly issue]]></title>
+
+		
+		<content type="html" xml:base="https://skysedge.com/forum/viewtopic.php?p=213#p213"><![CDATA[
+When attempting to bolt the Bell Arm Assembly to daughterboard, it appears the threaded part on the board is on the wrong hole.   (Don’t know what to call it)<br>Am I wrong or is the daughterboard wrong? Bell Lever should be a hole in a board only as it calls for washers and M2 Lock Nut?  Also it appears that the hole in the bell arm is too big because the head of the screw can go completely through it. The brass washer is too soft so when I attempt to torque it to a point where the bell arm won’t move, the washer distorts. What am I missing?<dl class="file"><dt class="attach-image"><img src="https://skysedge.com/forum/download/file.php?id=13" class="postimage" alt="IMG_8397.jpeg" onclick="viewableArea(this);" /></dt></dl><br /><dl class="file"><dt class="attach-image"><img src="https://skysedge.com/forum/download/file.php?id=14" class="postimage" alt="IMG_8398.jpeg" onclick="viewableArea(this);" /></dt></dl><p>Statistics: Posted by <a href="https://skysedge.com/forum/memberlist.php?mode=viewprofile&amp;u=144">Geekphoria</a> — Thu Oct 05, 2023 9:05 pm</p><hr />
+]]></content>
+	</entry>
+	</feed>

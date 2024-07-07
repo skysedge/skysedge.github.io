@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/jhaupt/Projects/Unsmartphones/RUSP/Electrical/Faceplate/RUSP_Faceplate.kicad_sch</source>
+    <date>Fri 07 Jan 2022 09:09:04 PM EST</date>
+    <tool>Eeschema 6.0.0+dfsg1-2</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>RUSP_Faceplate.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="H1">
+      <value>M2 SMT Nut</value>
+      <footprint>MyFootprints:SMTSO-M2-3ET</footprint>
+      <fields>
+        <field name="Mfg. Name">PEM</field>
+        <field name="Mfg. Part No.">SMTSO-M2-3ET </field>
+      </fields>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Mfg. Name" value="PEM"/>
+      <property name="Mfg. Part No." value="SMTSO-M2-3ET "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RUSP_Faceplate.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005fa09a68</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>M2 SMT Nut</value>
+      <footprint>MyFootprints:SMTSO-M2-3ET</footprint>
+      <fields>
+        <field name="Mfg. Name">PEM</field>
+        <field name="Mfg. Part No.">SMTSO-M2-3ET </field>
+      </fields>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Mfg. Name" value="PEM"/>
+      <property name="Mfg. Part No." value="SMTSO-M2-3ET "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RUSP_Faceplate.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005fa0a3c0</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>M2 SMT Nut</value>
+      <footprint>MyFootprints:SMTSO-M2-3ET</footprint>
+      <fields>
+        <field name="Mfg. Name">PEM</field>
+        <field name="Mfg. Part No.">SMTSO-M2-3ET </field>
+      </fields>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Mfg. Name" value="PEM"/>
+      <property name="Mfg. Part No." value="SMTSO-M2-3ET "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RUSP_Faceplate.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005fa0a670</tstamps>
+    </comp>
+    <comp ref="H5">
+      <value>M2 SMT Nut</value>
+      <footprint>MyFootprints:SMTSO-M2-3ET</footprint>
+      <fields>
+        <field name="Mfg. Name">PEM</field>
+        <field name="Mfg. Part No.">SMTSO-M2-3ET </field>
+      </fields>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Mfg. Name" value="PEM"/>
+      <property name="Mfg. Part No." value="SMTSO-M2-3ET "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RUSP_Faceplate.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005fa0ad78</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
+    <libpart lib="MyLibrary" part="Fiducial">
+      <fields>
+        <field name="Reference">FID</field>
+        <field name="Value">MyLibrary_Fiducial</field>
+      </fields>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Mechanical">
+      <uri>/usr/share/kicad/symbols//Mechanical.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets/>
+</export>

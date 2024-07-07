@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+	<link rel="self" type="application/atom+xml" href="https://skysedge.com/forum/app.php/feed/topic/113" />
+
+	<title>A Forum at Sky's Edge</title>
+	<subtitle>A Forum at Sky&#039;s Edge</subtitle>
+	<link href="https://skysedge.com/forum/index.php" />
+	<updated>2024-06-20T04:31:07</updated>
+
+	<author><name><![CDATA[A Forum at Sky's Edge]]></name></author>
+	<id>https://skysedge.com/forum/app.php/feed/topic/113</id>
+
+		<entry>
+		<author><name><![CDATA[imyxh]]></name></author>
+		<updated>2024-06-20T04:31:07</updated>
+
+		<published>2024-06-20T04:31:07</published>
+		<id>https://skysedge.com/forum/viewtopic.php?p=304#p304</id>
+		<link href="https://skysedge.com/forum/viewtopic.php?p=304#p304"/>
+		<title type="html"><![CDATA[Re: Successful build, but still some things to figure out]]></title>
+
+		
+		<content type="html" xml:base="https://skysedge.com/forum/viewtopic.php?p=304#p304"><![CDATA[
+Regarding the numbers dialing wrong, if you want a perspective from the firmware side of things feel free to check out my comments here: <a href="https://skysedge.com/forum/viewtopic.php?p=301#p301" class="postlink">viewtopic.php?p=301#p301</a><br><br>In short, apart from mechanical tweaks you can try:<br><ul><li> flashing our new work-in-progress firmware which has fewer features implemented but is a little more resilient with dialing: <a href="https://github.com/skysedge/rusp_firmware" class="postlink">https://github.com/skysedge/rusp_firmware</a></li><li> adjusting various timeouts in the code, and playing with the fudge factor that converts from limit switch pulses to the dialed number (<a href="https://github.com/skysedge/rusp_firmware/blob/eb8d550f8cb9341aee37b9b4b51ef8a4f0c5b1e7/rusphttps://skysedge.com/forum/viewtopic.php?p=301#p301_firmware.ino#L18" class="postlink">https://github.com/skysedge/rusp_firmwa ... re.ino#L18</a> in the new code and <a href="https://github.com/skysedge/RotaryUnSmartphone/blob/480a15d64fad04d73d73f9e5720d12cd8782b2e3/RUSP/Helpers.ino#L52" class="postlink">https://github.com/skysedge/RotaryUnSma ... rs.ino#L52</a> in the old).</li></ul><p>Statistics: Posted by <a href="https://skysedge.com/forum/memberlist.php?mode=viewprofile&amp;u=188">imyxh</a> — Thu Jun 20, 2024 4:31 am</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[dafe]]></name></author>
+		<updated>2024-01-30T22:31:44</updated>
+
+		<published>2024-01-30T22:31:44</published>
+		<id>https://skysedge.com/forum/viewtopic.php?p=268#p268</id>
+		<link href="https://skysedge.com/forum/viewtopic.php?p=268#p268"/>
+		<title type="html"><![CDATA[Re: Successful build, but still some things to figure out]]></title>
+
+		
+		<content type="html" xml:base="https://skysedge.com/forum/viewtopic.php?p=268#p268"><![CDATA[
+Done with the assembly and repeated reassembly (my fault..).<br>I also have the issue with the display of 2 whatever dial. Buttons were a bit tricky, I had to cut out and will again have to, for the Fn button. Other than that it went well, considered my experience and finger motor (drummer.. <img class="smilies" src="https://skysedge.com/forum/images/smilies/icon_e_smile.gif" width="15" height="17" alt=":)" title="Smile">.<br>Greetings from merry Glarus<br>David<p>Statistics: Posted by <a href="https://skysedge.com/forum/memberlist.php?mode=viewprofile&amp;u=169">dafe</a> — Tue Jan 30, 2024 10:31 pm</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[joelsef]]></name></author>
+		<updated>2024-01-17T11:10:18</updated>
+
+		<published>2024-01-17T11:10:18</published>
+		<id>https://skysedge.com/forum/viewtopic.php?p=265#p265</id>
+		<link href="https://skysedge.com/forum/viewtopic.php?p=265#p265"/>
+		<title type="html"><![CDATA[Re: Successful build, but still some things to figure out]]></title>
+
+		
+		<content type="html" xml:base="https://skysedge.com/forum/viewtopic.php?p=265#p265"><![CDATA[
+Thank you! I don’t know how many times I had to readjust the gears while I re-attached the boards together. I must have messed this up. Time to take it apart again! <img alt="😃" class="emoji smilies" draggable="false" src="//twemoji.maxcdn.com/2/svg/1f603.svg"><p>Statistics: Posted by <a href="https://skysedge.com/forum/memberlist.php?mode=viewprofile&amp;u=150">joelsef</a> — Wed Jan 17, 2024 11:10 am</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[zero1tango]]></name></author>
+		<updated>2024-01-16T17:26:00</updated>
+
+		<published>2024-01-16T17:26:00</published>
+		<id>https://skysedge.com/forum/viewtopic.php?p=264#p264</id>
+		<link href="https://skysedge.com/forum/viewtopic.php?p=264#p264"/>
+		<title type="html"><![CDATA[Re: Successful build, but still some things to figure out]]></title>
+
+		
+		<content type="html" xml:base="https://skysedge.com/forum/viewtopic.php?p=264#p264"><![CDATA[
+Re. wrong numbers appearing during dialing...<br>You may want to verify that the lobe of the Cam Gear is touching the limit switch's roller ("Rotary Mechanism" step 6) during assembly.  The lobe's position is easy to miss and/or slip out of alignment while scrunching the Mother and Daughter Boards together.  It might be helpful to put a dot on the top of the Cam Gear lobe's highest point with a Sharpie to make it easier to orient when placing the gear in the Mother Board.<p>Statistics: Posted by <a href="https://skysedge.com/forum/memberlist.php?mode=viewprofile&amp;u=166">zero1tango</a> — Tue Jan 16, 2024 5:26 pm</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[joelsef]]></name></author>
+		<updated>2024-01-16T03:20:59</updated>
+
+		<published>2024-01-16T03:20:59</published>
+		<id>https://skysedge.com/forum/viewtopic.php?p=263#p263</id>
+		<link href="https://skysedge.com/forum/viewtopic.php?p=263#p263"/>
+		<title type="html"><![CDATA[Successful build, but still some things to figure out]]></title>
+
+		
+		<content type="html" xml:base="https://skysedge.com/forum/viewtopic.php?p=263#p263"><![CDATA[
+Finished my build. Finally! Build quality came out well.<br><br>I got it booted up and lights and display work. However, the numbers dialed do not correspond to the correct number on the display. I'm getting some -1 values too!<br><br>One thing I ran into towards the end of the build: It comes with six M2 brass washers, but the instructions specify more. However, I think at least 1-2 of those should use the nylon washer--or should they? I used nylon washers for those last few, and I think they fit better. But maybe that's not right?<br><br>Anyway, I need to figure out why the dial is not dialing the correct numbers. I'd love to see if I can make a call! I am using Mint Mobile in the US...not sure if that will work yet but really want to get to a point where I can try.<br><br>I did try calling that number from another phone and did not get an incoming call, so I assume it's either not working or something else is wrong.<br><br>Justine, should we get the latest firmware from GitHub? or should that already be on the motherboards you sent?<dl class="file"><dt class="attach-image"><img src="https://skysedge.com/forum/download/file.php?id=26" class="postimage" alt="IMG_7060-sm.jpg" onclick="viewableArea(this);" /></dt></dl><br /><dl class="file"><dt class="attach-image"><img src="https://skysedge.com/forum/download/file.php?id=27" class="postimage" alt="IMG_7061-sm.jpg" onclick="viewableArea(this);" /></dt></dl><br /><dl class="file"><dt class="attach-image"><img src="https://skysedge.com/forum/download/file.php?id=28" class="postimage" alt="IMG_7062-sm.jpg" onclick="viewableArea(this);" /></dt></dl><p>Statistics: Posted by <a href="https://skysedge.com/forum/memberlist.php?mode=viewprofile&amp;u=150">joelsef</a> — Tue Jan 16, 2024 3:20 am</p><hr />
+]]></content>
+	</entry>
+	</feed>

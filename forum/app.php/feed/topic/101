@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+	<link rel="self" type="application/atom+xml" href="https://skysedge.com/forum/app.php/feed/topic/101" />
+
+	<title>A Forum at Sky's Edge</title>
+	<subtitle>A Forum at Sky&#039;s Edge</subtitle>
+	<link href="https://skysedge.com/forum/index.php" />
+	<updated>2024-06-20T03:22:41</updated>
+
+	<author><name><![CDATA[A Forum at Sky's Edge]]></name></author>
+	<id>https://skysedge.com/forum/app.php/feed/topic/101</id>
+
+		<entry>
+		<author><name><![CDATA[imyxh]]></name></author>
+		<updated>2024-06-20T03:22:41</updated>
+
+		<published>2024-06-20T03:22:41</published>
+		<id>https://skysedge.com/forum/viewtopic.php?p=300#p300</id>
+		<link href="https://skysedge.com/forum/viewtopic.php?p=300#p300"/>
+		<title type="html"><![CDATA[Re: T-Mobile and possibilities...]]></title>
+
+		
+		<content type="html" xml:base="https://skysedge.com/forum/viewtopic.php?p=300#p300"><![CDATA[
+Hey, sorry to necropost. I've been newly onboarded as an engineer at Sky's Edge and from what I remember from my initial testing, my T-Mobile SIM <em class="text-italics">was</em> in fact able to at least scan for nearby cell towers through the LARA. I haven't tested full functionality with T-Mobile yet but it <em class="text-italics">should</em> work. AT&amp;T has also worked at least in our tests.<br><br>Regarding the firmware, there's an ongoing rewrite of it here: <a href="https://github.com/skysedge/rusp_firmware" class="postlink">https://github.com/skysedge/rusp_firmware</a>. Many features remain to be implemented but we do have calling in and out working—at least from our tests—on the ATmega1280 with LARA.<p>Statistics: Posted by <a href="https://skysedge.com/forum/memberlist.php?mode=viewprofile&amp;u=188">imyxh</a> — Thu Jun 20, 2024 3:22 am</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[joelsef]]></name></author>
+		<updated>2023-12-02T01:51:40</updated>
+
+		<published>2023-12-02T01:51:40</published>
+		<id>https://skysedge.com/forum/viewtopic.php?p=256#p256</id>
+		<link href="https://skysedge.com/forum/viewtopic.php?p=256#p256"/>
+		<title type="html"><![CDATA[Re: T-Mobile and possibilities...]]></title>
+
+		
+		<content type="html" xml:base="https://skysedge.com/forum/viewtopic.php?p=256#p256"><![CDATA[
+I am hoping to get my phone finished this weekend and try it on Mint (which uses T-Mobile here in the US). I'm crossing my fingers!<p>Statistics: Posted by <a href="https://skysedge.com/forum/memberlist.php?mode=viewprofile&amp;u=150">joelsef</a> — Sat Dec 02, 2023 1:51 am</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[justine]]></name></author>
+		<updated>2023-11-10T03:16:30</updated>
+
+		<published>2023-11-10T03:16:30</published>
+		<id>https://skysedge.com/forum/viewtopic.php?p=228#p228</id>
+		<link href="https://skysedge.com/forum/viewtopic.php?p=228#p228"/>
+		<title type="html"><![CDATA[Re: T-Mobile and possibilities...]]></title>
+
+		
+		<content type="html" xml:base="https://skysedge.com/forum/viewtopic.php?p=228#p228"><![CDATA[
+Hi Anjin,<br><br>This is good. Where are you in the world that you got this? <br><br>~Justine<p>Statistics: Posted by <a href="https://skysedge.com/forum/memberlist.php?mode=viewprofile&amp;u=58">justine</a> — Fri Nov 10, 2023 3:16 am</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[Anjin]]></name></author>
+		<updated>2023-10-09T19:54:56</updated>
+
+		<published>2023-10-09T19:54:56</published>
+		<id>https://skysedge.com/forum/viewtopic.php?p=218#p218</id>
+		<link href="https://skysedge.com/forum/viewtopic.php?p=218#p218"/>
+		<title type="html"><![CDATA[T-Mobile and possibilities...]]></title>
+
+		
+		<content type="html" xml:base="https://skysedge.com/forum/viewtopic.php?p=218#p218"><![CDATA[
+I saw this today at TMobile when providing my IMEI<br><div class="inline-attachment"><dl class="file"><dt class="attach-image"><img src="https://skysedge.com/forum/download/file.php?id=15" class="postimage" alt="ublox-lara-r6001.jpg" onclick="viewableArea(this);" /></dt></dl></div>I also have been reviewing the init and find it may be lacking for an LTE network connection.  Plenty of other bits needing updating as well in the RUSP repo, like changing the board type and speed to atmega1280-16.  After I get my kit assembled, I will perhaps see about tidying that up a bit.  But if there is a new version that just hasn't been committed, it would be a better starting point.<br><br>U-Blox has an api library that covers quite a bit: <a href="https://github.com/u-blox/ubxlib.git" class="postlink">https://github.com/u-blox/ubxlib.git</a><br><br>This repo also has lots of guidance: <a href="https://github.com/firechip/Firechip_u-blox_LARA-R6_Arduino_Library.git" class="postlink">https://github.com/firechip/Firechip_u- ... ibrary.git</a><br><br>This one also is well documented and covers up to LARA-R2 series. <a href="https://github.com/khoih-prog/GSM_Generic.git" class="postlink">https://github.com/khoih-prog/GSM_Generic.git</a><br><br>And while there are plenty of others, this one supports U-Blox and voice/volte and is nice and trim.  Also a scad of forks with additional functions.  <a href="https://github.com/vshymanskyy/TinyGSM.git" class="postlink">https://github.com/vshymanskyy/TinyGSM.git</a><p>Statistics: Posted by <a href="https://skysedge.com/forum/memberlist.php?mode=viewprofile&amp;u=132">Anjin</a> — Mon Oct 09, 2023 7:54 pm</p><hr />
+]]></content>
+	</entry>
+	</feed>

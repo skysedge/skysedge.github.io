@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+	<link rel="self" type="application/atom+xml" href="https://skysedge.com/forum/app.php/feed/topic/104" />
+
+	<title>A Forum at Sky's Edge</title>
+	<subtitle>A Forum at Sky&#039;s Edge</subtitle>
+	<link href="https://skysedge.com/forum/index.php" />
+	<updated>2023-11-10T03:25:56</updated>
+
+	<author><name><![CDATA[A Forum at Sky's Edge]]></name></author>
+	<id>https://skysedge.com/forum/app.php/feed/topic/104</id>
+
+		<entry>
+		<author><name><![CDATA[justine]]></name></author>
+		<updated>2023-11-10T03:25:56</updated>
+
+		<published>2023-11-10T03:25:56</published>
+		<id>https://skysedge.com/forum/viewtopic.php?p=232#p232</id>
+		<link href="https://skysedge.com/forum/viewtopic.php?p=232#p232"/>
+		<title type="html"><![CDATA[Re: Phone dialling issue]]></title>
+
+		
+		<content type="html" xml:base="https://skysedge.com/forum/viewtopic.php?p=232#p232"><![CDATA[
+Hi Alex,<br><br>Thank you for posting the video; very helpful.<br><br>Two things... no it definitely shouldn't be returning that quickly. It seems like the centripetal mechanism on the governor isn't engaging. Is it possible some glue got into the aluminum weights? Also, did you confirm that it only spins in one direction when holding the gear on the bottom?<br><br>The other thing is that it doesn't look in the video like the blue LED on the front of the motherboard is blinking at all. It should blink once when the finger stop is pushed all the way to the end, but the video may be missing it. Can you confirm that you get a brief blue blink when dialing? <br><br>~Justine<p>Statistics: Posted by <a href="https://skysedge.com/forum/memberlist.php?mode=viewprofile&amp;u=58">justine</a> — Fri Nov 10, 2023 3:25 am</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[AlexA]]></name></author>
+		<updated>2023-11-06T12:40:21</updated>
+
+		<published>2023-11-06T12:40:21</published>
+		<id>https://skysedge.com/forum/viewtopic.php?p=223#p223</id>
+		<link href="https://skysedge.com/forum/viewtopic.php?p=223#p223"/>
+		<title type="html"><![CDATA[Phone dialling issue]]></title>
+
+		
+		<content type="html" xml:base="https://skysedge.com/forum/viewtopic.php?p=223#p223"><![CDATA[
+Hi Justine and community, thank you for the awesome phone kit!<br><br>I haven't had any major issues with assembly but I seem to be having the problem of it only dialling a 1, 2 or 0. <br>From how I'm understand the rotary mechanism, I think this is down to the lever switch not being depressed fully by the cam gear on each rotation to send the number pulses. Not sure quite how to fix it without either bending the switch closer or possibly wrapping some kapton tape around it to increase its diameter but wanted to check before I do anything drastic to make sure I'm not missing something.<br><br>I also wanted to just double check the mechanism is rotating properly, it seems a little fast but not sure if I'm seeing things.<br><a href="https://drive.google.com/file/d/1sf5R9wmpVpuS7vfXkfktIjhkTh7bliCC/view?usp=sharing" class="postlink">https://drive.google.com/file/d/1sf5R9w ... sp=sharing</a><br><br>After this, next step is finding a SIM card (if anyone in Australia knows any sure-fire ones let me know!)<br><br>Looking forward to seeing it in action!<br>Alex from Sydney<br><div class="inline-attachment"><dl class="file"><dt class="attach-image"><img src="https://skysedge.com/forum/download/file.php?id=19" class="postimage" alt="1.jpg" onclick="viewableArea(this);" /></dt></dl></div><div class="inline-attachment"><dl class="file"><dt class="attach-image"><img src="https://skysedge.com/forum/download/file.php?id=20" class="postimage" alt="2.jpg" onclick="viewableArea(this);" /></dt></dl></div><p>Statistics: Posted by <a href="https://skysedge.com/forum/memberlist.php?mode=viewprofile&amp;u=151">AlexA</a> — Mon Nov 06, 2023 12:40 pm</p><hr />
+]]></content>
+	</entry>
+	</feed>

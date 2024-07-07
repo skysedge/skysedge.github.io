@@ -1,0 +1,157 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+ <HEAD>
+   <TITLE> Rotary Un-Smartphone Shipping Update
+   </TITLE>
+   <LINK REL="Index" HREF="http://skysedge.com/pipermail/rotaryun-smartphone_skysedge.com/2022-November/index.html" >
+   <LINK REL="made" HREF="mailto:rotaryun-smartphone%40skysedge.com?Subject=Re%3A%20Rotary%20Un-Smartphone%20Shipping%20Update&In-Reply-To=%3Cbeb50937-aafb-346f-4a41-694651704b2b%40skysedge.com%3E">
+   <META NAME="robots" CONTENT="index,nofollow">
+   <style type="text/css">
+       pre {
+           white-space: pre-wrap;       /* css-2.1, curent FF, Opera, Safari */
+           }
+   </style>
+   <META http-equiv="Content-Type" content="text/html; charset=us-ascii">
+   
+   
+ </HEAD>
+ <BODY BGCOLOR="#ffffff">
+   <H1>Rotary Un-Smartphone Shipping Update</H1>
+    <B>Justine Haupt</B> 
+    <A HREF="mailto:rotaryun-smartphone%40skysedge.com?Subject=Re%3A%20Rotary%20Un-Smartphone%20Shipping%20Update&In-Reply-To=%3Cbeb50937-aafb-346f-4a41-694651704b2b%40skysedge.com%3E"
+       TITLE="Rotary Un-Smartphone Shipping Update">justine at skysedge.com
+       </A><BR>
+    <I>Tue Nov 15 11:20:41 EST 2022</I>
+    <P><UL>
+        
+        
+         <LI> <B>Messages sorted by:</B> 
+              <a href="date.html#16">[ date ]</a>
+              <a href="thread.html#16">[ thread ]</a>
+              <a href="subject.html#16">[ subject ]</a>
+              <a href="author.html#16">[ author ]</a>
+         </LI>
+       </UL>
+    <HR>  
+<!--beginarticle-->
+<PRE>I&#8217;ve been doing electronics production (printed circuit board 
+assembly/soldering/programming/quality checks) since the beginning of 
+the month. All other parts are in hand and ready to be sent out. In 
+parallel, I&#8217;ve been doing test-builds and quality checking along the way.
+
+Okaaaaaay. So.
+
+*
+The rotary dials aren&#8217;t dialing consistently. *I thought (was sure) I 
+had this problem worked out, but now about 10% of the time, when I use 
+the dial, it returns a wrong number. At times its very reliable (owing 
+to software improvements, which I previously thought made good dialing 
+the rule rather than the exception), but on the two kits I&#8217;ve assembled 
+from production parts so far, the reliability is, frankly, terrible. 
+It&#8217;s unusable for real-world use. I can&#8217;t send these out.
+
+This is a a knots-in-my-stomach-oh-my-god-what-the-hell-am-I-going-to-do 
+type of situation, considering that with both old and recent pre-orders, 
+about 770 kits are promised to be sent out this month (or at least by 
+Christmas TBH).
+
+After more tweaking, both mechanically and in software, I&#8217;ve resigned 
+myself that a hardware design change is the only solution, meaning all 
+the phone motherboards I&#8217;ve produced so far need to be scrapped. As of 
+two days ago (Nov. 12^th ) I redesigned the motherboards and will not be 
+using any that I have on hand. The daughterboards are also affected, and 
+those too are being scrapped for a fixed version.
+
+TECHNICAL PARAGRAPH, OK TO SKIP. The way the I made the rotary 
+mechanism, pulses (numbers) are counted both as the dial is wound and on 
+the return, so the final count is divided by 2 to get the intended 
+number. This allowed a significant mechanical simplification, but, on 
+the windup, those pulses often go too fast to get counted accurately. 
+The software fix I had in place used the fact that the total number of 
+pulses always needs to be even to be valid, as well as incorporating 
+timing for debounce detection, but this just isn&#8217;t good enough. My fix 
+is to add a hall sensor to detect when the finger stop is pushed to its 
+limit (while dialing), so that the software knows only to count pulses 
+after the finger stop is released.
+
+I&#8217;m trying to figure out if I can still get 700+ *working* kits in the 
+mail in time to arrive (let&#8217;s say) by December 18^th . If I overnight 
+them and take the loss on shipping, which I will absolutely do, then 
+that gives me about 31 days from nowto finish the electronics for all 
+orders accepted until I moved the promised ship-by date on the website 
+(which was Sept. 14 at 6:15PM EDT).Producing the new boards should take 
+18 days end to end. A few days will be needed for programming, kitting 
+and mailing of course, so if I have all new blank PCBs from my 
+fabrication house in hand by November 28^th , this can still work.
+
+To air the rest of the rest of the dirty laundry, there are a couple 
+other (less critical) problems I&#8217;d like to make public:
+
+-The headset jack: The auxiliary TRRS jack only work to hear, not to 
+speak through a headset microphone. The microphone built into the phone 
+works as a speakerphone mic, so this could be used with headphones in 
+that sense, but proper &#8220;talk/listen&#8221; headset functionality isn&#8217;t working 
+on this version. This will NOT be fixed until a future production batch.
+
+-Battery life: It seems that right now the real-world battery life is 
+only about 12 hours. The issue isn&#8217;t the battery running out. It&#8217;s that 
+the system browns out when the cellular modem goes into call-receive 
+mode while other call-alert features are also working. My temporary 
+workaround is to have it consider itself out of battery when the battery 
+is down to about 50% capacity. The battery capacity is there but the 
+instantaneous current draw is too high. I may be able to figure out a 
+software fix for this before any units ship.
+
+IFyou&#8217;re done with all this and would like a refund, please email 
+<A HREF="../../../mailman/listinfo/rotaryun-smartphone_skysedge.com.html">info at skysedge.com</A> with &#8220;refund&#8221; in the subject.
+
+IF you don&#8217;t particularly care if your order arrives for the holidays, 
+please email <A HREF="../../../mailman/listinfo/rotaryun-smartphone_skysedge.com.html">info at skysedge.com</A> with &#8220;no rush&#8221; in the subject to let me 
+know. This would help me meet the holiday demand.
+
+IF you /absolutely/need it for the holidays, please email 
+<A HREF="../../../mailman/listinfo/rotaryun-smartphone_skysedge.com.html">info at skysedge.com</A> with &#8220;RUSH&#8221; in the subject. Please don&#8217;t hesitate to 
+let me know if this is your situation.
+
+*A paragraph I was on the fence about including:*
+
+Lastly, I just want to say to anyone who might start to feel like I&#8217;ve 
+taken all these pre-orders (many from about 2 years ago now!) on 
+anything but honest pretenses, I want to say that this hasn&#8217;t been a 
+process I&#8217;ve taken lightly or that has gone without impact to my 
+personal life, or my family&#8217;s. I&#8217;ve wanted to have a stable and 
+successful company for some time and in that sense this is a dream come 
+true. However, to make it work I&#8217;ve had to reduce my time at a career I 
+was previously passionate about as much as they would let me without 
+losing health insurance, while also balancing caring for an ongoing 
+critical health issue for a close family member that arose last year. 
+And then there&#8217;s the chip shortage, which is still not resolved for many 
+of my parts. I&#8217;m not one to lean on excuses, but, it hasn&#8217;t been cake a 
+walk. No one, /no one/, wants to have phones in customers hands more 
+than me. The idea that we&#8217;ll be at the point in the next couple months 
+where every single day isn&#8217;t overwhelmingly stressful for me&#8230; it almost 
+sounds to nice to be real. But I&#8217;m confident about it.
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: &lt;<A HREF="http://skysedge.com/pipermail/rotaryun-smartphone_skysedge.com/attachments/20221115/37e3ce82/attachment.html">http://skysedge.com/pipermail/rotaryun-smartphone_skysedge.com/attachments/20221115/37e3ce82/attachment.html</A>&gt;
+</PRE>
+
+<!--endarticle-->
+    <HR>
+    <P><UL>
+        <!--threads-->
+	
+	
+         <LI> <B>Messages sorted by:</B> 
+              <a href="date.html#16">[ date ]</a>
+              <a href="thread.html#16">[ thread ]</a>
+              <a href="subject.html#16">[ subject ]</a>
+              <a href="author.html#16">[ author ]</a>
+         </LI>
+       </UL>
+
+<hr>
+<a href="../../../mailman/listinfo/rotaryun-smartphone_skysedge.com.html">More information about the RotaryUn-Smartphone
+mailing list</a><br>
+</body></html>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+	<link rel="self" type="application/atom+xml" href="https://skysedge.com/forum/app.php/feed/topic/118" />
+
+	<title>A Forum at Sky's Edge</title>
+	<subtitle>A Forum at Sky&#039;s Edge</subtitle>
+	<link href="https://skysedge.com/forum/index.php" />
+	<updated>2024-06-20T05:02:19</updated>
+
+	<author><name><![CDATA[A Forum at Sky's Edge]]></name></author>
+	<id>https://skysedge.com/forum/app.php/feed/topic/118</id>
+
+		<entry>
+		<author><name><![CDATA[imyxh]]></name></author>
+		<updated>2024-06-20T05:02:19</updated>
+
+		<published>2024-06-20T05:02:19</published>
+		<id>https://skysedge.com/forum/viewtopic.php?p=307#p307</id>
+		<link href="https://skysedge.com/forum/viewtopic.php?p=307#p307"/>
+		<title type="html"><![CDATA[Re: RUSP Hot-Spot]]></title>
+
+		
+		<content type="html" xml:base="https://skysedge.com/forum/viewtopic.php?p=307#p307"><![CDATA[
+To my knowledge there is no current hardware capability for the RUSP to connect to or create 802.11 (WiFi) networks. The modem we use just doesn't do that. But I like the idea....<p>Statistics: Posted by <a href="https://skysedge.com/forum/memberlist.php?mode=viewprofile&amp;u=188">imyxh</a> — Thu Jun 20, 2024 5:02 am</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[Chris]]></name></author>
+		<updated>2024-04-16T02:52:44</updated>
+
+		<published>2024-04-16T02:52:44</published>
+		<id>https://skysedge.com/forum/viewtopic.php?p=281#p281</id>
+		<link href="https://skysedge.com/forum/viewtopic.php?p=281#p281"/>
+		<title type="html"><![CDATA[RUSP Hot-Spot]]></title>
+
+		
+		<content type="html" xml:base="https://skysedge.com/forum/viewtopic.php?p=281#p281"><![CDATA[
+Is it possible for RUSP to be a hot-spot?<br>I use my phone as a hot-spot when I'm out and about and I need to connect.<br><br>Does the chip set even support such a thing or would that call for a redesign?<br><br>I can't wait to ditch my Samsung, I'm really happy to hear about the great progress being made.<br><br>Chris<p>Statistics: Posted by <a href="https://skysedge.com/forum/memberlist.php?mode=viewprofile&amp;u=178">Chris</a> — Tue Apr 16, 2024 2:52 am</p><hr />
+]]></content>
+	</entry>
+	</feed>

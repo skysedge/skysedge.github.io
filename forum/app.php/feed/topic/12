@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+	<link rel="self" type="application/atom+xml" href="https://skysedge.com/forum/app.php/feed/topic/12" />
+
+	<title>A Forum at Sky's Edge</title>
+	<subtitle>A Forum at Sky&#039;s Edge</subtitle>
+	<link href="https://skysedge.com/forum/index.php" />
+	<updated>2023-11-10T03:30:17</updated>
+
+	<author><name><![CDATA[A Forum at Sky's Edge]]></name></author>
+	<id>https://skysedge.com/forum/app.php/feed/topic/12</id>
+
+		<entry>
+		<author><name><![CDATA[justine]]></name></author>
+		<updated>2023-11-10T03:30:17</updated>
+
+		<published>2023-11-10T03:30:17</published>
+		<id>https://skysedge.com/forum/viewtopic.php?p=234#p234</id>
+		<link href="https://skysedge.com/forum/viewtopic.php?p=234#p234"/>
+		<title type="html"><![CDATA[Re: is tethered mode possible]]></title>
+
+		
+		<content type="html" xml:base="https://skysedge.com/forum/viewtopic.php?p=234#p234"><![CDATA[
+The LARA doesn't have a bluetooth radio :/<br><br>It's something I wanted to incorporate for hands-free car calling but it turned into too much scope creep so I didn't go down that path for now.<p>Statistics: Posted by <a href="https://skysedge.com/forum/memberlist.php?mode=viewprofile&amp;u=58">justine</a> — Fri Nov 10, 2023 3:30 am</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[Anjin]]></name></author>
+		<updated>2023-10-09T04:03:34</updated>
+
+		<published>2023-10-09T04:03:34</published>
+		<id>https://skysedge.com/forum/viewtopic.php?p=216#p216</id>
+		<link href="https://skysedge.com/forum/viewtopic.php?p=216#p216"/>
+		<title type="html"><![CDATA[Re: is tethered mode possible]]></title>
+
+		
+		<content type="html" xml:base="https://skysedge.com/forum/viewtopic.php?p=216#p216"><![CDATA[
+How about bluetooth 'tethering'. Bond with another device and act as a Bluetooth phone, dialer, etc.  This would allow a user to choose between a new number, or just share with an existing device for network access.  <br><br>Cheers<br>Anjin<p>Statistics: Posted by <a href="https://skysedge.com/forum/memberlist.php?mode=viewprofile&amp;u=132">Anjin</a> — Mon Oct 09, 2023 4:03 am</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[justine]]></name></author>
+		<updated>2023-04-22T16:04:05</updated>
+
+		<published>2023-04-22T16:04:05</published>
+		<id>https://skysedge.com/forum/viewtopic.php?p=155#p155</id>
+		<link href="https://skysedge.com/forum/viewtopic.php?p=155#p155"/>
+		<title type="html"><![CDATA[Re: is tethered mode possible]]></title>
+
+		
+		<content type="html" xml:base="https://skysedge.com/forum/viewtopic.php?p=155#p155"><![CDATA[
+It's not possible yet, but it seems like something I should be able to implement with the current hardware design. Basically there needs to be a software bridge to the USB-C port. <br><br>~Justine<p>Statistics: Posted by <a href="https://skysedge.com/forum/memberlist.php?mode=viewprofile&amp;u=58">justine</a> — Sat Apr 22, 2023 4:04 pm</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[edennnnnn]]></name></author>
+		<updated>2023-03-28T18:20:34</updated>
+
+		<published>2023-03-28T18:20:34</published>
+		<id>https://skysedge.com/forum/viewtopic.php?p=146#p146</id>
+		<link href="https://skysedge.com/forum/viewtopic.php?p=146#p146"/>
+		<title type="html"><![CDATA[Re: is tethered mode possible]]></title>
+
+		
+		<content type="html" xml:base="https://skysedge.com/forum/viewtopic.php?p=146#p146"><![CDATA[
+i would also like to be able to tether the RUSP. putting the screen away, but still having internet access if necessary would be my absolute best use case.<p>Statistics: Posted by <a href="https://skysedge.com/forum/memberlist.php?mode=viewprofile&amp;u=123">edennnnnn</a> — Tue Mar 28, 2023 6:20 pm</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[instantchow]]></name></author>
+		<updated>2022-09-14T21:12:41</updated>
+
+		<published>2022-09-14T21:12:41</published>
+		<id>https://skysedge.com/forum/viewtopic.php?p=20#p20</id>
+		<link href="https://skysedge.com/forum/viewtopic.php?p=20#p20"/>
+		<title type="html"><![CDATA[is tethered mode possible]]></title>
+
+		
+		<content type="html" xml:base="https://skysedge.com/forum/viewtopic.php?p=20#p20"><![CDATA[
+Not very familiar with the ublox line up, (or any embedded cellular phone chip for that matter), however, I'm curious if you know if it would be possible to set the module to bridge ip mode to perhaps the USB Serial SLIP =)<p>Statistics: Posted by <a href="https://skysedge.com/forum/memberlist.php?mode=viewprofile&amp;u=89">instantchow</a> — Wed Sep 14, 2022 9:12 pm</p><hr />
+]]></content>
+	</entry>
+	</feed>

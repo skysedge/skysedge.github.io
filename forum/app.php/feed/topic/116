@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+	<link rel="self" type="application/atom+xml" href="https://skysedge.com/forum/app.php/feed/topic/116" />
+
+	<title>A Forum at Sky's Edge</title>
+	<subtitle>A Forum at Sky&#039;s Edge</subtitle>
+	<link href="https://skysedge.com/forum/index.php" />
+	<updated>2024-03-10T15:30:21</updated>
+
+	<author><name><![CDATA[A Forum at Sky's Edge]]></name></author>
+	<id>https://skysedge.com/forum/app.php/feed/topic/116</id>
+
+		<entry>
+		<author><name><![CDATA[FastBlinker]]></name></author>
+		<updated>2024-03-10T15:30:21</updated>
+
+		<published>2024-03-10T15:30:21</published>
+		<id>https://skysedge.com/forum/viewtopic.php?p=272#p272</id>
+		<link href="https://skysedge.com/forum/viewtopic.php?p=272#p272"/>
+		<title type="html"><![CDATA[Re: Battery overdrain]]></title>
+
+		
+		<content type="html" xml:base="https://skysedge.com/forum/viewtopic.php?p=272#p272"><![CDATA[
+Update: can't get it to charge, when I have some time i'll try to bypass the battery management module and give a slight charge to the cells and see if that will wake them up, my main problem is that there is no connector for the battery so it is going to be a hassle to disconnect and reconnect it.<br><br>UPDATE!! if this happened to anyone else I was able to get the battery going by applying 3.7 volts to the plus and minus tabs near the battery. I charged the battery from there until the battery voltage was up to 3,6 volts and then I plugged in the USB C charger and now its charging fine. The battery itself has a BMS built in but it seems that Justine must has integrated some type of protection on the phone side also because otherwise I can't explain why it wouldn't have charged via USB C but connecting directly to the battery which has its own BMS yes. <img class="smilies" src="https://skysedge.com/forum/images/smilies/icon_idea.gif" width="15" height="17" alt=":idea:" title="Idea">  <img class="smilies" src="https://skysedge.com/forum/images/smilies/icon_idea.gif" width="15" height="17" alt=":idea:" title="Idea">  <img class="smilies" src="https://skysedge.com/forum/images/smilies/icon_idea.gif" width="15" height="17" alt=":idea:" title="Idea">  <img class="smilies" src="https://skysedge.com/forum/images/smilies/icon_idea.gif" width="15" height="17" alt=":idea:" title="Idea"><p>Statistics: Posted by <a href="https://skysedge.com/forum/memberlist.php?mode=viewprofile&amp;u=161">FastBlinker</a> — Sun Mar 10, 2024 3:30 pm</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[FastBlinker]]></name></author>
+		<updated>2024-03-09T20:58:35</updated>
+
+		<published>2024-03-09T20:58:35</published>
+		<id>https://skysedge.com/forum/viewtopic.php?p=271#p271</id>
+		<link href="https://skysedge.com/forum/viewtopic.php?p=271#p271"/>
+		<title type="html"><![CDATA[Battery overdrain]]></title>
+
+		
+		<content type="html" xml:base="https://skysedge.com/forum/viewtopic.php?p=271#p271"><![CDATA[
+Try not to forget the phone on I was playing with it on Friday night and forgot it on now its Saturday night and the battery is dead and it seems like it got over discharged because the phone isn't charging any more. The phone will start up with external power and the charge light does come on if the power switch is on but it restarts every once in awhile and if you turn the power switch off there is no charge light. Going to leave it on charge overnight and see if it decides to recharge.<p>Statistics: Posted by <a href="https://skysedge.com/forum/memberlist.php?mode=viewprofile&amp;u=161">FastBlinker</a> — Sat Mar 09, 2024 8:58 pm</p><hr />
+]]></content>
+	</entry>
+	</feed>

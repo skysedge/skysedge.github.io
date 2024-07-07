@@ -1,0 +1,190 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+ <HEAD>
+   <TITLE> Rotary Un-Smartphone Fixy Fix Update
+   </TITLE>
+   <LINK REL="Index" HREF="http://skysedge.com/pipermail/rotaryun-smartphone_skysedge.com/2022-December/index.html" >
+   <LINK REL="made" HREF="mailto:rotaryun-smartphone%40skysedge.com?Subject=Re%3A%20Rotary%20Un-Smartphone%20Fixy%20Fix%20Update&In-Reply-To=%3C4fc0d1dd-7f28-5837-85de-e665d0851105%40skysedge.com%3E">
+   <META NAME="robots" CONTENT="index,nofollow">
+   <style type="text/css">
+       pre {
+           white-space: pre-wrap;       /* css-2.1, curent FF, Opera, Safari */
+           }
+   </style>
+   <META http-equiv="Content-Type" content="text/html; charset=us-ascii">
+   
+   <LINK REL="Next"  HREF="000018.html">
+ </HEAD>
+ <BODY BGCOLOR="#ffffff">
+   <H1>Rotary Un-Smartphone Fixy Fix Update</H1>
+    <B>Justine Haupt</B> 
+    <A HREF="mailto:rotaryun-smartphone%40skysedge.com?Subject=Re%3A%20Rotary%20Un-Smartphone%20Fixy%20Fix%20Update&In-Reply-To=%3C4fc0d1dd-7f28-5837-85de-e665d0851105%40skysedge.com%3E"
+       TITLE="Rotary Un-Smartphone Fixy Fix Update">justine at skysedge.com
+       </A><BR>
+    <I>Sat Dec 17 16:10:04 EST 2022</I>
+    <P><UL>
+        
+        <LI>Next message (by thread): <A HREF="000018.html">Rotary Un-Smartphone: Assembly Guide and Design Files
+</A></li>
+         <LI> <B>Messages sorted by:</B> 
+              <a href="date.html#17">[ date ]</a>
+              <a href="thread.html#17">[ thread ]</a>
+              <a href="subject.html#17">[ subject ]</a>
+              <a href="author.html#17">[ author ]</a>
+         </LI>
+       </UL>
+    <HR>  
+<!--beginarticle-->
+<PRE>Since my last big update (11/15), in addition to fixing the critical 
+issue of the rotary dial not producing numbers consistently, I wanted to 
+fix as many of the other little issues I mentioned as possible. This is 
+where I am with it, but there's a TL;DR at the end:
+
+-Rotary dial reliability: *Fixed.* Hubby and I just took this clip the 
+other day demonstrating the fingerstop position detection working: 
+<A HREF="https://youtu.be/IzC9Kba0LX4">https://youtu.be/IzC9Kba0LX4</A>
+The video is showing debug firmware that's just flashing the white 
+filament LED every time the fingerstop is detected at its end stop, but 
+that's what was needed. HallSensor.jpg shows the main part of the actual 
+hardware design change.
+
+-Reception quality: *I think fixed.* I updated the daughterboard design 
+too to improve the internal antenna to a newer and more capable antenna 
+element. Daughterboard_BA.jpg shows the difference between old and new. 
+The band coverage of the internal antenna now better compliments that of 
+the external antenna.
+
+-Aux. jack: *Might be fixed.* I learned the reason the auxiliary headset 
+jack (the TRRS jack) wasn't working is because common headsets *always* 
+use single-ended audio, (i.e. one wire connected to the audio source and 
+the other connected to ground) and the audio codec on the RUSP provides 
+differential output (a speaker with both wires receiving the audio 
+waveform). I added a differential-to-single-ended audio output stage to 
+make this conversion, meaning the built-in speaker and mic are now also 
+single-ended. See AudioStage.jpg if interested. I don't know if this new 
+audio stage works or not yet (reason below), but it should. Also, if you 
+have a EE background and would like to be a second pair of eyes on the 
+schematic, please email me.
+
+-LEDs: Because the &quot;meter&quot; LEDs on the side of the phone are entirely 
+redundant considering the front OLED display is much better at 
+displaying battery level and signal strength, I decided to turn most of 
+them &quot;inward&quot; to illuminate the rotary mechanism while it's turning. 
+Just a neat aesthetic improvement. See NewLEDPositions.jpg.
+
+-Battery life and speaker phone: *Probably both fixed.* The headline for 
+this item is that***there's no longer a difference with the early-order 
+beta-test phones.* It's all the newest possible chipset (LARA). If you 
+want to know what this means and how it relates to the battery and 
+speaker phone issues, by all means read on:
+
+The phone was originally supposed to use a cellular modem from u-blox 
+called &quot;TOBY R-2&quot;. Over the course of designing the phone, I learned 
+from u-blox that the TOBY series was reaching end of life and that the 
+recommended replacement part is the u-blox LARA-R6. I'd already procured 
+enough TOBY modems for the first 200 or so orders, but in the interest 
+of having the best possible phone from the start I decided to transition 
+immediately to the newest version of the cellular modem (the ublox 
+LARA-R6) and NOT use any of the cellular modems that were designated for 
+the early-order phones. Those chips are now on ebay. This was 
+irresistible to me because the LARA has a much better low-power mode 
+that doesn't sacrifice detecting incoming calls, et cetera, and which 
+should at least double the phone's battery life. It also has pre-set 
+audio codec profiles for things like speakerphone, which was also giving 
+me trouble with the older (TOBY) cellular modem.
+
+The catch: Because of a baud-rate compatibility issue between the new 
+LARA and the phone's low-power microcontroller, I need to either 
+somewhat customize the phone's microcontroller's bootloader, or switch 
+to a similar, pin-compatible microcontroller (i.e. the ATmega1280, which 
+can run at 16MHz while powered by a lithium battery, as opposed to the 
+current ATmega2560V, which only runs at 8MHz), which should handle the 
+higher baud rates naturally. So that's what I'm working on now.
+
+*TL;DR: *The first-release of the phone is close to not having any 
+compromises, but now I have to fix the new problem that was created by 
+migrating to the newest cellular modem. I'm waiting for some new parts 
+to arrive and plan to sort through these last problems in the coming 
+week and get the first orders out the week after that.
+
+*Final thing* for this email: I'm faced with the reality of having to 
+sustain this company and be able to continue buying parts for future 
+batches, etc. I haven't, I would say, intentionally sought pre-order 
+customers before because there just seemed to be somewhat consistent 
+interest, and with that I've been able to finance all the development 
+costs with the pre-orders that just happened to come in. Kickstarter 
+without the Kicstarter so to say. But, I'm starting to stress a bit 
+about this as there are still long lead times on certain parts for 
+future batches, and this requires a &quot;front heavy&quot; spending profile 
+(yikes I'm turning into a business person).
+
+Once phones are actually in customers hands the dynamic will be 
+different and I'll feel OK about actually /trying/ to sell these, but 
+for now I'm not entirely sure what to do. At a certain point I'll need 
+to NOT be working out of a basement (I'm not sure if this is even 
+legal), and hire a couple people to help with ongoing manufacturing. 
+Making this transition from tiny business to less-tiny business is a 
+known tripping point for small business development from what I can 
+tell, but I guess I'm open to suggestions.
+
+~Justine
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: &lt;<A HREF="http://skysedge.com/pipermail/rotaryun-smartphone_skysedge.com/attachments/20221217/c700fac5/attachment-0001.html">http://skysedge.com/pipermail/rotaryun-smartphone_skysedge.com/attachments/20221217/c700fac5/attachment-0001.html</A>&gt;
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: AudioStage.jpg
+Type: image/jpeg
+Size: 954268 bytes
+Desc: not available
+URL: &lt;<A HREF="http://skysedge.com/pipermail/rotaryun-smartphone_skysedge.com/attachments/20221217/c700fac5/attachment-0005.jpg">http://skysedge.com/pipermail/rotaryun-smartphone_skysedge.com/attachments/20221217/c700fac5/attachment-0005.jpg</A>&gt;
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: Daughterboard_BA.jpg
+Type: image/jpeg
+Size: 993298 bytes
+Desc: not available
+URL: &lt;<A HREF="http://skysedge.com/pipermail/rotaryun-smartphone_skysedge.com/attachments/20221217/c700fac5/attachment-0006.jpg">http://skysedge.com/pipermail/rotaryun-smartphone_skysedge.com/attachments/20221217/c700fac5/attachment-0006.jpg</A>&gt;
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: HallSensor.jpg
+Type: image/jpeg
+Size: 803664 bytes
+Desc: not available
+URL: &lt;<A HREF="http://skysedge.com/pipermail/rotaryun-smartphone_skysedge.com/attachments/20221217/c700fac5/attachment-0007.jpg">http://skysedge.com/pipermail/rotaryun-smartphone_skysedge.com/attachments/20221217/c700fac5/attachment-0007.jpg</A>&gt;
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: Motherboard_BA.jpg
+Type: image/jpeg
+Size: 1173964 bytes
+Desc: not available
+URL: &lt;<A HREF="http://skysedge.com/pipermail/rotaryun-smartphone_skysedge.com/attachments/20221217/c700fac5/attachment-0008.jpg">http://skysedge.com/pipermail/rotaryun-smartphone_skysedge.com/attachments/20221217/c700fac5/attachment-0008.jpg</A>&gt;
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: NewLEDPositions.jpg
+Type: image/jpeg
+Size: 1807060 bytes
+Desc: not available
+URL: &lt;<A HREF="http://skysedge.com/pipermail/rotaryun-smartphone_skysedge.com/attachments/20221217/c700fac5/attachment-0009.jpg">http://skysedge.com/pipermail/rotaryun-smartphone_skysedge.com/attachments/20221217/c700fac5/attachment-0009.jpg</A>&gt;
+</PRE>
+
+
+<!--endarticle-->
+    <HR>
+    <P><UL>
+        <!--threads-->
+	
+	<LI>Next message (by thread): <A HREF="000018.html">Rotary Un-Smartphone: Assembly Guide and Design Files
+</A></li>
+         <LI> <B>Messages sorted by:</B> 
+              <a href="date.html#17">[ date ]</a>
+              <a href="thread.html#17">[ thread ]</a>
+              <a href="subject.html#17">[ subject ]</a>
+              <a href="author.html#17">[ author ]</a>
+         </LI>
+       </UL>
+
+<hr>
+<a href="../../../mailman/listinfo/rotaryun-smartphone_skysedge.com.html">More information about the RotaryUn-Smartphone
+mailing list</a><br>
+</body></html>

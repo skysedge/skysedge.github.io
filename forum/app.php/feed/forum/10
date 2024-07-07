@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+	<link rel="self" type="application/atom+xml" href="https://skysedge.com/forum/app.php/feed/forum/10" />
+
+	<title>A Forum at Sky's Edge</title>
+	<subtitle>A Forum at Sky&#039;s Edge</subtitle>
+	<link href="https://skysedge.com/forum/index.php" />
+	<updated>2024-07-04T09:25:54</updated>
+
+	<author><name><![CDATA[A Forum at Sky's Edge]]></name></author>
+	<id>https://skysedge.com/forum/app.php/feed/forum/10</id>
+
+		<entry>
+		<author><name><![CDATA[imyxh]]></name></author>
+		<updated>2024-07-04T09:25:54</updated>
+
+		<published>2024-07-04T09:25:54</published>
+		<id>https://skysedge.com/forum/viewtopic.php?p=320#p320</id>
+		<link href="https://skysedge.com/forum/viewtopic.php?p=320#p320"/>
+		<title type="html"><![CDATA[Rotary Un-Smartphone Builders • We have a blog now!]]></title>
+
+					<category term="Rotary Un-Smartphone Builders" scheme="https://skysedge.com/forum/viewforum.php?f=10" label="Rotary Un-Smartphone Builders"/>
+		
+		<content type="html" xml:base="https://skysedge.com/forum/viewtopic.php?p=320#p320"><![CDATA[
+See here: <a href="https://skysedge.github.io/blog" class="postlink">https://skysedge.github.io/blog</a> (and hopefully soon, skysedge.com/blog)<br><br>We'll likely transition the rest of the static websites under skysedge.com to be hosted on GitHub behind the scenes, as part of a process to open up our documentation and notes to community contributions.<br><br>More importantly, we'll be posting more regular updates on our production runs on the blog from now on. Sorry to keep everyone in the dark for so long.<p>Statistics: Posted by <a href="https://skysedge.com/forum/memberlist.php?mode=viewprofile&amp;u=188">imyxh</a> — Thu Jul 04, 2024 9:25 am</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[imyxh]]></name></author>
+		<updated>2024-07-02T07:23:45</updated>
+
+		<published>2024-07-02T07:23:45</published>
+		<id>https://skysedge.com/forum/viewtopic.php?p=319#p319</id>
+		<link href="https://skysedge.com/forum/viewtopic.php?p=319#p319"/>
+		<title type="html"><![CDATA[Rotary Un-Smartphone Builders • Re: Rotary cellphone to FR ?]]></title>
+
+					<category term="Rotary Un-Smartphone Builders" scheme="https://skysedge.com/forum/viewforum.php?f=10" label="Rotary Un-Smartphone Builders"/>
+		
+		<content type="html" xml:base="https://skysedge.com/forum/viewtopic.php?p=319#p319"><![CDATA[
+<blockquote class="uncited"><div>Hi !<br>Do you know if one day Justine would sell “already assembled” ones?</div></blockquote>We'd certainly like to. It's just that we are rather short-staffed (we're only volunteers!) at Sky's Edge that I'm not sure when we'll have production going fast enough for that. So at the minute, we are prioritizing kit orders.<p>Statistics: Posted by <a href="https://skysedge.com/forum/memberlist.php?mode=viewprofile&amp;u=188">imyxh</a> — Tue Jul 02, 2024 7:23 am</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[kerne]]></name></author>
+		<updated>2024-07-01T03:25:58</updated>
+
+		<published>2024-07-01T03:25:58</published>
+		<id>https://skysedge.com/forum/viewtopic.php?p=318#p318</id>
+		<link href="https://skysedge.com/forum/viewtopic.php?p=318#p318"/>
+		<title type="html"><![CDATA[Rotary Un-Smartphone Builders • Re: Eager to build but missing the PTFE filament]]></title>
+
+					<category term="Rotary Un-Smartphone Builders" scheme="https://skysedge.com/forum/viewforum.php?f=10" label="Rotary Un-Smartphone Builders"/>
+		
+		<content type="html" xml:base="https://skysedge.com/forum/viewtopic.php?p=318#p318"><![CDATA[
+I ordered a 10' length of 1.75mm PTFE rod from McMaster-Carr as mentioned in the "Missing Parts" thread.  If anyone else needs a piece I'd be happy to send it to you.<p>Statistics: Posted by <a href="https://skysedge.com/forum/memberlist.php?mode=viewprofile&amp;u=153">kerne</a> — Mon Jul 01, 2024 3:25 am</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[Tom]]></name></author>
+		<updated>2024-06-29T03:07:26</updated>
+
+		<published>2024-06-29T03:07:26</published>
+		<id>https://skysedge.com/forum/viewtopic.php?p=317#p317</id>
+		<link href="https://skysedge.com/forum/viewtopic.php?p=317#p317"/>
+		<title type="html"><![CDATA[Rotary Un-Smartphone Builders • Re: Missing Parts]]></title>
+
+					<category term="Rotary Un-Smartphone Builders" scheme="https://skysedge.com/forum/viewforum.php?f=10" label="Rotary Un-Smartphone Builders"/>
+		
+		<content type="html" xml:base="https://skysedge.com/forum/viewtopic.php?p=317#p317"><![CDATA[
+Just ordered one Molex P/N: 73116-044 from Digi-Key $10.31 including FedEx 5 day shipping.<p>Statistics: Posted by <a href="https://skysedge.com/forum/memberlist.php?mode=viewprofile&amp;u=192">Tom</a> — Sat Jun 29, 2024 3:07 am</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[WilfordJ]]></name></author>
+		<updated>2024-06-27T18:21:54</updated>
+
+		<published>2024-06-27T18:21:54</published>
+		<id>https://skysedge.com/forum/viewtopic.php?p=316#p316</id>
+		<link href="https://skysedge.com/forum/viewtopic.php?p=316#p316"/>
+		<title type="html"><![CDATA[Rotary Un-Smartphone Builders • Re: Rotary cellphone to FR ?]]></title>
+
+					<category term="Rotary Un-Smartphone Builders" scheme="https://skysedge.com/forum/viewforum.php?f=10" label="Rotary Un-Smartphone Builders"/>
+		
+		<content type="html" xml:base="https://skysedge.com/forum/viewtopic.php?p=316#p316"><![CDATA[
+<blockquote class="uncited"><div>Hey, sorry for the delay. I don't think anyone as yet can say for sure that the phone will work on FR networks, but we also don't know any reason why it <em class="text-italics">shouldn't</em>. The modem we use is a "global" version which should be compatible with the LTE infrastructure in France. The question is if the carriers for some reason decide to block our IMEI. Really we just need someone to try it!</div></blockquote>Hi !<br>Do you know if one day Justine would sell “already assembled” ones?<p>Statistics: Posted by <a href="https://skysedge.com/forum/memberlist.php?mode=viewprofile&amp;u=182">WilfordJ</a> — Thu Jun 27, 2024 6:21 pm</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[Tom]]></name></author>
+		<updated>2024-06-23T21:14:23</updated>
+
+		<published>2024-06-23T21:14:23</published>
+		<id>https://skysedge.com/forum/viewtopic.php?p=315#p315</id>
+		<link href="https://skysedge.com/forum/viewtopic.php?p=315#p315"/>
+		<title type="html"><![CDATA[Rotary Un-Smartphone Builders • Bell Arm Mounting Errata]]></title>
+
+					<category term="Rotary Un-Smartphone Builders" scheme="https://skysedge.com/forum/viewforum.php?f=10" label="Rotary Un-Smartphone Builders"/>
+		
+		<content type="html" xml:base="https://skysedge.com/forum/viewtopic.php?p=315#p315"><![CDATA[
+Page 12 indicates the Bell arm to be attached via M2 Locknut, however the daughter board as received has a threaded insert in the board now. No issues... just one for the errata sheet. (screen caps for clarity)<div class="inline-attachment"><dl class="file"><dt class="attach-image"><img src="https://skysedge.com/forum/download/file.php?id=31" class="postimage" alt="Screenshot 2024-06-23 at 2.06.14 PM.png" onclick="viewableArea(this);" /></dt></dl></div>(holding the daughter board... with bell arm mounted to threaded insert. <div class="inline-attachment"><dl class="file"><dt class="attach-image"><img src="https://skysedge.com/forum/download/file.php?id=32" class="postimage" alt="Screenshot 2024-06-23 at 2.10.58 PM.jpg" onclick="viewableArea(this);" /></dt></dl></div><p>Statistics: Posted by <a href="https://skysedge.com/forum/memberlist.php?mode=viewprofile&amp;u=192">Tom</a> — Sun Jun 23, 2024 9:14 pm</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[Tom]]></name></author>
+		<updated>2024-06-23T20:43:24</updated>
+
+		<published>2024-06-23T20:43:24</published>
+		<id>https://skysedge.com/forum/viewtopic.php?p=314#p314</id>
+		<link href="https://skysedge.com/forum/viewtopic.php?p=314#p314"/>
+		<title type="html"><![CDATA[Rotary Un-Smartphone Builders • Re: Missing Parts]]></title>
+
+					<category term="Rotary Un-Smartphone Builders" scheme="https://skysedge.com/forum/viewforum.php?f=10" label="Rotary Un-Smartphone Builders"/>
+		
+		<content type="html" xml:base="https://skysedge.com/forum/viewtopic.php?p=314#p314"><![CDATA[
+Also missing the 1 of 2 uFL Coax Cables over here. Wondering the same as Sturla.<p>Statistics: Posted by <a href="https://skysedge.com/forum/memberlist.php?mode=viewprofile&amp;u=192">Tom</a> — Sun Jun 23, 2024 8:43 pm</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[S_Bang]]></name></author>
+		<updated>2024-06-22T13:50:35</updated>
+
+		<published>2024-06-22T13:50:35</published>
+		<id>https://skysedge.com/forum/viewtopic.php?p=313#p313</id>
+		<link href="https://skysedge.com/forum/viewtopic.php?p=313#p313"/>
+		<title type="html"><![CDATA[Rotary Un-Smartphone Builders • Re: Missing Parts]]></title>
+
+					<category term="Rotary Un-Smartphone Builders" scheme="https://skysedge.com/forum/viewforum.php?f=10" label="Rotary Un-Smartphone Builders"/>
+		
+		<content type="html" xml:base="https://skysedge.com/forum/viewtopic.php?p=313#p313"><![CDATA[
+Missing 1x uFL Coax Cable<br>Hi. We have arrived at the point where we need the SECOND uFL Coax Cable, but can not find it in bag D or anywhere else for that matter. Is this a sort of cable I can buy online or something, or else can you send me one please? <br>I also was a couple of screws short, and one brass washer, but we found replacements at the back of a drawer ; ) <br><br>All the best, Sturla<p>Statistics: Posted by <a href="https://skysedge.com/forum/memberlist.php?mode=viewprofile&amp;u=170">S_Bang</a> — Sat Jun 22, 2024 1:50 pm</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[WilfordJ]]></name></author>
+		<updated>2024-06-21T19:45:28</updated>
+
+		<published>2024-06-21T19:45:28</published>
+		<id>https://skysedge.com/forum/viewtopic.php?p=312#p312</id>
+		<link href="https://skysedge.com/forum/viewtopic.php?p=312#p312"/>
+		<title type="html"><![CDATA[Rotary Un-Smartphone Builders • Re: Rotary cellphone to FR ?]]></title>
+
+					<category term="Rotary Un-Smartphone Builders" scheme="https://skysedge.com/forum/viewforum.php?f=10" label="Rotary Un-Smartphone Builders"/>
+		
+		<content type="html" xml:base="https://skysedge.com/forum/viewtopic.php?p=312#p312"><![CDATA[
+Hi ,<br><br>thank you for the answer<br>I'm waiting for the next news about this amazing device<br>before I decide<br><br>sorry also for the delay<p>Statistics: Posted by <a href="https://skysedge.com/forum/memberlist.php?mode=viewprofile&amp;u=182">WilfordJ</a> — Fri Jun 21, 2024 7:45 pm</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[zero1tango]]></name></author>
+		<updated>2024-06-21T03:31:41</updated>
+
+		<published>2024-06-21T03:31:41</published>
+		<id>https://skysedge.com/forum/viewtopic.php?p=311#p311</id>
+		<link href="https://skysedge.com/forum/viewtopic.php?p=311#p311"/>
+		<title type="html"><![CDATA[Rotary Un-Smartphone Builders • Re: Does it play a dial tone?]]></title>
+
+					<category term="Rotary Un-Smartphone Builders" scheme="https://skysedge.com/forum/viewforum.php?f=10" label="Rotary Un-Smartphone Builders"/>
+		
+		<content type="html" xml:base="https://skysedge.com/forum/viewtopic.php?p=311#p311"><![CDATA[
+Good idea!  The ability to dial DTMF tones during an active call is a required feature to be able use the RUSP with phone menus.<p>Statistics: Posted by <a href="https://skysedge.com/forum/memberlist.php?mode=viewprofile&amp;u=166">zero1tango</a> — Fri Jun 21, 2024 3:31 am</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[imyxh]]></name></author>
+		<updated>2024-06-20T05:23:23</updated>
+
+		<published>2024-06-20T05:23:23</published>
+		<id>https://skysedge.com/forum/viewtopic.php?p=310#p310</id>
+		<link href="https://skysedge.com/forum/viewtopic.php?p=310#p310"/>
+		<title type="html"><![CDATA[Rotary Un-Smartphone Builders • Re: Rotary cellphone to FR ?]]></title>
+
+					<category term="Rotary Un-Smartphone Builders" scheme="https://skysedge.com/forum/viewforum.php?f=10" label="Rotary Un-Smartphone Builders"/>
+		
+		<content type="html" xml:base="https://skysedge.com/forum/viewtopic.php?p=310#p310"><![CDATA[
+Hey, sorry for the delay. I don't think anyone as yet can say for sure that the phone will work on FR networks, but we also don't know any reason why it <em class="text-italics">shouldn't</em>. The modem we use is a "global" version which should be compatible with the LTE infrastructure in France. The question is if the carriers for some reason decide to block our IMEI. Really we just need someone to try it!<p>Statistics: Posted by <a href="https://skysedge.com/forum/memberlist.php?mode=viewprofile&amp;u=188">imyxh</a> — Thu Jun 20, 2024 5:23 am</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[imyxh]]></name></author>
+		<updated>2024-06-20T05:20:45</updated>
+
+		<published>2024-06-20T05:20:45</published>
+		<id>https://skysedge.com/forum/viewtopic.php?p=309#p309</id>
+		<link href="https://skysedge.com/forum/viewtopic.php?p=309#p309"/>
+		<title type="html"><![CDATA[Rotary Un-Smartphone Builders • Re: I am confused, I think]]></title>
+
+					<category term="Rotary Un-Smartphone Builders" scheme="https://skysedge.com/forum/viewforum.php?f=10" label="Rotary Un-Smartphone Builders"/>
+		
+		<content type="html" xml:base="https://skysedge.com/forum/viewtopic.php?p=309#p309"><![CDATA[
+See here for updates on the whole carrier registration thing: <a href="https://skysedge.com/forum/viewtopic.php?p=308#p308" class="postlink">viewtopic.php?p=308#p308</a><p>Statistics: Posted by <a href="https://skysedge.com/forum/memberlist.php?mode=viewprofile&amp;u=188">imyxh</a> — Thu Jun 20, 2024 5:20 am</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[imyxh]]></name></author>
+		<updated>2024-06-20T05:17:51</updated>
+
+		<published>2024-06-20T05:17:51</published>
+		<id>https://skysedge.com/forum/viewtopic.php?p=308#p308</id>
+		<link href="https://skysedge.com/forum/viewtopic.php?p=308#p308"/>
+		<title type="html"><![CDATA[Rotary Un-Smartphone Builders • Re: North American Mobile Networks]]></title>
+
+					<category term="Rotary Un-Smartphone Builders" scheme="https://skysedge.com/forum/viewforum.php?f=10" label="Rotary Un-Smartphone Builders"/>
+		
+		<content type="html" xml:base="https://skysedge.com/forum/viewtopic.php?p=308#p308"><![CDATA[
+So, as someone who has worked a little on the firmware for the RUSP, here is my perspective.<br><br>Dan mentioned this in another thread:<br><blockquote class="uncited"><div>From what I understand about the phone working on US networks, the issue is Carriers  have added the requirement that all phones pass certain independent lab testing before being allowed on their networks.  That testing requires the FCC license to be granted/completed.  <br><br>The initial kits that have gone out are pretty much experimental to see if the assembly process works for people and if anyone can find a network that they can operate on.  As far as I can tell, most are working on these as a secondary project when they have the spare time so there haven't been any reports of success.</div></blockquote>Until very recently, this was Justine's experience. But in the process of assembling some new phones, and after we decided to start rewriting the firmware, we actually got network registration (and calling, and receiving calls, and sending texts via the serial console....) to work. Or at least we did with one AT&amp;T prepaid SIM card, though I don't think it's limited to just AT&amp;T. We have not done any independent lab tests, or gotten any FCC licenses. So I now have no idea why it wasn't working before. It's possible the old firmware or hardware was simply buggy—when I get a chance, I'll try testing my T-Mobile SIM with both the new and old versions of the firmware. It's also possible that Justine did her earlier testing without the auxiliary antenna attached (which is better than the daughterboard antenna), or without the battery (which might be needed to power LARA's current spikes). Either way I think it was so long ago that whatever test configuration that first led Justine to conclude that the carriers were blocking us is lost to time.<br><br>In no way do I want to imply that if you buy a phone, it will definitely work on your carrier! I'm just sharing that somehow we actually managed to find success. If you'd like to compare new and old firmware, the new one is here: <a href="https://github.com/skysedge/rusp_firmware" class="postlink">https://github.com/skysedge/rusp_firmware</a><br><br>TL;DR: a couple weeks ago while we were messing around we discovered "oh, huh, it works" and I for one haven't yet figured out why it does now but didn't before <img class="smilies" src="https://skysedge.com/forum/images/smilies/icon_e_smile.gif" width="15" height="17" alt=":)" title="Smile"><p>Statistics: Posted by <a href="https://skysedge.com/forum/memberlist.php?mode=viewprofile&amp;u=188">imyxh</a> — Thu Jun 20, 2024 5:17 am</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[imyxh]]></name></author>
+		<updated>2024-06-20T05:02:19</updated>
+
+		<published>2024-06-20T05:02:19</published>
+		<id>https://skysedge.com/forum/viewtopic.php?p=307#p307</id>
+		<link href="https://skysedge.com/forum/viewtopic.php?p=307#p307"/>
+		<title type="html"><![CDATA[Rotary Un-Smartphone Builders • Re: RUSP Hot-Spot]]></title>
+
+					<category term="Rotary Un-Smartphone Builders" scheme="https://skysedge.com/forum/viewforum.php?f=10" label="Rotary Un-Smartphone Builders"/>
+		
+		<content type="html" xml:base="https://skysedge.com/forum/viewtopic.php?p=307#p307"><![CDATA[
+To my knowledge there is no current hardware capability for the RUSP to connect to or create 802.11 (WiFi) networks. The modem we use just doesn't do that. But I like the idea....<p>Statistics: Posted by <a href="https://skysedge.com/forum/memberlist.php?mode=viewprofile&amp;u=188">imyxh</a> — Thu Jun 20, 2024 5:02 am</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[imyxh]]></name></author>
+		<updated>2024-06-20T04:55:26</updated>
+
+		<published>2024-06-20T04:55:26</published>
+		<id>https://skysedge.com/forum/viewtopic.php?p=306#p306</id>
+		<link href="https://skysedge.com/forum/viewtopic.php?p=306#p306"/>
+		<title type="html"><![CDATA[Rotary Un-Smartphone Builders • Re: Pakistan's Compatibility]]></title>
+
+					<category term="Rotary Un-Smartphone Builders" scheme="https://skysedge.com/forum/viewforum.php?f=10" label="Rotary Un-Smartphone Builders"/>
+		
+		<content type="html" xml:base="https://skysedge.com/forum/viewtopic.php?p=306#p306"><![CDATA[
+Since we're using the LARA-R6001, my understanding is that technology-wise it <em class="text-italics">should</em> work with Pakistan. From what I'm reading Pakistan uses the 850 MHz and 1800 MHz LTE bands, which are both supported by the LARA. However, if your carrier does any sort of IMEI allowlisting (and whether they do even in the US seems to be a point of confusion) then all bets are off.<p>Statistics: Posted by <a href="https://skysedge.com/forum/memberlist.php?mode=viewprofile&amp;u=188">imyxh</a> — Thu Jun 20, 2024 4:55 am</p><hr />
+]]></content>
+	</entry>
+	</feed>

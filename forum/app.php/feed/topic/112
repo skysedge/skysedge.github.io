@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+	<link rel="self" type="application/atom+xml" href="https://skysedge.com/forum/app.php/feed/topic/112" />
+
+	<title>A Forum at Sky's Edge</title>
+	<subtitle>A Forum at Sky&#039;s Edge</subtitle>
+	<link href="https://skysedge.com/forum/index.php" />
+	<updated>2024-01-07T16:30:32</updated>
+
+	<author><name><![CDATA[A Forum at Sky's Edge]]></name></author>
+	<id>https://skysedge.com/forum/app.php/feed/topic/112</id>
+
+		<entry>
+		<author><name><![CDATA[zero1tango]]></name></author>
+		<updated>2024-01-07T16:30:32</updated>
+
+		<published>2024-01-07T16:30:32</published>
+		<id>https://skysedge.com/forum/viewtopic.php?p=261#p261</id>
+		<link href="https://skysedge.com/forum/viewtopic.php?p=261#p261"/>
+		<title type="html"><![CDATA[Re: Removing parts]]></title>
+
+		
+		<content type="html" xml:base="https://skysedge.com/forum/viewtopic.php?p=261#p261"><![CDATA[
+I had a similar problem which caused severe misalignment of the dial mechanism downstream. The problem appears to be that the diameter of the hole in the Faceboard may be too small to allow the Front Bearing Pad to seat flush with the Faceboard. The issue can be corrected by wrapping some aluminum oxide paper around your finger and sanding the inside of the Front Bearing Pad hole in the Faceboard to enlarge it slightly. User a dry press fit to test proper seating before applying any glue. You may need to do this several times. It will be a tight press fit but completely flush to the Faceboard all around (see attachments). Also be careful to align the registration nib on the Bearing Pad with the notch in the Faceboard so it is oriented correctly.<div class="inline-attachment"><dl class="file"><dt class="attach-image"><img src="https://skysedge.com/forum/download/file.php?id=24" class="postimage" alt="bad_bearing_pad_alignment.jpg" onclick="viewableArea(this);" /></dt></dl></div><div class="inline-attachment"><dl class="file"><dt class="attach-image"><img src="https://skysedge.com/forum/download/file.php?id=25" class="postimage" alt="good_bearing_pad_alignment.jpg" onclick="viewableArea(this);" /></dt></dl></div><p>Statistics: Posted by <a href="https://skysedge.com/forum/memberlist.php?mode=viewprofile&amp;u=166">zero1tango</a> — Sun Jan 07, 2024 4:30 pm</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[joelsef]]></name></author>
+		<updated>2023-12-02T19:07:29</updated>
+
+		<published>2023-12-02T19:07:29</published>
+		<id>https://skysedge.com/forum/viewtopic.php?p=259#p259</id>
+		<link href="https://skysedge.com/forum/viewtopic.php?p=259#p259"/>
+		<title type="html"><![CDATA[Re: Removing parts]]></title>
+
+		
+		<content type="html" xml:base="https://skysedge.com/forum/viewtopic.php?p=259#p259"><![CDATA[
+Alright. WD40 worked. So now I think the problem is that the Front Bearing and Faceplate parts are not to spec. They don't fit snugly together--the Front Bearing rides up on one side, and no matter what I do (and how much glue/plastic I shave off), the two parts do not fit together completely as shown in the instructions.<br><br>Justine, I assume these are supposed to fit together fully, correct? If so I may have some bad parts. <img class="smilies" src="https://skysedge.com/forum/images/smilies/icon_e_sad.gif" width="15" height="17" alt=":(" title="Sad"><dl class="file"><dt class="attach-image"><img src="https://skysedge.com/forum/download/file.php?id=23" class="postimage" alt="IMG_6443(1)-sm.jpg" onclick="viewableArea(this);" /></dt></dl><p>Statistics: Posted by <a href="https://skysedge.com/forum/memberlist.php?mode=viewprofile&amp;u=150">joelsef</a> — Sat Dec 02, 2023 7:07 pm</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[joelsef]]></name></author>
+		<updated>2023-12-02T18:48:11</updated>
+
+		<published>2023-12-02T18:48:11</published>
+		<id>https://skysedge.com/forum/viewtopic.php?p=258#p258</id>
+		<link href="https://skysedge.com/forum/viewtopic.php?p=258#p258"/>
+		<title type="html"><![CDATA[Removing parts]]></title>
+
+		
+		<content type="html" xml:base="https://skysedge.com/forum/viewtopic.php?p=258#p258"><![CDATA[
+I have to re-wind the Clock Spring, as it came unhooked as I was adjusting the rotary mechanism (almost done!). I think the issue is because I misaligned the Front Bearing Pad and Faceboard way back in the beginning, so the mother and daughter boards are not fitting as snug as needed.<br><br>Anyway, is there a good way to get these two super glued parts apart without damaging them? Before I put the Clock Spring back in, I want to make sure alignments are as perfect as possible so I can get that rotary mechanism just right!<dl class="file"><dt class="attach-image"><img src="https://skysedge.com/forum/download/file.php?id=22" class="postimage" alt="Screenshot 2023-12-02 134607.png" onclick="viewableArea(this);" /></dt></dl><p>Statistics: Posted by <a href="https://skysedge.com/forum/memberlist.php?mode=viewprofile&amp;u=150">joelsef</a> — Sat Dec 02, 2023 6:48 pm</p><hr />
+]]></content>
+	</entry>
+	</feed>

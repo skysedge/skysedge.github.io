@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+	<link rel="self" type="application/atom+xml" href="https://skysedge.com/forum/app.php/feed/topic/125" />
+
+	<title>A Forum at Sky's Edge</title>
+	<subtitle>A Forum at Sky&#039;s Edge</subtitle>
+	<link href="https://skysedge.com/forum/index.php" />
+	<updated>2024-06-18T14:31:22</updated>
+
+	<author><name><![CDATA[A Forum at Sky's Edge]]></name></author>
+	<id>https://skysedge.com/forum/app.php/feed/topic/125</id>
+
+		<entry>
+		<author><name><![CDATA[zero1tango]]></name></author>
+		<updated>2024-06-18T14:31:22</updated>
+
+		<published>2024-06-18T14:31:22</published>
+		<id>https://skysedge.com/forum/viewtopic.php?p=299#p299</id>
+		<link href="https://skysedge.com/forum/viewtopic.php?p=299#p299"/>
+		<title type="html"><![CDATA[Re: Dial returns too fast]]></title>
+
+		
+		<content type="html" xml:base="https://skysedge.com/forum/viewtopic.php?p=299#p299"><![CDATA[
+If the PTFE rods were cut too short it's likely that the Governor weights would move farther out and possibly rub against the sides of its depression in the Back Bearing Pad on the Daughterboard.  If anything, the dial would move more slowly or bind.  0.5 mm is specified but anything beyond 0.0 mm likely should have some effect.<br><br>More likely, if the Dial Mechanism returns too fast, it probably has been decoupled from the Governor.  Carefully check the alignment of the Governor and verify that the bottom part of its shaft is fully seated in its Bearing Pad and it makes contact with the Cam Gear.  Also make sure that the top end of the Governor shaft is fully seated in its hole in the Bearing Pad of the Daughterboard when it is mated to the Motherboard.<br><br>I had similar problems with the Dial Mechanism and just had to fiddle with it quite a bit to get it working properly.<p>Statistics: Posted by <a href="https://skysedge.com/forum/memberlist.php?mode=viewprofile&amp;u=166">zero1tango</a> — Tue Jun 18, 2024 2:31 pm</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[cehq]]></name></author>
+		<updated>2024-05-30T03:05:50</updated>
+
+		<published>2024-05-30T03:05:50</published>
+		<id>https://skysedge.com/forum/viewtopic.php?p=295#p295</id>
+		<link href="https://skysedge.com/forum/viewtopic.php?p=295#p295"/>
+		<title type="html"><![CDATA[Dial returns too fast]]></title>
+
+		
+		<content type="html" xml:base="https://skysedge.com/forum/viewtopic.php?p=295#p295"><![CDATA[
+Progress on the build has been rather smooth so far except for one issue. The dial returns way too fast. When I first assembled all the mechanical gear-y bits, the dial returned at a perfectly appropriate speed, but later on it snaps right back upon release. I completely disassembled the governor — where I'm pretty sure the issue lies — and cleaned the spring (which did have some grease on it) with alcohol, verified that it only turns the correct direction, and reassembled it. While I was first assembling the governor my only concern was that I may have cut the PTFE rods too short; could that be an issue? They do stand proud of the aluminum counterweights by at least a few tenths of a mm.<br><br>Any ideas or advice? (Did I miss something painfully obvious?)<p>Statistics: Posted by <a href="https://skysedge.com/forum/memberlist.php?mode=viewprofile&amp;u=187">cehq</a> — Thu May 30, 2024 3:05 am</p><hr />
+]]></content>
+	</entry>
+	</feed>

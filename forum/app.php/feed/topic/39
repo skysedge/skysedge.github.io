@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+	<link rel="self" type="application/atom+xml" href="https://skysedge.com/forum/app.php/feed/topic/39" />
+
+	<title>A Forum at Sky's Edge</title>
+	<subtitle>A Forum at Sky&#039;s Edge</subtitle>
+	<link href="https://skysedge.com/forum/index.php" />
+	<updated>2022-12-27T03:38:12</updated>
+
+	<author><name><![CDATA[A Forum at Sky's Edge]]></name></author>
+	<id>https://skysedge.com/forum/app.php/feed/topic/39</id>
+
+		<entry>
+		<author><name><![CDATA[andyinyakima]]></name></author>
+		<updated>2022-12-27T03:38:12</updated>
+
+		<published>2022-12-27T03:38:12</published>
+		<id>https://skysedge.com/forum/viewtopic.php?p=66#p66</id>
+		<link href="https://skysedge.com/forum/viewtopic.php?p=66#p66"/>
+		<title type="html"><![CDATA[Higher resolution encoder needed on hoverboard wheel]]></title>
+
+		
+		<content type="html" xml:base="https://skysedge.com/forum/viewtopic.php?p=66#p66"><![CDATA[
+I am playing around with my four wheel drive robot base  <a href="https://hackaday.io/project/187319-robot-donkeys" class="postlink">https://hackaday.io/project/187319-robot-donkeys</a>  and I am not liking the results. The hall sensor resolution of 4 degrees is just making the robot act weird. Does anyone have the details of how to add an optical or absolute encoder to a hoverboard wheel or know of a hoverboard wheel with 10" to 15" (preferably with off road tread) diameter with a high resolution encoder built in. Thanks for any leads!<p>Statistics: Posted by <a href="https://skysedge.com/forum/memberlist.php?mode=viewprofile&amp;u=109">andyinyakima</a> — Tue Dec 27, 2022 3:38 am</p><hr />
+]]></content>
+	</entry>
+	</feed>

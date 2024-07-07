@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+	<link rel="self" type="application/atom+xml" href="https://skysedge.com/forum/app.php/feed/topics" />
+
+	<title>A Forum at Sky's Edge</title>
+	<subtitle>A Forum at Sky&#039;s Edge</subtitle>
+	<link href="https://skysedge.com/forum/index.php" />
+	<updated>2024-07-04T09:25:54</updated>
+
+	<author><name><![CDATA[A Forum at Sky's Edge]]></name></author>
+	<id>https://skysedge.com/forum/app.php/feed/topics</id>
+
+		<entry>
+		<author><name><![CDATA[imyxh]]></name></author>
+		<updated>2024-07-04T09:25:54</updated>
+
+		<published>2024-07-04T09:25:54</published>
+		<id>https://skysedge.com/forum/viewtopic.php?p=320#p320</id>
+		<link href="https://skysedge.com/forum/viewtopic.php?p=320#p320"/>
+		<title type="html"><![CDATA[Rotary Un-Smartphone Builders • We have a blog now!]]></title>
+
+					<category term="Rotary Un-Smartphone Builders" scheme="https://skysedge.com/forum/viewforum.php?f=10" label="Rotary Un-Smartphone Builders"/>
+		
+		<content type="html" xml:base="https://skysedge.com/forum/viewtopic.php?p=320#p320"><![CDATA[
+See here: <a href="https://skysedge.github.io/blog" class="postlink">https://skysedge.github.io/blog</a> (and hopefully soon, skysedge.com/blog)<br><br>We'll likely transition the rest of the static websites under skysedge.com to be hosted on GitHub behind the scenes, as part of a process to open up our documentation and notes to community contributions.<br><br>More importantly, we'll be posting more regular updates on our production runs on the blog from now on. Sorry to keep everyone in the dark for so long.<p>Statistics: Posted by <a href="https://skysedge.com/forum/memberlist.php?mode=viewprofile&amp;u=188">imyxh</a> — Thu Jul 04, 2024 9:25 am — Replies 0 — Views 199</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[Tom]]></name></author>
+		<updated>2024-06-23T21:14:23</updated>
+
+		<published>2024-06-23T21:14:23</published>
+		<id>https://skysedge.com/forum/viewtopic.php?p=315#p315</id>
+		<link href="https://skysedge.com/forum/viewtopic.php?p=315#p315"/>
+		<title type="html"><![CDATA[Rotary Un-Smartphone Builders • Bell Arm Mounting Errata]]></title>
+
+					<category term="Rotary Un-Smartphone Builders" scheme="https://skysedge.com/forum/viewforum.php?f=10" label="Rotary Un-Smartphone Builders"/>
+		
+		<content type="html" xml:base="https://skysedge.com/forum/viewtopic.php?p=315#p315"><![CDATA[
+Page 12 indicates the Bell arm to be attached via M2 Locknut, however the daughter board as received has a threaded insert in the board now. No issues... just one for the errata sheet. (screen caps for clarity)<div class="inline-attachment"><dl class="file"><dt class="attach-image"><img src="https://skysedge.com/forum/download/file.php?id=31" class="postimage" alt="Screenshot 2024-06-23 at 2.06.14 PM.png" onclick="viewableArea(this);" /></dt></dl></div>(holding the daughter board... with bell arm mounted to threaded insert. <div class="inline-attachment"><dl class="file"><dt class="attach-image"><img src="https://skysedge.com/forum/download/file.php?id=32" class="postimage" alt="Screenshot 2024-06-23 at 2.10.58 PM.jpg" onclick="viewableArea(this);" /></dt></dl></div><p>Statistics: Posted by <a href="https://skysedge.com/forum/memberlist.php?mode=viewprofile&amp;u=192">Tom</a> — Sun Jun 23, 2024 9:14 pm — Replies 0 — Views 543</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[kerne]]></name></author>
+		<updated>2024-06-13T21:27:39</updated>
+
+		<published>2024-06-13T21:27:39</published>
+		<id>https://skysedge.com/forum/viewtopic.php?p=298#p298</id>
+		<link href="https://skysedge.com/forum/viewtopic.php?p=298#p298"/>
+		<title type="html"><![CDATA[Rotary Un-Smartphone Builders • Eager to build but missing the PTFE filament]]></title>
+
+					<category term="Rotary Un-Smartphone Builders" scheme="https://skysedge.com/forum/viewforum.php?f=10" label="Rotary Un-Smartphone Builders"/>
+		
+		<content type="html" xml:base="https://skysedge.com/forum/viewtopic.php?p=298#p298"><![CDATA[
+I happily received my kit a few weeks ago and was very much looking forward to assembling it, until I saw that the PTFE filament was missing.<br><br>I've emailed support and Justine and gotten no response yet.  Can anyone here point me to a source for the correct size filament so I can get to work on this awesome project?<p>Statistics: Posted by <a href="https://skysedge.com/forum/memberlist.php?mode=viewprofile&amp;u=153">kerne</a> — Thu Jun 13, 2024 9:27 pm — Replies 1 — Views 427</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[melduforx]]></name></author>
+		<updated>2024-06-07T00:25:42</updated>
+
+		<published>2024-06-07T00:25:42</published>
+		<id>https://skysedge.com/forum/viewtopic.php?p=296#p296</id>
+		<link href="https://skysedge.com/forum/viewtopic.php?p=296#p296"/>
+		<title type="html"><![CDATA[Rotary Un-Smartphone Builders • North American Mobile Networks]]></title>
+
+					<category term="Rotary Un-Smartphone Builders" scheme="https://skysedge.com/forum/viewforum.php?f=10" label="Rotary Un-Smartphone Builders"/>
+		
+		<content type="html" xml:base="https://skysedge.com/forum/viewtopic.php?p=296#p296"><![CDATA[
+Hi all!<br><br>I’ve been following this project for many years and decided to pull the trigger and buy it… then I saw the issue with connectivity to NA mobile networks.<br><br>Does anyone know which ones have been tested so far?  Or is it just simply not permitted on the network?<br><br>Is there an update on the regulatory approval?  I’d be happy to try a bunch of different companies if it looks like approval is going to take much longer.<br><br>Justine, if you’re reading this, I think this is a piece of tech art.  Great job on creating this!<br><br>Thanks.<p>Statistics: Posted by <a href="https://skysedge.com/forum/memberlist.php?mode=viewprofile&amp;u=189">melduforx</a> — Fri Jun 07, 2024 12:25 am — Replies 1 — Views 441</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[cehq]]></name></author>
+		<updated>2024-05-30T03:05:50</updated>
+
+		<published>2024-05-30T03:05:50</published>
+		<id>https://skysedge.com/forum/viewtopic.php?p=295#p295</id>
+		<link href="https://skysedge.com/forum/viewtopic.php?p=295#p295"/>
+		<title type="html"><![CDATA[Rotary Un-Smartphone Builders • Dial returns too fast]]></title>
+
+					<category term="Rotary Un-Smartphone Builders" scheme="https://skysedge.com/forum/viewforum.php?f=10" label="Rotary Un-Smartphone Builders"/>
+		
+		<content type="html" xml:base="https://skysedge.com/forum/viewtopic.php?p=295#p295"><![CDATA[
+Progress on the build has been rather smooth so far except for one issue. The dial returns way too fast. When I first assembled all the mechanical gear-y bits, the dial returned at a perfectly appropriate speed, but later on it snaps right back upon release. I completely disassembled the governor — where I'm pretty sure the issue lies — and cleaned the spring (which did have some grease on it) with alcohol, verified that it only turns the correct direction, and reassembled it. While I was first assembling the governor my only concern was that I may have cut the PTFE rods too short; could that be an issue? They do stand proud of the aluminum counterweights by at least a few tenths of a mm.<br><br>Any ideas or advice? (Did I miss something painfully obvious?)<p>Statistics: Posted by <a href="https://skysedge.com/forum/memberlist.php?mode=viewprofile&amp;u=187">cehq</a> — Thu May 30, 2024 3:05 am — Replies 1 — Views 6879</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[SohailAli]]></name></author>
+		<updated>2024-05-28T08:39:17</updated>
+
+		<published>2024-05-28T08:39:17</published>
+		<id>https://skysedge.com/forum/viewtopic.php?p=294#p294</id>
+		<link href="https://skysedge.com/forum/viewtopic.php?p=294#p294"/>
+		<title type="html"><![CDATA[Rotary Un-Smartphone Builders • Pakistan's Compatibility]]></title>
+
+					<category term="Rotary Un-Smartphone Builders" scheme="https://skysedge.com/forum/viewforum.php?f=10" label="Rotary Un-Smartphone Builders"/>
+		
+		<content type="html" xml:base="https://skysedge.com/forum/viewtopic.php?p=294#p294"><![CDATA[
+Will this be available for Asian market? Will there be any documentation on how to make it compatible for Pakistan or any other Asian market?<br><br>I was able to see the compatibility chart:<br><br>Lara-R6001 Global<br>Lara-R6801<br>Lara-R6401 North America<br><br>Unfortunately, No Asian country is mention on it. Any answer is appreciated. Amazing project and I am rooting for the inventor!<p>Statistics: Posted by <a href="https://skysedge.com/forum/memberlist.php?mode=viewprofile&amp;u=186">SohailAli</a> — Tue May 28, 2024 8:39 am — Replies 1 — Views 353</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[GeorgeR]]></name></author>
+		<updated>2024-05-26T15:16:19</updated>
+
+		<published>2024-05-26T15:16:19</published>
+		<id>https://skysedge.com/forum/viewtopic.php?p=292#p292</id>
+		<link href="https://skysedge.com/forum/viewtopic.php?p=292#p292"/>
+		<title type="html"><![CDATA[Rotary Un-Smartphone Builders • If only I could find the assembly instructions]]></title>
+
+					<category term="Rotary Un-Smartphone Builders" scheme="https://skysedge.com/forum/viewforum.php?f=10" label="Rotary Un-Smartphone Builders"/>
+		
+		<content type="html" xml:base="https://skysedge.com/forum/viewtopic.php?p=292#p292"><![CDATA[
+2 years 5 months and it’s finally here! <br><br>Tried the link for the assembly instructions and it doesn’t work, https://skysedge.com/unsmartphones gives me a 404 not found error. Can anyone point me to them?<br><br>-george<p>Statistics: Posted by <a href="https://skysedge.com/forum/memberlist.php?mode=viewprofile&amp;u=185">GeorgeR</a> — Sun May 26, 2024 3:16 pm — Replies 2 — Views 3035</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[Mayor West]]></name></author>
+		<updated>2024-05-24T04:16:42</updated>
+
+		<published>2024-05-24T04:16:42</published>
+		<id>https://skysedge.com/forum/viewtopic.php?p=290#p290</id>
+		<link href="https://skysedge.com/forum/viewtopic.php?p=290#p290"/>
+		<title type="html"><![CDATA[Rotary Un-Smartphone Builders • BBC article - &quot;People want 'dumbphones'.&quot;]]></title>
+
+					<category term="Rotary Un-Smartphone Builders" scheme="https://skysedge.com/forum/viewforum.php?f=10" label="Rotary Un-Smartphone Builders"/>
+		
+		<content type="html" xml:base="https://skysedge.com/forum/viewtopic.php?p=290#p290"><![CDATA[
+Recent article by the BBC about the neo-Luddites looking to disconnect from blue light overload and "touch grass" with simpler communication technology.<br><br><a href="https://www.bbc.com/future/article/20240515-the-dumbphones-people-want-are-hard-to-find" class="postlink">https://www.bbc.com/future/article/2024 ... rd-to-find</a><br><br>I thought this was a relevant take on something that we here knew for awhile, seems like we are legion and growing! Why can't old be done new, and why does getting "less" features relegate one to end-of-life technology??<br><br>PS - I reached out to the editor as well as the author about the RUSP Project and Justine's (and team) work, maybe a future update will include this slice of neo-Luddite nirvana.<p>Statistics: Posted by <a href="https://skysedge.com/forum/memberlist.php?mode=viewprofile&amp;u=184">Mayor West</a> — Fri May 24, 2024 4:16 am — Replies 0 — Views 657</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[S_Bang]]></name></author>
+		<updated>2024-05-12T14:39:45</updated>
+
+		<published>2024-05-12T14:39:45</published>
+		<id>https://skysedge.com/forum/viewtopic.php?p=288#p288</id>
+		<link href="https://skysedge.com/forum/viewtopic.php?p=288#p288"/>
+		<title type="html"><![CDATA[Rotary Un-Smartphone Builders • RUSP build, page 12, stage 4]]></title>
+
+					<category term="Rotary Un-Smartphone Builders" scheme="https://skysedge.com/forum/viewforum.php?f=10" label="Rotary Un-Smartphone Builders"/>
+		
+		<content type="html" xml:base="https://skysedge.com/forum/viewtopic.php?p=288#p288"><![CDATA[
+Hi. I have a question as to the fastening of the bell arm to the daughterboard, the kit was a couple of m2 screws short, but after locating two spare ones (tip- check all boxes and drawers, chances are some might just hang around in the corners buried in fluff) I have noticed that the daughterboard has nylon washer and nut prefixed, is this an upgrade on the daughterboard that deviates from the manual, or am I in some other way daft? So no nylstop nut on this one? <br><br>As an aside, really good project to do with both young and adult kids, the cool wonkiness of this project captivates their attention! <br><br>Cheers, sturla<p>Statistics: Posted by <a href="https://skysedge.com/forum/memberlist.php?mode=viewprofile&amp;u=170">S_Bang</a> — Sun May 12, 2024 2:39 pm — Replies 1 — Views 607</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[WilfordJ]]></name></author>
+		<updated>2024-05-02T15:52:20</updated>
+
+		<published>2024-05-02T15:52:20</published>
+		<id>https://skysedge.com/forum/viewtopic.php?p=286#p286</id>
+		<link href="https://skysedge.com/forum/viewtopic.php?p=286#p286"/>
+		<title type="html"><![CDATA[Rotary Un-Smartphone Builders • Rotary cellphone to FR ?]]></title>
+
+					<category term="Rotary Un-Smartphone Builders" scheme="https://skysedge.com/forum/viewforum.php?f=10" label="Rotary Un-Smartphone Builders"/>
+		
+		<content type="html" xml:base="https://skysedge.com/forum/viewtopic.php?p=286#p286"><![CDATA[
+hello ,<br><br>First of all, please forgive my bad English, I come from France<br><br>I have always liked this kind of project and I came across your "rotary cell-phone", which I find really original and surprising and I would like to know if I were to order it one day if it was compatible with the French telephone networks...<br><br>we operate at home, in 3G (2028) and 4G currently<p>Statistics: Posted by <a href="https://skysedge.com/forum/memberlist.php?mode=viewprofile&amp;u=182">WilfordJ</a> — Thu May 02, 2024 3:52 pm — Replies 6 — Views 2455</p><hr />
+]]></content>
+	</entry>
+	</feed>

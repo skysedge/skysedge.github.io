@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+	<link rel="self" type="application/atom+xml" href="https://skysedge.com/forum/app.php/feed/topic/124" />
+
+	<title>A Forum at Sky's Edge</title>
+	<subtitle>A Forum at Sky&#039;s Edge</subtitle>
+	<link href="https://skysedge.com/forum/index.php" />
+	<updated>2024-06-20T04:55:26</updated>
+
+	<author><name><![CDATA[A Forum at Sky's Edge]]></name></author>
+	<id>https://skysedge.com/forum/app.php/feed/topic/124</id>
+
+		<entry>
+		<author><name><![CDATA[imyxh]]></name></author>
+		<updated>2024-06-20T04:55:26</updated>
+
+		<published>2024-06-20T04:55:26</published>
+		<id>https://skysedge.com/forum/viewtopic.php?p=306#p306</id>
+		<link href="https://skysedge.com/forum/viewtopic.php?p=306#p306"/>
+		<title type="html"><![CDATA[Re: Pakistan's Compatibility]]></title>
+
+		
+		<content type="html" xml:base="https://skysedge.com/forum/viewtopic.php?p=306#p306"><![CDATA[
+Since we're using the LARA-R6001, my understanding is that technology-wise it <em class="text-italics">should</em> work with Pakistan. From what I'm reading Pakistan uses the 850 MHz and 1800 MHz LTE bands, which are both supported by the LARA. However, if your carrier does any sort of IMEI allowlisting (and whether they do even in the US seems to be a point of confusion) then all bets are off.<p>Statistics: Posted by <a href="https://skysedge.com/forum/memberlist.php?mode=viewprofile&amp;u=188">imyxh</a> — Thu Jun 20, 2024 4:55 am</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[SohailAli]]></name></author>
+		<updated>2024-05-28T08:39:17</updated>
+
+		<published>2024-05-28T08:39:17</published>
+		<id>https://skysedge.com/forum/viewtopic.php?p=294#p294</id>
+		<link href="https://skysedge.com/forum/viewtopic.php?p=294#p294"/>
+		<title type="html"><![CDATA[Pakistan's Compatibility]]></title>
+
+		
+		<content type="html" xml:base="https://skysedge.com/forum/viewtopic.php?p=294#p294"><![CDATA[
+Will this be available for Asian market? Will there be any documentation on how to make it compatible for Pakistan or any other Asian market?<br><br>I was able to see the compatibility chart:<br><br>Lara-R6001 Global<br>Lara-R6801<br>Lara-R6401 North America<br><br>Unfortunately, No Asian country is mention on it. Any answer is appreciated. Amazing project and I am rooting for the inventor!<p>Statistics: Posted by <a href="https://skysedge.com/forum/memberlist.php?mode=viewprofile&amp;u=186">SohailAli</a> — Tue May 28, 2024 8:39 am</p><hr />
+]]></content>
+	</entry>
+	</feed>

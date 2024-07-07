@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<!--
+    Ion by TEMPLATED    templated.co @templatedco    Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)    ==    Modified heavily by David van Popering    ==-->
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>RoboWheel Hub Motor for Robotics</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="../../images/favicon.png" sizes="32x32">
+    <meta property="og:image" content="/images/favicon.png">
+    <!-- title>Left Sidebar - Ion by TEMPLATED</title-->
+    <meta content="brushless, motor, hub motor, robotics, robot, BLDC, low speed, hoverboard"
+      name="keywords">
+    <meta content="Large low-cogging hub motor with integrated encoder and mounting flange for robots"
+      name="description">
+    <!--[if lte IE 8]><script src="js/html5shiv.js"></script><![endif]-->
+    <script src="js/jquery.min.js">
+    </script>
+    <script src="js/skel.min.js">
+    </script>
+    <script src="js/skel-layers.min.js">
+    </script>
+    <script src="js/init.js">
+    </script> <noscript>
+        <link href="css/skel.css" rel="stylesheet">
+        <link href="css/style.css" rel="stylesheet">
+        <link href="css/style-xlarge.css" rel="stylesheet">
+    </noscript>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Aref+Ruqaa">
+  </head>
+  <body id="top">
+    <!-- Header -->
+    <header class="skel-layers-fixed" id="header">
+      <!--TOP bar-->
+      <!-- Bootstrap core JavaScript
+    ================================================== -->
+      <!-- Placed at the end of the document so the pages load faster -->
+      <div class="row justify-content-center text-center text-muted ml-n1 mr-n1">
+        <div class="text-center col-md-2">
+          <div class="logo"> <a class="image fit" href="../../index.html"> <img src="../../images/SkysEdge_Blue_Small.png"
+                style="max-width:20%;height:auto;"> </a><br>
+          </div>
+        </div>
+        <nav id="nav" style="font-family: Aref Ruqaa;">
+          <ul>
+            <li> <a href="../../forum/index.html" target="_blank">Forum</a></li>
+            <li> <a href="../../philosophy/index.html">Open Source Rant</a> </li>
+            <li> <a href="../../work/index.html">The Purpose of Work</a> </li>
+            <li> <a href="../../future/index.html" target="_blank">Future Projects</a></li>
+            <li> <a href="../../about/index.html">Strange Company</a> </li>
+            <li> <a href="../../notes/index.html">Notes &amp; Links</a> </li>
+            <li>
+              <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr"
+                method="post"> <input name="cmd" value="_s-xclick" type="hidden">
+                <input name="encrypted" value="-----BEGIN PKCS7-----MIIG1QYJKoZIhvcNAQcEoIIGxjCCBsICAQExggEwMIIBLAIBADCBlDCBjjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtQYXlQYWwgSW5jLjETMBEGA1UECxQKbGl2ZV9jZXJ0czERMA8GA1UEAxQIbGl2ZV9hcGkxHDAaBgkqhkiG9w0BCQEWDXJlQHBheXBhbC5jb20CAQAwDQYJKoZIhvcNAQEBBQAEgYCGvqtxXMOCncgYN94TgerT45heuLoWfM1YfJEBnKiE+YFULlsgmKUyM6zmF+IguqaOWyaN64VWDlkUOckjE4xqq4PoLvj+VHYLbfgK2+b5jeWmi56yiU+61m5ld4a8g8T4xTu6lkmCH/BXaI0of9HDs1APLPn4DaZO7AG48bDeUzELMAkGBSsOAwIaBQAwUwYJKoZIhvcNAQcBMBQGCCqGSIb3DQMHBAg1KdW0Vq6b6IAwPD4YOFaIvj/qmX0+W/zFnTxuu0zAOPDdjsFNLSW495slUBYpuloy1cMpuLzgoyWmoIIDhzCCA4MwggLsoAMCAQICAQAwDQYJKoZIhvcNAQEFBQAwgY4xCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJDQTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEUMBIGA1UEChMLUGF5UGFsIEluYy4xEzARBgNVBAsUCmxpdmVfY2VydHMxETAPBgNVBAMUCGxpdmVfYXBpMRwwGgYJKoZIhvcNAQkBFg1yZUBwYXlwYWwuY29tMB4XDTA0MDIxMzEwMTMxNVoXDTM1MDIxMzEwMTMxNVowgY4xCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJDQTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEUMBIGA1UEChMLUGF5UGFsIEluYy4xEzARBgNVBAsUCmxpdmVfY2VydHMxETAPBgNVBAMUCGxpdmVfYXBpMRwwGgYJKoZIhvcNAQkBFg1yZUBwYXlwYWwuY29tMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDBR07d/ETMS1ycjtkpkvjXZe9k+6CieLuLsPumsJ7QC1odNz3sJiCbs2wC0nLE0uLGaEtXynIgRqIddYCHx88pb5HTXv4SZeuv0Rqq4+axW9PLAAATU8w04qqjaSXgbGLP3NmohqM6bV9kZZwZLR/klDaQGo1u9uDb9lr4Yn+rBQIDAQABo4HuMIHrMB0GA1UdDgQWBBSWn3y7xm8XvVk/UtcKG+wQ1mSUazCBuwYDVR0jBIGzMIGwgBSWn3y7xm8XvVk/UtcKG+wQ1mSUa6GBlKSBkTCBjjELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAkNBMRYwFAYDVQQHEw1Nb3VudGFpbiBWaWV3MRQwEgYDVQQKEwtQYXlQYWwgSW5jLjETMBEGA1UECxQKbGl2ZV9jZXJ0czERMA8GA1UEAxQIbGl2ZV9hcGkxHDAaBgkqhkiG9w0BCQEWDXJlQHBheXBhbC5jb22CAQAwDAYDVR0TBAUwAwEB/zANBgkqhkiG9w0BAQUFAAOBgQCBXzpWmoBa5e9fo6ujionW1hUhPkOBakTr3YCDjbYfvJEiv/2P+IobhOGJr85+XHhN0v4gUkEDI8r2/rNk1m0GA8HKddvTjyGw/XqXa+LSTlDYkqI8OwR8GEYj4efEtcRpRYBxV8KxAW93YDWzFGvruKnnLbDAF6VR5w/cCMn5hzGCAZowggGWAgEBMIGUMIGOMQswCQYDVQQGEwJVUzELMAkGA1UECBMCQ0ExFjAUBgNVBAcTDU1vdW50YWluIFZpZXcxFDASBgNVBAoTC1BheVBhbCBJbmMuMRMwEQYDVQQLFApsaXZlX2NlcnRzMREwDwYDVQQDFAhsaXZlX2FwaTEcMBoGCSqGSIb3DQEJARYNcmVAcGF5cGFsLmNvbQIBADAJBgUrDgMCGgUAoF0wGAYJKoZIhvcNAQkDMQsGCSqGSIb3DQEHATAcBgkqhkiG9w0BCQUxDxcNMjAwMzA2MDAzNzE4WjAjBgkqhkiG9w0BCQQxFgQU3R6eVZ2tI1Uob1OrQFIOn50QSYIwDQYJKoZIhvcNAQEBBQAEgYC7Kkess7WEqRiho4KA5OuuKbs/CLYA1rFbTomn1OCUZAnXsSY2tDIEIYvW8aJ2gvRxSDVcbDhSKE9C0uuy3MAiihTEdzUlo6uqs3CLtQ2nQeqvzDYEzx8HfoaQJlC+WNyLe8X+6yNcRGEsVsbTyyN8/apBVmeIb8/TyPSQQGK8TA==-----END PKCS7-----"
+                  type="hidden"> <input src="https://www.paypalobjects.com/en_US/i/btn/btn_viewcart_LG.gif"
+                  name="submit" alt="PayPal - The safer, easier way to pay online!"
+                  type="image" border="0"> <img alt="" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif"
+                  width="1" height="1" border="0"> </form>
+            </li>
+            <li> <a class="button special" href="../../contact/index.html">Contact</a>
+            </li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+    <!--END TOP bar-->
+    <!-- Main -->
+    <section class="wrapper style1" id="main">
+      <h1 style="font-family: Aref Ruqaa;" align="center">RoboWheel™</h1>
+      <h3 align="center">Hub motor for full-size domestic robots</h3>
+      <div class="col-md-5" align="center"> <img src="images/RWBanner.JPG" style="max-width:40%;height:auto;">
+      </div>
+      <div class="container"> <br>
+        <div class="row" align="center">
+          <div class="1u">
+            <h6>spacer</h6>
+          </div>
+          <div class="8u" align="left">
+            <section>
+              <p>Do we really want robots with loud gearmotors? No, we want the
+                simplicity, extreme reliability, and quiet operation of
+                direct-drive brushless motors. So say we all! The RoboWheel is a
+                large brushless hub motor (powered wheel) with a high-resolution
+                internal quadrature encoder and exceptionally low cogging,
+                intended for large domestic robots or similar projects needing
+                mobility. This is not open source (explanation below). </p>
+              <li>Approximate diameter of rolling surface: 170mm</li>
+              <li>No gears; completely silent</li>
+              <li>27 poles and 1.7Ω winding resistance for low cogging</li>
+              <li>Integrated 3200 PPR quadrature encoder</li>
+              <li>Operating voltage: 7-42V</li>
+              <li>Recommended controller: Pair with the <a href="../nearzero/index.html">NearZero</a>
+                to command with a few lines of Python on a Raspberry Pi or other
+                common SBC, or use the PWM outputs of an R/C receiver</li>
+              <br>
+              <div style="border:1px dotted black;padding-left:2em;padding-right:1em;padding-top:.5em;padding-bottom:1em">
+                <h3 align="center"><b><i>Documentation &amp; Files:</i></b></h3>
+                <li><a href="RoboWheel170_Datasheet.pdf">Datasheet</a>: Pinouts
+                  and mechanical specs</li>
+                <li><a href="designfiles.html">Mechanical model</a>: STEP file</li>
+                <li><a href="../robowheelbracket/designfiles.html">Optional
+                    Bracket</a>: STL files</li>
+                <li><a href="https://www.youtube.com/watch?v=OZvjfbpXpro">Video</a>:
+                  A thorough description of the RoboWheel and the NearZero
+                  controller</li>
+              </div>
+              <br>
+              <h3>Related Products:</h3>
+              <p><a href="../nearzero/index.html">NearZero</a> --
+                Brushless motor controller for robotics <br>
+                <a href="../nz+2rw/index.html">Robotics Mobility Package</a>
+                -- 2 Robowheels and 1 NearZero controller, discounted <br>
+                <a href="../robowheelbracket/index.html">Mounting Bracket</a>
+                -- Bolt the RoboWheel to a horizontal surface </p>
+              <h3>Personal note from the applications engineer:</h3>
+              <p>Why is this not open source? Here's what happened: <br>
+                <br>
+                When I decided I wanted to build large domestic robots I quickly
+                decided that such a thing should be driven by large, quiet,
+                reliable, brushless hub motors. I was surprised to see that I
+                couldn't buy these anywhere, so I decided to make my own. <br>
+                <br>
+                I then thought "well I'll need a controller for that, dum dee
+                dum, let's see what's available", and was flabbergasted that I
+                couldn't find a controller that could do slow-motion precise
+                positioning of something like a hub motor that didn't cost many
+                hundreds of dollars. I then though, OK, the controller will have
+                to be the first product, and THEN the hub motor, and THEN the
+                full size robot. Flash forward a year or two and I finally had
+                the controller ready, and this is the <a href="../nz2/index.html">NearZero</a>.
+                <br>
+                <br>
+                Now I was ready to go back to the hub motor design which by then
+                I'd decided to call the RoboWheel. Some progress on this was
+                made even during the NearZero development and I'd prototyped the
+                wheel casing in aluminum to a relatively high level of
+                refinement, and had hand-wound more stators than I cared to. <br>
+                <br>
+                Unfortunately (well, maybe fortunately), by this point I found
+                that the rest of the world had caught up and it was now possible
+                to import precisely the kind of hub motor I was envisioning for
+                the RoboWheel: High pole count, high winding resistance,
+                built-in encoder, and a mounting flange instead of an axle. The
+                motor I identified that meets these criteria is in fact stupidly
+                similar to my own prototype for the RoboWheel, so, realizing it
+                would be absurd to re-invent the wheel (haha!) I decided to slap
+                the 'ole Sky's Edge Logo on this, call it the RoboWheel, and
+                distribute it as a "white lable" product. The nice Chinese
+                manufacturer even did the laser engraving for me. So that's
+                that. It's not open source, but it's filling a need.<br>
+                <br>
+                ~Justine Haupt</p>
+            </section>
+          </div>
+          <div class="3u">
+            <section>
+              <h3>RoboWheel RW170:</h3>
+              <h1>$110 USD</h1>
+              <h3>(Each)</h3>
+              <h3> <span style="color:red">Sold Out for Now&nbsp;</span> </h3>
+              <!--              <div id="smart-button-container">
+                <div style="text-align: center;">                  <div style="margin-bottom: 1.25rem;">
+                    <p>RoboWheel</p>                    <select id="item-options">
+                      <option value="RW170" price="110">RW170 - 110 USD</option>                    </select>
+                    <select style="visibility: hidden" id="quantitySelect">                      <option value="1">1</option>
+                      <option value="2">2</option>                      <option value="3">3</option>
+                      <option value="4">4</option>                    </select>
+                  </div>                  <div id="paypal-button-container"></div>
+                </div>              </div>
+              <script src="https://www.paypal.com/sdk/js?client-id=ATPicJk_f7y_OE14lYovIVXYadMfu0TmGZelVpn1qBmRL7lkTugqGZfUWNcJD8ng-Mel4nCUz88Cuj4_&enable-funding=venmo&currency=USD"data-sdk-integration-source="button-factory"></script>
+              <script>      function initPayPalButton() {
+        var shipping = 40;        var itemOptions = document.querySelector("#smart-button-container #item-options");
+    var quantity = parseInt(30);    var quantitySelect = document.querySelector("#smart-button-container #quantitySelect");
+    if (!isNaN(quantity)) {      quantitySelect.style.visibility = "visible";
+    }    var orderDescription = 'RoboWheel';
+    if(orderDescription === '') {      orderDescription = 'Item';
+    }    paypal.Buttons({
+      style: {        shape: 'rect',
+        color: 'blue',        layout: 'vertical',
+        label: 'paypal',        
+      },      createOrder: function(data, actions) {
+        var selectedItemDescription = itemOptions.options[itemOptions.selectedIndex].value;        var selectedItemPrice = parseFloat(itemOptions.options[itemOptions.selectedIndex].getAttribute("price"));
+        var tax = (0 === 0 || false) ? 0 : (selectedItemPrice * (parseFloat(0)/100));        if(quantitySelect.options.length > 0) {
+          quantity = parseInt(quantitySelect.options[quantitySelect.selectedIndex].value);        } else {
+          quantity = 1;        }
+        tax *= quantity;
+        tax = Math.round(tax * 100) / 100;        var priceTotal = quantity * selectedItemPrice + parseFloat(shipping) + tax;
+        priceTotal = Math.round(priceTotal * 100) / 100;        var itemTotalValue = Math.round((selectedItemPrice * quantity) * 100) / 100;
+        return actions.order.create({
+          purchase_units: [{            description: orderDescription,
+            amount: {              currency_code: 'USD',
+              value: priceTotal,              breakdown: {
+                item_total: {                  currency_code: 'USD',
+                  value: itemTotalValue,                },
+                shipping: {                  currency_code: 'USD',
+                  value: shipping,                },
+                tax_total: {                  currency_code: 'USD',
+                  value: tax,                }
+              }            },
+            items: [{              name: selectedItemDescription,
+              unit_amount: {                currency_code: 'USD',
+                value: selectedItemPrice,              },
+              quantity: quantity            }]
+          }]        });
+      },      onApprove: function(data, actions) {
+        return actions.order.capture().then(function(orderData) {          
+          // Full available details          console.log('Capture result', orderData, JSON.stringify(orderData, null, 2));
+          // Show a success message within this page, e.g.
+          const element = document.getElementById('paypal-button-container');          element.innerHTML = '';
+          element.innerHTML = '<h3>Thank you for your payment!</h3>';
+          // Or go to another URL:  actions.redirect('thank_you.html');
+        });      },
+      onError: function(err) {        console.log(err);
+      },    }).render('#paypal-button-container');
+  }  initPayPalButton();
+    </script> <br>
+              <!-- <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr"                method="post"> <input name="cmd" value="_s-xclick" type="hidden">                <input name="hosted_button_id" value="PY6CH3XMSQGNA" type="hidden">                <input src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif"                  name="submit" alt="PayPal - The safer, easier way to pay online!"                  type="image" border="0"> <img alt="" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif"                  width="1" height="1" border="0"> </form>-->
+              --&gt; </section>
+          </div>
+        </div>
+      </div>
+    </section>
+  </body>
+</html>

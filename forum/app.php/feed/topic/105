@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-gb">
+	<link rel="self" type="application/atom+xml" href="https://skysedge.com/forum/app.php/feed/topic/105" />
+
+	<title>A Forum at Sky's Edge</title>
+	<subtitle>A Forum at Sky&#039;s Edge</subtitle>
+	<link href="https://skysedge.com/forum/index.php" />
+	<updated>2023-11-26T14:58:32</updated>
+
+	<author><name><![CDATA[A Forum at Sky's Edge]]></name></author>
+	<id>https://skysedge.com/forum/app.php/feed/topic/105</id>
+
+		<entry>
+		<author><name><![CDATA[justine]]></name></author>
+		<updated>2023-11-26T14:58:32</updated>
+
+		<published>2023-11-26T14:58:32</published>
+		<id>https://skysedge.com/forum/viewtopic.php?p=253#p253</id>
+		<link href="https://skysedge.com/forum/viewtopic.php?p=253#p253"/>
+		<title type="html"><![CDATA[Re: RUSP]]></title>
+
+		
+		<content type="html" xml:base="https://skysedge.com/forum/viewtopic.php?p=253#p253"><![CDATA[
+Hi Bob, thank you so much for posting this.<br><br>I should say for anyone else reading this, that the next step after one gets the phone assembled and is trying to debug call functionality should be to follow the instructions starting on page 3 of the Development Supplement: <a href="https://skysedge.com/unsmartphones/RUSP/documents/RUSP%20Development%20Notes.pdf" class="postlink">https://skysedge.com/unsmartphones/RUSP ... 0Notes.pdf</a><p>Statistics: Posted by <a href="https://skysedge.com/forum/memberlist.php?mode=viewprofile&amp;u=58">justine</a> — Sun Nov 26, 2023 2:58 pm</p><hr />
+]]></content>
+	</entry>
+		<entry>
+		<author><name><![CDATA[AussieBob]]></name></author>
+		<updated>2023-11-16T21:46:15</updated>
+
+		<published>2023-11-16T21:46:15</published>
+		<id>https://skysedge.com/forum/viewtopic.php?p=240#p240</id>
+		<link href="https://skysedge.com/forum/viewtopic.php?p=240#p240"/>
+		<title type="html"><![CDATA[RUSP]]></title>
+
+		
+		<content type="html" xml:base="https://skysedge.com/forum/viewtopic.php?p=240#p240"><![CDATA[
+As an early builder, let me say the actual build I did not find difficult.<br>However I suggest you read from start to finish the build instructions before commencing.<br>Recognise initially you are building/assembling component parts, for later assembly.<br>Quality of the circuit boards is very obvious and pleasing. Extremely well done.<br>I was impressed that on installing my current phone Sim, the phone was recognised immediately by the  Telstra network<br>here in Australia. Wife could get a ring tone on every attempt to call the Unsmart. Whilst my Unsmart didnt ring, nor could I actually <br>accept the call, I am sure it is a software issue that Justine will resolve.<br>The only real challenge with my build, the hammer bell arm when positioned and tightened in place, distorted the Mother and Sister <br>board alignment, and caused the dial mechanism to jam. This I noted was already recognised and a fix in train, I solved by adding additonal spacers,<br>Lengthen the assembly.<br>Aussie Bob<p>Statistics: Posted by <a href="https://skysedge.com/forum/memberlist.php?mode=viewprofile&amp;u=149">AussieBob</a> — Thu Nov 16, 2023 9:46 pm</p><hr />
+]]></content>
+	</entry>
+	</feed>
