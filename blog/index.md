@@ -3,7 +3,7 @@ layout: default
 title: A Blog at Sky's Edge
 ---
 
-A blog at Sky's Edge
+A Blog at Sky's Edge
 ===========
 
 Welcome to our blog!
