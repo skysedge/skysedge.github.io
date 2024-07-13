@@ -1,6 +1,6 @@
 ---
 layout: default
-title: A blog at Sky's Edge
+title: A Blog at Sky's Edge
 ---
 
 A blog at Sky's Edge
