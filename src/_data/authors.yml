@@ -3,6 +3,11 @@
     Justine is the founder and director of Sky's Edge.
 - name: imyxh
   website: https://imyxh.net
+  avatar:
+    src: /assets/imyxh-thermal.png
+    alt: >-
+      A picture through a thermal camera of Ivy. She has dark hair and is
+      holding up a peace sign.
   intro: >-
     Ivy (imyxh) works on various engineering tasks at Sky's Edge. For her day
     job, she's a physics PhD student, building layer zero of the quantum

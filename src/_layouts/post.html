@@ -19,7 +19,14 @@ layout: default
       {% else %}
         <h2>Author: {{ author.name }}</h2>
       {% endif %}
-      <p>{{ author.intro }}</p>
+      <div>
+        {% if author.avatar %}
+          <img src="{{ author.avatar.src }}"
+            alt="{{ author.avatar.alt }}" title="{{ author.avatar.alt }}"
+          >
+        {% endif %}
+        <p>{{ author.intro }}</p>
+      </div>
     {% endif %}
   {% endfor %}
 </div>
