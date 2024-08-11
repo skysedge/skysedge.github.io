@@ -163,6 +163,6 @@ Footnotes
 
 [3g]: https://www.fcc.gov/consumers/guides/plan-ahead-phase-out-3g-cellular-networks-and-service
 [toby]: https://content.u-blox.com/sites/default/files/TOBY-L2_DataSheet_UBX-13004573.pdf
-[ebay]: https://ebay.com/TODO
+[ebay]: https://ebay.com/sch/i.html?_ssn=justinehaupt
 [forum]: https://forum.skysedge.com
 
