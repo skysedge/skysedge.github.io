@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We're running low on parts
+title: We will eventually run out of parts
 author: imyxh
 ---
 
@@ -76,7 +76,8 @@ If we maintain our current rate of income (and refund requests), I don't think
 we'll be able to get past the 400th Rotary Un-Smartphone pre-order. There are
 plenty of excuses we can name for this: the 3G sunset costing us our TOBYs, the
 humidity here causing a high drop rate for the pick-and-place, a bunch of
-quality control issues ... I could go on. But I know you don't want to hear it.
+quality assurance issues ... I could go on. But I know you don't want to hear
+it.
 
 Virtually no community project of comparable size does PCB assembly at the
 scale and complexity we do, and we're beginning to see why.
