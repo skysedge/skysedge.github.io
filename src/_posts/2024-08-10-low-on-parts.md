@@ -67,10 +67,10 @@ An actual parts issue
 
 Worried by the whole ATmega1280 situation, I finally forced myself to do a
 rough recount of all our spools on the pick-and-place machine, and I have some
-grim news. We're running out of parts. Not every part—we still have plenty of
-the more critical ones, like the modem and the mega16U2s and whatnot. But when
-it comes to the more pesky, smaller components, like surface-mount resistors,
-LEDs, and protection diodes, we're running out.
+grim news. We will eventually run out of parts. Not every part—we still have
+plenty of the more critical ones, like the modem and the mega16U2s and whatnot.
+But when it comes to the more pesky, smaller components, like surface-mount
+resistors, LEDs, and protection diodes, we're running out.
 
 If we maintain our current rate of income (and refund requests), I don't think
 we'll be able to get past the 400th Rotary Un-Smartphone pre-order. There are
