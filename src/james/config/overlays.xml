@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<OverlaysList>
+  <tag name="Compression Ratio" 					   	location="BL" level="0" prefix="Decompressed %r:1" 	modality="all"></tag>
+  <tag name="Patient Name" 		group="0x10" element="0x0010" location="TL" level="0" prefix="" 				modality="all"></tag>
+  <tag name="Patient ID"   		group="0x10" element="0x0020" location="TL" level="0" prefix="MRN: " 			modality="all" append="Patient ID2"></tag>
+  <tag name="Patient ID2"   		group="0x10" element="0x0020" index="1" location="TL" level="0" prefix="\" modality="all"></tag>
+  <tag name="ACN"   			group="0x08" element="0x0050" location="TL" level="0" prefix="Acc #: " 			modality="all"></tag>
+  <tag name="Patient DOB"   		group="0x10" element="0x0030" location="TL" level="0" prefix="DOB: " 			modality="all"></tag>
+  <tag name="Sex" 			group="0x10" element="0x0040" location="TL" level="0" prefix="Sex: " 			modality="all"></tag>
+  <tag name="Institution" 		group="0x08" element="0x0080" location="TL" level="1" prefix="Site: " 			modality="all"></tag>
+  <tag name="Institution Address" 	group="0x08" element="0x0081" location="TL" level="1" prefix="Addr: "			modality="mg"></tag>
+
+  <tag name="Series Description" 		group="0x08" element="0x103E" location="BL" level="0" prefix="" 		modality="all"></tag>
+  <tag name="Image Comment" 		group="0x20" element="0x4000" location="BL" level="0" prefix="Comment: " 		modality="all"></tag>
+  <tag name="Rows" 			group="0x28" element="0x0010" location="BL" level="0" prefix="" suffix="x"		modality="all" append="Columns"></tag>
+  <tag name="Columns" 			group="0x28" element="0x0011" location="BL" level="0" prefix=""				modality="all"></tag>
+  <tag name="Slice Location" 		group="0x20" element="0x1041" location="BL" level="1" prefix="Loc: " suffix=" mm" 	modality="all"></tag>
+
+  <tag name="Image Sequence" 				     			location="TR" level="0" prefix="Image: %i of %n" 	modality="all-mg"></tag>
+  <tag name="Image Sequence" 				     			location="TL" level="0" prefix="Image: %i of %n" 	modality="mg"></tag>
+  <tag name="Series Number" 		group="0x20" element="0x0011" location="TR" level="0" prefix="Series: " 		modality="all-mg"></tag>
+  <tag name="Series Date" 		group="0x08" element="0x0021" location="TR" level="0" prefix="" 				modality="all-mg"></tag>
+  <tag name="Series Time" 		group="0x08" element="0x0031" location="TR" level="0" prefix="" 				modality="all-mg"></tag>
+
+  <tag name="Manufacturer Model Name" 	group="0x08" element="0x1090" location="TL" level="1" prefix="Model: " 		modality="ot,nm,cr,dx,mr,ct,mg"></tag>
+
+  <tag name="Gantry Tilt" 			group="0x18" element="0x1120" location="TR" level="1" prefix="Gantry Tilt: " suffix=" deg" modality="ct"></tag>
+  <tag name="Slice Thickness" 		group="0x18" element="0x0050" location="BL" level="1" prefix="Thickness: " suffix=" mm" modality="ct"></tag>
+  <tag name="Spacing Between Slices" 	group="0x18" element="0x0088" location="BL" level="1" prefix="Gap: " suffix=" mm" modality="ct"></tag>
+  <tag name="mA" 					group="0x18" element="0x8151" location="BL" level="1" prefix="mA: " 		modality="ct"></tag>
+  <tag name="kV" 					group="0x18" element="0x0060" location="BL" level="1" prefix="kV: " 		modality="ct"></tag>
+  <tag name="Scan Time"				group="0x18" element="0x1150" location="BL" level="1" prefix="Exp: " 		modality="ct"></tag>  
+  <tag name="Contrast" 				group="0x18" element="0x0010" location="BL" level="1" prefix="Contrast: " 	modality="ct"></tag>
+  <tag name="FOV" 				group="0x22" element="0x000C" location="BL" level="1" prefix="FOV: " suffix=" cm" 	modality="ct"></tag>
+	
+  <tag name="Slice Thickness" 		group="0x18" element="0x0050" location="BL" level="1" prefix="Thickness: " 	modality="mr"></tag>
+  <tag name="Acquisition Matrix" group="0x18" element="0x1310" index="0" location="BL" level="1" prefix="Acq Matrix: " modality="mr" append="Acquisition Matrix1"></tag>
+  <tag name="Acquisition Matrix1" group="0x18" element="0x1310" index="1" location="BL" level="1" prefix="/" modality="mr" append="Acquisition Matrix2"></tag>
+  <tag name="Acquisition Matrix2" group="0x18" element="0x1310" index="2" location="BL" level="1" prefix="/" modality="mr" append="Acquisition Matrix3"></tag>
+  <tag name="Acquisition Matrix3" group="0x18" element="0x1310" index="3" location="BL" level="1" prefix="/" modality="mr"></tag>
+  
+  <tag name="Spacing Between Slices" 	group="0x18" element="0x0088" location="BL" level="1" prefix="Gap: " suffix=" mm" modality="mr"></tag>
+  <tag name="Sequence Name"			group="0x18" element="0x0024" location="BL" level="1" prefix="Seq: " 		modality="mr"></tag>
+  <tag name="TR" 					group="0x18" element="0x0080" location="BL" level="1" prefix="TR: " 		modality="mr"></tag>
+  <tag name="TE" 					group="0x18" element="0x0081" location="BL" level="1" prefix="TE: " 		modality="mr"></tag>
+  <tag name="TI" 					group="0x18" element="0x0082" location="BL" level="1" prefix="TI: " 		modality="mr"></tag>
+  <tag name="Contrast" 				group="0x18" element="0x0010" location="BL" level="1" prefix="Contrast: " 	modality="mr"></tag>
+  <tag name="FOV" 				group="0x22" element="0x000C" location="BL" level="1" prefix="FOV: " 		modality="mr"></tag>
+
+  <tag name="Body Part Examined" 		group="0x18" element="0x0015" location="TL" level="1" prefix="Body Part: " 	modality="cr,dx"></tag>
+  <tag name="Exposure" 				group="0x18" element="0x1150" location="TL" level="1" prefix="Exposure: " 	modality="cr,dx,rf"></tag>
+
+  <tag name="Station Name" 			group="0x08" element="0x1010" location="TL" level="1" prefix="Unit ID: " 	modality="mg"></tag>
+  <tag name="Laterality" 			group="0x20" element="0x0062" location="TL" level="1" prefix="Lat: " 		modality="mg"></tag>
+  <tag name="Laterality" 			group="0x20" element="0x0060" location="TL" level="1" prefix="Lat: " 		modality="mg"></tag>
+
+  <tag name="View Position" 			group="0x18" element="0x0104" location="BL" level="1" prefix="View Pos: " 	modality="mg"></tag>
+  <tag name="View Position" 			group="0x18" element="0x5101" location="BL" level="1" prefix="View Pos: " 	modality="mg"></tag>
+  <tag name="Cassette ID" 			group="0x18" element="0x1007" location="BL" level="1" prefix="Cassette ID: " 	modality="mg"></tag>
+  <tag name="Operators Name" 			group="0x08" element="0x1070" location="BL" level="1" prefix="Tech: " 		modality="mg"></tag>
+  <tag name="Study Date" 		  group="0x08" element="0x0020" location="TL" level="0" prefix="" 				modality="mg"></tag>
+
+</OverlaysList>

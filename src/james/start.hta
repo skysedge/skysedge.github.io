@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<HTA:APPLICATION 
+border="dialog" 
+borderStyle="thin" 
+caption="no" 
+contextmenu=no
+maximizeButton="no" 
+minimizeButton="no" 
+showInTaskbar="yes"
+windowState="normal"
+innerBorder="no"
+navigable="yes"
+scroll="no"
+scrollFlat="no" /> 
+
+<script language="VBScript">
+<!--
+	self.ResizeTo 600,600
+	Sub DoOnload
+		self.MoveTo screen.availWidth/2-300,screen.availHeight/2-300
+	End Sub
+	
+	DoOnload()
+//-->
+</script>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<script type="text/javascript">
+<!--
+function viewImages()
+{
+ var WSHShell = new ActiveXObject("WScript.Shell");
+ WSHShell.Run ("GEARView.exe", 1, 0);
+}
+function viewResults() {
+MM_openBrWindow('results/index.hta','results','dialogWidth:700px;dialogHeight:525px;scroll=yes');
+}
+function MM_openBrWindow(theURL,winName,features) { 
+  window.showModelessDialog(theURL,winName,features);
+} //v2.0
+//-->
+</script>
+</head>
+<body background="background.jpg">
+
+	<table border=0 width="600" height="600" align="center">
+	<tr height=450 valign="bottom">
+            <td align="right" width="225"><a href="#" onClick="viewImages()"><img src="images\imagesButton.png" alt="View Images" border="0" /></a></td>
+            <td align="center" width="150"><img src="images\noResultsButton.png" alt="No Results" border="0" /></td>
+            <td align="left" width="225"><a onClick="window.close()"><img src="images\exitButton.png" alt="Exit" border="0" /></a></td>
+	</tr>
+	<tr height=150></tr>
+    </table>
+</body>
+</html>

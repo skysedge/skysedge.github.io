@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Options>
+  <Unstack>
+    <tag name="Modality ES" group="0x0008" element="0x0060" index="0">ES</tag>
+    <tag name="Modality MG" group="0x0008" element="0x0060" index="0">MG</tag>
+    <tag name="Modality DX" group="0x0008" element="0x0060" index="0">DX</tag>
+    <tag name="Modality CR" group="0x0008" element="0x0060" index="0">CR</tag>
+    <tag name="SOP UID PDF" group="0x0008" element="0x0016" index="0">1.2.840.10008.5.1.4.1.1.104.1</tag>
+  </Unstack>
+  <Search>
+    <MaxPatients>200</MaxPatients>
+    <MaxStudies>2000</MaxStudies>
+    <StudyDate>
+    </StudyDate>
+  </Search>
+  <Reconcile>
+    <StudyDate>All</StudyDate>
+    <KeepOriginalStudyDescription>no</KeepOriginalStudyDescription>
+    <KeepOriginalStudyDateTime>no</KeepOriginalStudyDateTime>
+  </Reconcile>
+  <RefreshPatList>No</RefreshPatList>
+  <IgnoreDICOMDIR>No</IgnoreDICOMDIR>
+  <KeepOriginalFrameRate>Yes</KeepOriginalFrameRate>
+  <Display>
+    <AllowGSPS>Yes</AllowGSPS>
+    <AllowCADOverlays>Yes</AllowCADOverlays>
+    <DefaultDisplayGSPS>Yes</DefaultDisplayGSPS>
+  </Display>
+  <VideoEditing>
+    <Snippet>
+      <Start>-5</Start>
+      <End>5</End>
+    </Snippet>
+    <Segment>
+      <Start>-5</Start>
+      <End>5</End>
+    </Segment>
+  </VideoEditing>
+  <General>
+    <SkipPrivateGroups>YES</SkipPrivateGroups>
+    <PreloadOneFrame>NO</PreloadOneFrame>
+  </General>
+</Options>

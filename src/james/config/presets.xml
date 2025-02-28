@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<PresetsList>
+  <preset name="Abdomen" 	window="350" level="0" 		modality="CT" key="F4"></preset>
+  <preset name="Bone" 		window="1300" level="225" 	modality="CT" key="F5"></preset>
+  <preset name="Brain" 		window="125" level="55" 	modality="CT" key="F6"></preset>
+  <preset name="Kidney" 	window="700" level="50" 	modality="CT"></preset>
+  <preset name="Liver" 		window="120" level="70" 	modality="CT" key="F7"></preset>
+  <preset name="Lung" 		window="1500" level="-500" 	modality="CT" key="F8"></preset>
+  <preset name="Mediastinum" 	window="390" level="10" 	modality="CT" key="F9"></preset>
+  <preset name="Myelogram" 	window="880" level="110" 	modality="CT" key="F10"></preset>
+  <preset name="Neck" 		window="350" level="20" 	modality="CT"></preset>
+  <preset name="Sinus" 		window="2000" level="100" 	modality="CT"></preset>
+  <preset name="Stroke" 	window="50" level="40" 		modality="CT"></preset>
+  <preset name="Subdural" 	window="350" level="90" 	modality="CT"></preset>
+
+  <preset name="Brain" 		window="1200" level="800" 	modality="MR"></preset>
+  <preset name="T1" 		window="480" level="225" 	modality="MR"></preset>
+  <preset name="T2" 		window="350" level="300" 	modality="MR"></preset>
+  <preset name="Flair"		window="800" level="170" 	modality="MR"></preset>
+  <preset name="PD" 		window="1900" level="950" 	modality="MR"></preset>
+
+  <preset name="Low Contrast" window="190" level="80" 	modality="NM"></preset>
+  <preset name="Med Contrast" window="160" level="70" 	modality="NM"></preset>
+  <preset name="High Contrast" window="120" level="60" 	modality="NM"></preset>
+
+  <!--<preset name="Hot Metal LUT" ApplyOnLoad="Hot Metal" modality="PT"></preset>-->
+
+</PresetsList>
+

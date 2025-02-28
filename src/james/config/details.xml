@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<TagList>
+  <Patient>
+    <tag name="Patient Name" group="0x0010" element="0x0010" index="0" edit="true" delete="false"></tag>
+    <tag name="Patient ID"   group="0x0010" element="0x0020" index="0" edit="true" delete="false"></tag>
+    <tag name="Patient DOB"  group="0x0010" element="0x0030" index="0" edit="true" delete="false"></tag>
+    <tag name="Patient Sex"  group="0x0010" element="0x0040" index="0" edit="true" delete="false"></tag>
+  </Patient>
+  <Study>
+    <tag name="Accession"    group="0x0008" element="0x0050" index="0" edit="true" delete="false"></tag>
+    <tag name="Study UID"    group="0x0020" element="0x000D" index="0" edit="true" delete="false"></tag>
+    <tag name="Study  ID"    group="0x0020" element="0x0010" index="0" edit="true" delete="false"></tag>
+    <tag name="Study Date"   group="0x0008" element="0x0020" index="0" edit="true" delete="false"></tag>
+    <tag name="Study Time"   group="0x0008" element="0x0030" index="0" edit="true" delete="false"></tag>
+    <tag name="Study Desc"   group="0x0008" element="0x1030" index="0" edit="true" delete="false"></tag>
+    <tag name="Institution Name"     group="0x0008" element="0x0080" index="0" edit="true" delete="false"></tag>
+    <tag name="Ref Phys"     group="0x0008" element="0x0090" index="0" edit="true" delete="false"></tag>
+    <tag name="Department"   group="0x0008" element="0x1040" index="0" edit="true" delete="false"></tag>
+  </Study>
+  <Series>
+    <tag name="Series UID"  	group="0x0020" element="0x000E" index="0" edit="true" delete="false"></tag>
+    <tag name="Series Desc" 	group="0x0008" element="0x103E" index="0" edit="true" delete="false"></tag>
+    <tag name="Series Number" group="0x0020" element="0x0011" index="0" edit="true" delete="false"></tag>
+    <tag name="Series Date"  	group="0x0008" element="0x0021" index="0" edit="true" delete="false"></tag>
+    <tag name="Series Time"  	group="0x0008" element="0x0031" index="0" edit="true" delete="false"></tag>
+    <tag name="Modality"  	  group="0x0008" element="0x0060" index="0" edit="true" delete="false"></tag>
+  </Series>
+  <Image>
+    <tag name="Patient Position"  	  group="0x0018" element="0x5100" index="0" edit="false" delete="false"></tag>
+    <tag name="ImagePositionPatient" 	group="0x0020" element="0x0032" index="0" edit="false" delete="false"></tag>
+    <tag name="ImageOrientationPatient" group="0x0020" element="0x0037" index="0" edit="false" delete="false"></tag>
+    <tag name="Slice Location"   	    group="0x0020" element="0x1041" index="0" edit="false" delete="false"></tag>
+    <tag name="SamplesPerPixel"  	    group="0x0028" element="0x0002" index="0" edit="false" delete="false"></tag>
+    <tag name="Photometric Interpretation"  	group="0x0028" element="0x0004" index="0" edit="false" delete="false"></tag>
+    <tag name="Rows"  	              group="0x0028" element="0x0010" index="0" edit="false" delete="false"></tag>
+    <tag name="Columns"  	            group="0x0028" element="0x0011" index="0" edit="false" delete="false"></tag>
+    <tag name="Pixel Spacing"  	      group="0x0028" element="0x0030" index="0" edit="false" delete="false"></tag>
+    <tag name="Bits Allocated"        group="0x0028" element="0x0100" index="0" edit="false" delete="false"></tag>
+    <tag name="Bits Stored"           group="0x0028" element="0x0101" index="0" edit="false" delete="false"></tag>
+    <tag name="High Bit"              group="0x0028" element="0x0102" index="0" edit="false" delete="false"></tag>
+    <tag name="Pixel Representation"  group="0x0028" element="0x0103" index="0" edit="false" delete="false"></tag>
+  </Image>
+</TagList>
