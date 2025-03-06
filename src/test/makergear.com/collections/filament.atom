@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://makergear.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://makergear.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://makergear.com/collections/filament.atom"/>
+  <title>MakerGear™</title>
+  <updated>2020-12-10T11:49:30-05:00</updated>
+  <author>
+    <name>MakerGear™</name>
+  </author>
+  <entry>
+    <id>https://makergear.com/products/4529829773410</id>
+    <published>2020-12-10T11:49:30-05:00</published>
+    <updated>2020-12-10T11:49:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/products/featured"/>
+    <title>MakerGear Featured Filament: Construction Orange!</title>
+    <s:type>Filament</s:type>
+    <s:vendor>MakerGear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/7372/products/ConstructionOrange.heic?v=1681831961"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MakerGear<br>
+        <strong>Type: </strong>Filament<br>
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Just in time for Spring Construction, we're pleased to present to you our latest featured PLA color - Construction Orange :)</p>
+<p><span>We recommend printing PLA at 215-220 °C with the bed heated to 60-70 °C depending on the surface preparation used. It is possible to print PLA directly on glass, but is much easier to maintain adhesion on polyimide film.</span></p>
+<p>MakerGear PLA filament has been rigorously tested to ensure consistent, high quality performance.</p>
+<p>(Both Construction Orange and Merlot PLA can be found on our <a href="https://www.makergear.com/products/pla">PLA page</a>.)</p>
+<p>&gt;<a href="https://cdn2.shopify.com/s/files/1/0030/7372/files/MSDS_PLA_Rev_3_15.pdf?325">PLA MSDS Sheet</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://makergear.com/products/4529829773410</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makergear.com/products/6298161412</id>
+    <published>2016-07-22T15:27:00-04:00</published>
+    <updated>2016-07-22T15:27:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/products/pla"/>
+    <title>PLA Filament</title>
+    <s:type>Filament</s:type>
+    <s:vendor>MakerGear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/7372/products/ALL.png?v=1643124920"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MakerGear<br>
+        <strong>Type: </strong>Filament<br>
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<p><span><img data-mce-fragment="1" alt="" src="https://cdn.shopify.com/s/files/1/0030/7372/products/PLA_standard_e81dd184-43c0-427d-950f-b94702be8830_480x480.jpg?v=1616440514"></span></p>
+<p><span>Available in 1 kg spools and a wide array of colors, our PLA (Polylactic Acid) filament measures 1.75 mm in diameter and is one of the easiest filament materials to print with. </span></p>
+<p><span>We recommend printing PLA at 215-220 °C with the bed heated to 60-70 °C depending on the surface preparation used. It is possible to print PLA directly on glass, but is much easier to maintain adhesion on polyimide film.</span></p>
+<p>MakerGear PLA filament has been rigorously tested to ensure consistent, high quality performance.</p>
+<p>Be sure to check out our new Featured PLA color - <a title="Construction Orange PLA" href="https://makergear.com/products/featured">Construction Orange</a> :)</p>
+<p><a href="https://cdn2.shopify.com/s/files/1/0030/7372/files/MSDS_PLA_Rev_3_15.pdf?325">PLA MSDS Sheet</a></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Filament</s:tag>
+    <s:variant>
+      <id>https://makergear.com/products/6298161412</id>
+      <title>Construction Orange</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>MG1034ORA</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makergear.com/products/6298161412</id>
+      <title>Black</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>MG1034BLA</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makergear.com/products/6298161412</id>
+      <title>White</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>MG1034WHI</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makergear.com/products/6298161412</id>
+      <title>Red</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>MG1034RED</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makergear.com/products/6298161412</id>
+      <title>Green</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>MG1034GRE</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makergear.com/products/6298161412</id>
+      <title>Royal Blue</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>MG1034BLU</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makergear.com/products/6298161412</id>
+      <title>Light Yellow</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>MG1034YEL</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makergear.com/products/6298161412</id>
+      <title>Purple</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>MG1034PUR</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makergear.com/products/6298161412</id>
+      <title>Grey</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makergear.com/products/6298161412</id>
+      <title>Pink</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>MG1304PIN</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makergear.com/products/6298161412</id>
+      <title>Natural</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>MG1034NAT</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makergear.com/products/6298161412</id>
+      <title>Gold</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>MG1034GOL</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makergear.com/products/6298161412</id>
+      <title>Silver</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>MG1034SIL</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makergear.com/products/6298161412</id>
+      <title>Translucent Red</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>MG1034TRE</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makergear.com/products/6298161412</id>
+      <title>Translucent Purple</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>MG1034TPU</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makergear.com/products/6298161412</id>
+      <title>Merlot</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>MG1034MER</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makergear.com/products/6298160900</id>
+    <published>2016-07-22T15:27:00-04:00</published>
+    <updated>2016-07-22T15:27:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/products/abs"/>
+    <title>ABS Filament</title>
+    <s:type>Filament</s:type>
+    <s:vendor>MakerGear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/7372/products/ABS.jpg?v=1472056650"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MakerGear<br>
+        <strong>Type: </strong>Filament<br>
+        <strong>Price: </strong>
+            29.00 - 65.00
+            <a href="https://makergear.com/products/abs">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br></p>
+<p>Available in 1 kg and 5 pound spools and a wide array of colors (black, white, natural, red, blue), MakerGear ABS (a<span>crylonitrile</span> butadiene styrene) filament measures 1.75 mm in diameter and works ideally for a wide variety of industrial applications.</p>
+<p>We recommend printing MakerGear ABS filament at 245-250 °C extruder temperature and a 110 °C bed (<a href="http://www.makergear.com/collections/parts/products/glass" title="Borosilicate glass build / print surface coated in polyimide / katpon tape - MakerGear M2 desktop 3D printer." target="_blank">preferably coated</a> with a film of <a href="http://www.makergear.com/collections/parts/products/polyimide" title="Polyimide / Kapton tape for MakerGear M2 desktop 3D printer heated build platform." target="_blank">polyimide tape</a>).</p>
+<p>All MakerGear ABS filament has been rigorously tested to ensure consistent, high quality performance. </p>
+<p><img src="https://cdn.shopify.com/s/files/1/0030/7372/files/Warning_icon_480x480.png?v=1607011988" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0030/7372/files/Warning_icon_480x480.png?v=1607011988"> <strong>WARNING</strong>: This Filament - when used in the operation of 3D Printers or 3D Pens - can expose you and others in the same room to styrene, a chemical known to the State of California to cause cancer. <a href="www.P65Warnings.ca.gov">www.P65Warnings.ca.gov</a><br><strong>ALWAYS OPERATE THIS PRODUCT IN A WELL-VENTILATED AREA</strong>.</p>
+<p><a href="https://cdn.shopify.com/s/files/1/0030/7372/files/SDS_MakerGear_ABS.pdf?v=1598471084">ABS MSDS Sheet</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ABS</s:tag>
+    <s:tag>Filament</s:tag>
+    <s:tag>Print Material</s:tag>
+    <s:variant>
+      <id>https://makergear.com/products/6298160900</id>
+      <title>Black / 1 kg</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>MG1035BLA</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makergear.com/products/6298160900</id>
+      <title>Black / 5 pounds</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makergear.com/products/6298160900</id>
+      <title>White / 1 kg</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>MG1035WHI</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makergear.com/products/6298160900</id>
+      <title>Natural / 1 kg</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>MG1035NAT</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makergear.com/products/6298160900</id>
+      <title>Red / 1 kg</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>MG1035RED</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makergear.com/products/6298160900</id>
+      <title>Blue / 1 kg</title>
+      <s:price currency="USD">29.00</s:price>
+      <s:sku>MG1035BLU</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makergear.com/products/1296072441932</id>
+    <published>2016-07-22T15:26:00-04:00</published>
+    <updated>2016-07-22T15:26:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/products/bvoh-filament"/>
+    <title>BVOH Filament</title>
+    <s:type>Filament</s:type>
+    <s:vendor>MakerGear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/7372/products/BVOH.png?v=1523991545"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MakerGear<br>
+        <strong>Type: </strong>Filament<br>
+        <strong>Price: </strong>
+            99.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>BVOH is currently out of stock - we apologize for the inconvenience.</strong></p>
+<p>If you're planning to create complex objects requiring soluble support structures, then look no further than Verbatim's BVOH material.  When paired with the incredible precision and reliability of the M3-ID, industrial quality printing is available at a fraction of the cost of the status quo.</p>
+<p>For those who have tried PVA:  this material is stable at 50% humidity.  After being exposed to the air for one month in our labs in Ohio, it still produced excellent results without causing jams or any of the other PVA-related headaches.  Remarkably, it dissolves in hot water even quicker than PVA.</p>
+<p>While we haven't tested it out with every material, we are quickly finding that it performs well with a wide range of materials from PLA to Nylon.  Please check out the <a href="https://makergear.zendesk.com/hc/en-us">Knowledge Base</a> for up-to-date Simplify 3D profiles.</p>
+<p>Please see <a href="https://cdn.shopify.com/s/files/1/0030/7372/files/BVOH_Overview_ENG_092517.pdf?12181980215976248253">Verbatim's data sheet</a> for more info.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://makergear.com/products/1296072441932</id>
+      <title>Default Title</title>
+      <s:price currency="USD">99.00</s:price>
+      <s:sku>MG1036B</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makergear.com/products/6298152388</id>
+    <published>2016-07-22T15:26:00-04:00</published>
+    <updated>2016-07-22T15:26:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/products/polysupport"/>
+    <title>PolySupport™ Filament</title>
+    <s:type>Filament</s:type>
+    <s:vendor>MakerGear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/7372/products/zzz_-_Polysupport.jpg?v=1470342581"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MakerGear<br>
+        <strong>Type: </strong>Filament<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Moderately flexible filament for use as a support material in dual extruder prints - PolySupport simply peels off of the main print.  Lustrous/opalescent surface.  0.75 kg spool.</span></p>
+<p><a href="https://cdn2.shopify.com/s/files/1/0030/7372/files/MSDS_-_PolySupport.pdf?325"><span>PolySupport MSDS Sheet</span></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://makergear.com/products/6298152388</id>
+      <title>Default Title</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>MG1036A</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+</feed>

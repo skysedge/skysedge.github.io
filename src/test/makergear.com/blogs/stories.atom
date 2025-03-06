@@ -1,0 +1,871 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://makergear.com/blogs/stories.atom</id>
+  <link rel="alternate" type="text/html" href="https://makergear.com/blogs/stories"/>
+  <link rel="self" type="application/atom+xml" href="https://makergear.com/blogs/stories.atom"/>
+  <title>MakerGear™ - Stories</title>
+  <updated>2020-11-06T11:31:08-05:00</updated>
+  <author>
+    <name>MakerGear™</name>
+  </author>
+  <entry>
+    <id>https://makergear.com/blogs/stories/makergear-takes-gold</id>
+    <published>2020-11-06T11:31:08-05:00</published>
+    <updated>2020-11-06T11:36:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/blogs/stories/makergear-takes-gold"/>
+    <title>MakerGear Takes Gold</title>
+    <author>
+      <name>Rick Pollack</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<meta charset="UTF-8"><span>From October 20th to 23rd, 2020 the USAF Rapid Sustainment Office (RSO) held the first ever Advanced Manufacturing Olympics (AMO). The group at RSO crafted five technical challenges that represented the types of challenges they face maintaining legacy aircraft and weapons systems.</span><p><a class="read-more" href="https://makergear.com/blogs/stories/makergear-takes-gold">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<p>From October 20th to 23rd, 2020 the USAF Rapid Sustainment Office (RSO) held the first ever Advanced Manufacturing Olympics (AMO). The group at RSO crafted five technical challenges that represented the types of challenges they face maintaining legacy aircraft and weapons systems. When the AMO was envisioned, it was going to be a live event held in Salt Lake City. Unfortunately those plans were derailed and they were forced to switch to a virtual event.</p>
+<p>We found out about the AMO just a day before the application deadline and did not fully appreciate the magnitude of the opportunity when we applied for the Technical Data Package (TDP) Relay. A few weeks after applying, we received notice that we'd been accepted and then a few weeks later there was a virtual kick-off event where we learned the details of the challenge.</p>
+<p>The objective of the TDP Relay, as explained in the following videos, was to recreate a 3D Printed part from an existing technical data package. The following video contains a short segment explaining the TDP Relay and then shows awards ceremony :)</p>
+<p><iframe src="https://player.vimeo.com/video/473101016#t=42m22s" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen=""></iframe></p>
+<p> The following video is a 55 minute detailed review of the TDP Relay.</p>
+<p><iframe src="https://player.vimeo.com/video/473172028" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen=""></iframe></p>
+<p>A huge thank you to the USAF RSO for dreaming up and producing the virtual AMO. We very much enjoyed participating and are honored to be one of the gold medalists in the inaugural event. </p>
+<p>Full coverage of the 2020 AMO can is posted <a href="https://www.afrso.com/technology-essential/what-we-learned-at-amo-2020" target="_blank" rel="noopener noreferrer">here</a>.</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://makergear.com/blogs/stories/a-contemporary-take-on-a-classic-physics-experiment</id>
+    <published>2020-08-03T10:16:00-04:00</published>
+    <updated>2020-08-03T10:35:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/blogs/stories/a-contemporary-take-on-a-classic-physics-experiment"/>
+    <title>The Modern Egg Drop 3D</title>
+    <author>
+      <name>Jason Kirouac</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<meta charset="utf-8"><span>THE CHALLENGE Teams must design and 3D print a contraption to protect a raw egg from breaking as it is dropped from a set of predetermined distances. There will be 3 rounds of drops with each surviving team advancing to the next round. They will move forward with the same egg but are able to replace their contraption’s...</span><p><a class="read-more" href="https://makergear.com/blogs/stories/a-contemporary-take-on-a-classic-physics-experiment">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<div class="p1" style="text-align: center;">
+<p><strong><span style="color: #666666;">THE CHALLENGE</span></strong></p>
+<p style="text-align: left;"><span style="font-weight: 400; color: #666666;">Teams must design and 3D print a contraption to protect a raw egg from breaking as it is dropped from a set of predetermined distances. </span></p>
+<p style="text-align: left;"><span style="font-weight: 400; color: #666666;">There will be 3 rounds of drops with each surviving team advancing to the next round. They will move forward with the same egg but are able to replace their contraption’s broken parts with new prints or replace the contraption entirely with an identical print.</span></p>
+<p><span style="font-weight: 400; color: #666666;">ROUND 1:   6ft DROP</span></p>
+<p><span style="font-weight: 400; color: #666666;">ROUND 2:   14ft DROP</span></p>
+<p><span style="font-weight: 400; color: #666666;">ROUND 3:   MYSTERY</span></p>
+<p style="text-align: left;"><span style="color: #666666;"><span style="font-weight: 400;">In the event of a tie with multiple teams successfully completing all 3 rounds, a winner will be selected via judge’s decision based on </span><b>CREATIVITY, RELIABILITY, &amp; AESTHETICS.</b></span></p>
+<p style="text-align: left;"><span style="font-weight: 400; color: #666666;">The winning team after the 3 rounds will receive our coveted Egg Drop Trophy, as well as FREE filament for an entire school year*!</span></p>
+<br>
+<p><strong><span style="color: #666666;">THE RULES &amp; REGULATIONS</span></strong></p>
+<p style="text-align: left;"><span style="font-weight: 400; color: #666666;">-Each contraption is to be made entirely of 3D printed components (FDM machines only) </span></p>
+<p style="text-align: left;"><span style="color: #666666;"><span style="font-weight: 400;">-Any and all FDM compatible filaments are allowed (PLA, ABS, TP</span><span style="font-weight: 400;">U</span><span style="font-weight: 400;">, ETC.)</span></span></p>
+<p style="text-align: left;"><span style="font-weight: 400; color: #666666;">-The weight of each contraption may not exceed 200 grams </span></p>
+<p style="text-align: left;"><span style="font-weight: 400; color: #666666;">-GLUE and TAPE ARE STRICTLY PROHIBITED  </span></p>
+<p style="text-align: left;"><span style="font-weight: 400; color: #666666;">-Final designs must be that of your own creation and cannot be designs readily available on the internet</span></p>
+<br>
+<p style="text-align: center;"><span style="font-weight: 400; color: #666666;"><strong>REGISTRATION</strong> </span></p>
+<p style="text-align: left;"><span style="color: #666666;"><span style="font-weight: 400;">-This competition is </span><b>free</b><span style="font-weight: 400;"> for schools to compete in, but we will only be accepting </span><b>20 teams</b><span style="font-weight: 400;">. </span></span></p>
+<p style="text-align: left;"><span style="color: #666666;"><span style="font-weight: 400;">-This competition is for </span><b>High School &amp; Middle School students only</b><span style="font-weight: 400;"> with one team per school allowed, but there is no limit to the number of members you can have. Whether your team is an entire grade or just a small robotics club (or anything in between), you can compete with us.</span></span></p>
+<p style="text-align: left;"><span style="color: #666666;"><span style="font-weight: 400;">-The application deadline is </span><b>September 4th, 2020</b><span style="font-weight: 400;"> and we will announce the competing teams through email on </span><b>September 9</b><b>th</b><b>, 2020</b><span style="font-weight: 400;">. Our competition will be held “virtually” on </span><b>October 2nd, 2020. </b><span style="font-weight: 400;">Use the following link to apply:</span></span></p>
+<p><span style="color: #b45f06;"><strong><a href="https://bit.ly/30gjVRQ" style="color: #b45f06;"><span color="#666666">"Click to apply"</span></a></strong></span></p>
+<p><strong><span style="color: #666666;">DROP DAY DETAILS</span></strong></p>
+<p style="text-align: left;"><span style="font-weight: 400; color: #666666;">Our competition will take place behind closed doors at our MakerGear facility in Beachwood, Ohio with the entire event broadcasted live on Facebook and YouTube. </span></p>
+<p style="text-align: left;"><span style="color: #666666;"><span style="font-weight: 400;">Competing teams will need to mail us their contraptions directly OR email us their MakerGear compatible gcodes </span><b>NO LATER THAN SEPTEMBER 30</b><b>th</b><span style="font-weight: 400;">.</span></span></p>
+<p style="text-align: left;"><span style="font-weight: 400; color: #666666;">If your team is mailing your completed contraptions please make sure to include multiple prints for each round, and detailed directions of assembly if necessary.</span></p>
+<p><strong><span style="color: #666666;">MakerGear</span></strong><br><strong><span style="color: #666666;">Attn: Egg Drop</span></strong><br><strong><span style="color: #666666;">23632 Mercantile Rd., Unit G</span></strong><br><strong><span style="color: #666666;">Beachwood, OH 44122</span></strong></p>
+<p style="text-align: left;"><span style="color: #666666;"><span style="font-weight: 400;">If your team opts to email us your gcodes and would prefer us to print your design with our machines, please include your preference in filament along with detailed directions of your assembly. Send your designs to </span><a href="mailto:Jacob@makergear.com" style="color: #666666;"><span style="font-weight: 400;">Jacob@makergear.com</span></a><span style="font-weight: 400;">.</span></span></p>
+<br>
+<p style="text-align: left;"><span style="color: #666666;"><span style="font-weight: 400;">More details to follow at a later date. If you have any additional questions or concerns, please email us at </span><a href="mailto:Jacob@makergear.com" style="color: #666666;"><span style="font-weight: 400;">Jacob@makergear.com</span></a><span style="font-weight: 400;">.</span></span></p>
+<br>
+<p style="text-align: left;"><span style="font-weight: 400; color: #666666;">Happy Printing. </span></p>
+<p style="text-align: left;"><span style="font-weight: 400; color: #666666;">*Limit of TWO 1kg spools of PLA per Month (up to TWENTY 1kg spools in total)</span></p>
+</div>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://makergear.com/blogs/stories/join-the-makergear-virtual-toy-drive</id>
+    <published>2020-06-30T12:51:00-04:00</published>
+    <updated>2020-06-30T16:47:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/blogs/stories/join-the-makergear-virtual-toy-drive"/>
+    <title>Join the MakerGear Virtual Toy Drive</title>
+    <author>
+      <name>Rick Pollack</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<span>In collaboration with the Cleveland Clinic art therapy department, MakerGear is hosting a 21st century virtual Toy Drive. Our goal is to get the amazing maker community involved in creating something special for as many kids as possible!</span><p><a class="read-more" href="https://makergear.com/blogs/stories/join-the-makergear-virtual-toy-drive">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<p>Imagine that you are 11 years old and have spent most of your life in the hospital. Three transplant operations with a total of 15, yes fifteen, organs have already been replaced. And, now COVID-19 further restricts your interactions. </p>
+<p>Meet Khaled, he's embracing a<span> one-of-a-kind giant, silver scorpion with an articulated tail. The scorpion was designed, based on Khaled's interests, by MakerGear employee, Ivan Meszaros. While Ivan was able to create the 3d model in only a handful of hours on Zbrush and Fusion 360, he took several days printing, painting and detailing the piece. We kinda get the sense that Khaled likes it!</span></p>
+<div><span><span>So, we had an idea…</span><br><br><span>With so many people at home and COVID cases on the rise again, let’s engage the Maker community and Make a difference. Here is an opportunity to put your maker skills (not limited to 3d printing) to work by making custom toys and gifts for hospitalized kids. Imagine you are young, hospitalized and your family may not be able to visit you.</span><br><br><span>In collaboration with the Cleveland Clinic art therapy department, MakerGear is hosting a 21st century virtual Toy Drive. Our goal is to get the amazing maker community involved in creating something special for as many kids as possible!</span><br><br><span>Here are some ideas but just be creative and I’m sure whatever you create will be deeply appreciated: Minecraft or farm animals (e.g., sheep, cow, or goat), sun &amp; moon, aliens, dinosaurs, a Yorkshire terrier, Animal Crossing characters, Ninjago, WWE figures, Elsa, a baby scorpion…just put your heart into it.</span><br><span><br></span></span></div>
+<div><span><span>Please take durability into consideration when designing your toys as they will be handled by children. </span></span></div>
+<div><span><span> </span></span></div>
+<div>
+<span><span>Send your creations to:</span><br><br><span>MakerGear</span></span>
+<div>
+<span color="#222222" style="color: #222222;"><span>Attn: Toy Drive<br></span></span>
+<div>
+<span>23632 Mercantile Rd., Unit G<br>Beachwood, OH 44122<br><br>And we’ll get them to the kids. Be sure to include your contact information. It is our hope that as a community of makers, we can come together with our creativity and ingenuity to give these kids a one-of-a-kind toy they’ll cherish for years. If you are planning to send a toy, please let us know at toydrive@makergear.com.<br><br></span><span>Please share this with friends so the message spreads far and wide! </span>
+</div>
+</div>
+</div>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://makergear.com/blogs/stories/custom-3d-printed-hockey-helmets</id>
+    <published>2020-02-20T14:21:00-05:00</published>
+    <updated>2020-02-22T06:56:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/blogs/stories/custom-3d-printed-hockey-helmets"/>
+    <title>How 3D Printing Creates an Unrivaled Hockey Helmet</title>
+    <author>
+      <name>Rick Pollack</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<span>KAV turned to the MakerGear for a robust solution to make helmets to enable mass customization without compromising performance. The MakerGear M3 printers are workhorses, frequently operating 24/7 in a production environment. </span><p><a class="read-more" href="https://makergear.com/blogs/stories/custom-3d-printed-hockey-helmets">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<p>Despite technical advancements in everything from electric vehicles to smartphones, why are helmets still based on closed-cell foams and injection molded plastics? The extensive use of foam constrains the protective possibilities, and expensive tooling limits the number of available helmet sizes.</p>
+<p><a href="https://www.kavsports.com">KAV</a> was born with a mission of uncompromising safety, to protect not only the kids of the founders but athletes at every level of competition. Since 2015, a team of Silicon Valley engineers and designers have harnessed advanced materials, machine learning algorithms, and additive manufacturing to create a new paradigm in protective equipment. KAV fabricates custom-fit helmets with uncompromising performance as a natural byproduct.</p>
+<p><img src="//cdn.shopify.com/s/files/1/0030/7372/files/KAV-Hockey-on-MakerGear_large.jpg?v=1582225794" alt="">3d printing enables KAV to improve the protective characteristics of the helmet itself in three ways. First, by eliminating extraneous hardware, ratcheting mechanisms, and collapsing the ubiquitous two shell design for hockey helmets, the KAV helmet has more space for energy-absorbing materials in the same envelope. The result is a sleek helmet that passes the mirror test with flying colors. Second, 3d printed allows the creation of novel, energy-absorbing mechanical structures that obsoletes the use of foam. The geometry of these structures varies by location to optimize for different impact scenarios. Yet, they all work together for the singular purpose of reducing the linear and angular accelerations to the brain that current science correlates to traumatic brain injuries (TBI) or concussions. Finally, following the familiar axiom of the safest helmet is the one that fits, we reimagined what defines a custom-fit helmet.</p>
+<p>Like other sports, hockey helmets are available in a finite number of sizes. Why is it that an essential part of our body has a coarser sizing standard than shoes, shirts, pants, or even accessories like belts and socks? Acquiring a helmet that neither creates pressure points nor wobbles during play is a challenge. Manufacturers rely on various compromises such as ratcheting mechanisms or the insertion of fit pads to take up excess space. These mechanisms compromise safety either by displacing energy-absorbing materials, providing gaps in protection, or oversizing helmets to avoid pressure points. Hockey is unique in its frequent use of a 2- piece shell that telescopes out to accommodate different head lengths. Unfortunately, extending the helmet also creates massive gaps in energy-absorbing materials where the two pieces of shell separate from one another.</p>
+<p>To fully capitalize on additive manufacturing, KAV fabricates a helmet around the athlete's unique measurements to produce the most comfortable form-fitting helmet. By building from the inside out, rather than having a rigid shell and shoehorning your noggin in, KAV offers the slimmest helmet possible. So while the safest helmet is the one that fits best, it turns out that with KAV, it also looks superior too.</p>
+<p>The challenge with 3d printing is the inherent trade-off between durability, surface finish, and cost. The first two characteristics are non-negotiable in hockey. 100mph slapshots and getting checked by football sized defensemen are all part of the game. 3d printing enables the inception of a helmet with a monocoque structure to minimize weight, providing consistent performance.</p>
+<p><img src="//cdn.shopify.com/s/files/1/0030/7372/files/KAV-Energy-Management-Fabrication_large.jpg?v=1582225794" alt="">KAV turned to the MakerGear for a robust solution to make helmets to enable mass customization without compromising performance. The MakerGear M3 printers are workhorses, frequently operating 24/7 in a production environment. The fabricated components are fantastic and durable enough to exceed all the certifications required for a rigorous sport like hockey. And like the KAV helmet, the M3s are manufactured in the USA. So it's no surprise that the world's most advanced helmet depends on the best FDM printer on the market. With KAV and Makergear, a new paradigm of manufacturing is born: mass customization enabling unrivaled performance in helmets. Visit <a href="https://www.kavsports.com">www.kavsports.com</a> for additional information.</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://makergear.com/blogs/stories/happy-holidays-with-viking-santa-madewithmakergear</id>
+    <published>2019-12-20T12:24:00-05:00</published>
+    <updated>2019-12-20T12:41:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/blogs/stories/happy-holidays-with-viking-santa-madewithmakergear"/>
+    <title>Happy Holidays with Viking Santa | #MadeWithMakerGear</title>
+    <author>
+      <name>Rick Pollack</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<p>Meet Viking Santa! </p>
+<p>Merry Christmas and Happy New Year from the team at MakerGear</p><p><a class="read-more" href="https://makergear.com/blogs/stories/happy-holidays-with-viking-santa-madewithmakergear">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<p>Meet Viking Santa! Modeled in ZBrush, printed in black PLA and hand-painted.</p>
+<p>Merry Christmas and Happy New Year from the team at MakerGear!!<br><br></p>
+<p>Download <a href="http://mkr.gr/9">Viking Santa</a> (Press the Download button to get the model)<br>22.1 meg download, 30 meg expanded</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://makergear.com/blogs/stories/engineer-3d-prints-supersized-rings-for-nba-champs</id>
+    <published>2019-11-11T15:49:00-05:00</published>
+    <updated>2019-11-11T15:54:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/blogs/stories/engineer-3d-prints-supersized-rings-for-nba-champs"/>
+    <title>Mascots Meet 3D Printing: Engineer Makes Supersized Rings for NBA Champs</title>
+    <author>
+      <name>Christian Taske</name>
+    </author>
+    <summary type="html">
+      <![CDATA[A trained mechanical engineer and professional sports mascot, Jacob Mostoller has made a business out of designing, 3D printing and selling jumbo-sized props like sunglasses, headphones and jewelry for pro teams. Among his customers are the current NBA champs.<p><a class="read-more" href="https://makergear.com/blogs/stories/engineer-3d-prints-supersized-rings-for-nba-champs">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<p><b>Jacob Mostoller </b>has two passions that, at first glance, don’t have much to do with each other.</p>
+<p>A mechanical engineer by training, Mostoller spends much of his workday as a ringtail cat. To fans of the <a href="https://www.instagram.com/txstarshockey/"><b>Texas Stars</b></a>, Mostoller is better known as <a href="https://www.instagram.com/txstarsringo/"><b>Ringo the Ringtail</b></a>, the self-proclaimed furriest and funniest mascot in hockey and two-time Best Mascot in the AHL.</p>
+<p>Meanwhile, as founder of <a href="https://www.instagram.com/engineered2entertain/"><b>Engineered 2 Entertain</b></a>, Mostoller leverages his knowledge of 3D printing to help other mascots celebrate their teams, and themselves, in a super-sized way. He’s made a name for himself, designing, printing and selling jumbo-sized props like sunglasses, headphones and jewelry.</p>
+<p><img alt="Ringo Ringtail" src="//cdn.shopify.com/s/files/1/0030/7372/files/RingoRingtail_grande.png?v=1573504273" style="float: right; margin-left: 5px;">“The inspiration hit me like a brick wall in June 2016,” Mostoller says. “I worked within the sports community during a time when Cleveland, Ohio was the epicenter of the sports world, and as an engineer I recognized an opportunity."</p>
+<p>Mostoller found his calling as a professional sports mascot while attending Cleveland State University, where he brought the Vikings’ mascot, Magnus, to life for years. Three weeks after he graduated with his mechanical engineering degree, the Cleveland Cavaliers won the NBA Championship and the city was swept up by euphoric celebrations.</p>
+<p>“I thought what better way for sports mascots to celebrate the spoils of victory than to wear their very own jumbo-sized championship rings. And what better way to make it in only a few short days than to 3D print it,” he says.</p>
+<p>Mostoller made his first three rings at the Cleveland Public Library with a <b><a href="https://www.makergear.com/products/m2">MakerGear M2</a>.</b> Those first rings were an instant hit and helped launch Mostoller’s company, Engineered 2 Entertain. Over the years, he has made mascot props for countless customers including the <b>Philadelphia Eagles</b>, the <b>Chicago White Sox</b> and the <b>Mascot Hall of Fame</b>.</p>
+<p>Most recently, Mostoller worked with the <b>Toronto Raptors</b> in recreating their 2019 NBA Championship ring. It was presented to their mascot, <b>The Raptor</b>, at the team’s official ring ceremony at the beginning of the season.</p>
+<p><a href="https://www.makergear.com/products/m3-id"><img alt="The Raptor" src="//cdn.shopify.com/s/files/1/0030/7372/files/TheRaptor_grande.png?v=1573504749" style="margin-left: 5px; float: right;"></a>Due to the complexity of the ring, Mostoller split it into parts and ran multiple printers to meet the opening night deadline. He used his <a href="https://www.makergear.com/products/m3-id"><b>MakerGear M3-ID</b></a> to make the ring’s body and the top band with the players’ numbers. He also printed a wooden case with Hatchbox wood filament and PLA on his M2.</p>
+<blockquote>
+<p>“The Raptors requested three identical rings,” Mostoller says.</p>
+<p>“The M3-ID duplication mode helped recreate the base of the rings in half the time it would normally take.</p>
+<p>The intricate details of the rim with the numbers required dissolvable PVA supports, so it was great to have the M3’s independent dual heads.</p>
+<p>All of the pieces were finished in only a few days, and the rest of the work was sanding, painting and adding the Swarovski crystals.”</p>
+</blockquote>
+<p>Mostoller says his MakerGear 3D printers have had a tremendous impact on his business. He has been able to count on high-quality, precision prints every time.</p>
+<blockquote>
+<p>“When I first got into 3D printing, I made the mistake of buying cheap. I was constantly plagued by inconsistent print quality and having to make repairs,” he says. It was not until I came across MakerGear that my company was able to reach new heights.”</p>
+</blockquote>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://makergear.com/blogs/stories/see-no-evil-hear-no-evil-speak-no-evil</id>
+    <published>2019-10-18T16:31:00-04:00</published>
+    <updated>2019-10-28T15:06:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/blogs/stories/see-no-evil-hear-no-evil-speak-no-evil"/>
+    <title>See No Evil? Hear No Evil? Speak No Evil? | #MadeWithMakerGear</title>
+    <author>
+      <name>Christian Taske</name>
+    </author>
+    <summary type="html">
+      <![CDATA[We put a Halloween spin on the three wise monkeys, featuring Dracula, Frankenstein's monster and a werewolf. From concept to modeling, printing and painting, watch how our evil trio was made. Want to print your own? Download Drax, Frank and Wolfgang here.<p><a class="read-more" href="https://makergear.com/blogs/stories/see-no-evil-hear-no-evil-speak-no-evil">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<meta charset="utf-8">
+<p><span>We put a MakearGear spin on the three wise monkeys, featuring Dracula, Frankenstein's monster and a werewolf. They're not quite buying into the no evil thing. (We see you peeking, Drax!) But hey, it's Halloween after all. </span></p>
+<p><span>From concept to modeling, printing and the paint job, check out our video below to see how our evil trio was made!</span></p>
+<p><span>Want to print your own?</span></p>
+<p><span>Download Drax, Frank and Wolfgang below. Then post your prints on social with #MadeWithMakerGear. We'll share the most creative photos!</span></p>
+<p><a href="https://cdn.shopify.com/s/files/1/0030/7372/files/Drack-good.stl?502"><span>Download Drax.</span></a></p>
+<p><a href="https://cdn.shopify.com/s/files/1/0030/7372/files/Frank.stl?502"><span>Download Frank.</span></a></p>
+<p><a href="https://cdn.shopify.com/s/files/1/0030/7372/files/Wolfgang-good.stl?502"><span>Download Wolfgang.</span></a></p>
+<p><span><iframe width="560" height="315" src="https://www.youtube.com/embed/brHNUBotVmI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></span></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://makergear.com/blogs/stories/3d-printing-solutions-in-the-automotive-industry</id>
+    <published>2019-09-20T16:29:00-04:00</published>
+    <updated>2019-10-28T15:07:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/blogs/stories/3d-printing-solutions-in-the-automotive-industry"/>
+    <title>3D Printing Solutions in the Custom Automotive Industry</title>
+    <author>
+      <name>Christian Taske</name>
+    </author>
+    <summary type="html">
+      <![CDATA[HGM Automotive Electronics manufactures control systems that transform vehicles from manual to automatic transmission. The company turned to MakerGear 3D printers to reduce production times and material costs.<p><a class="read-more" href="https://makergear.com/blogs/stories/3d-printing-solutions-in-the-automotive-industry">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<p>Automotive manufacturers typically produce parts in quantities ranging from 10,000 to millions at a time. But some companies, like <a href="https://www.hgmelectronics.com/" target="_blank" rel="noopener noreferrer"><strong>HGM Automotive Electronics</strong></a>, specialize in lower-volume, custom manufacturing.</p>
+<p>HGM develops and manufactures control systems that transform vehicles from manual to automatic transmission. From hotrods to hybrids to heavy trucking vehicles, HGM is a global leader in designing custom aftermarket automotive electronics.</p>
+<p>Custom development, from prototyping to testing, can be very costly, and precision and accuracy before production begins are paramount. In order to increase the efficiency of HGM’s pre-production processes and to safeguard against financial risks associated with manufacturing prototypes, Engineering Director <strong>Guy Cardwell</strong> began the search for a 3D printer.</p>
+<p>The <strong><a href="https://www.makergear.com/products/m2" target="_blank" rel="noopener noreferrer">MakerGear M2</a></strong> caught his attention because of its highly rated construction and record of reliability. Knowing his team could count on the M2 to print production parts 24/7 was also key in Cardwell’s decision to introduce MakerGear into HGM’s workflow.</p>
+<blockquote>
+<p>“A stiffer frame, high-quality components and linear bearings mean good dimensional accuracy, so our CAD models match the final product,” Cardwell says.</p>
+</blockquote>
+<p>Other key features of the M2, such as the wide range of nozzle temperatures that allow for printing in a variety of materials, and the fact that the printer is ready to print right out of the box, also convinced Cardwell the M2 was perfect for HGM.</p>
+<img alt="HGM" src="//cdn.shopify.com/s/files/1/0030/7372/files/HGM_Case_Study_.compressed-8_large_9a38c691-a1f9-4ba2-b837-2040266f196f.png?v=1569011324" style="margin-left: 5px; float: right;">
+<p>HGM uses the M2 to produce custom fixtures and tooling for each sub-assembly. This in turn reduces setup and testing time, as well as tooling costs. Because all components must be programmed and rigorously tested, HGM is able to reduce production time and costs without sacrificing its strict quality control standards.</p>
+<p>“With traditional, subtractive machining techniques, the fastest turnaround would be several days, even with the best service, and would cost us $500 to $1000,” Cardwell says. “With our MakerGear M2, each custom fixture takes about two hours and $3 of material to produce.”</p>
+<p>HGM has a full machine shop and could do all of this without 3D printing. It’s just not cost effective, Cardwell says.</p>
+<blockquote>
+<p>“My time is important to me, and with 3D printing I can achieve immense time and cost savings by avoiding cutting plastic, placing the part in a vice, running expensive equipment, and tool changes,” he says.</p>
+</blockquote>
+<p>In addition, because HGM prints built-to-spec samples to send to manufacturing partners, the company is able to ensure that the first production run produces results.</p>
+<p>“3D printing introduced an element of safety to my business,” Cardwell says. “It allows our team to pursue new opportunities without taking huge risks.”</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://makergear.com/blogs/stories/ksa-saves-money-with-3d-printed-prototypes</id>
+    <published>2019-09-20T13:57:00-04:00</published>
+    <updated>2019-10-28T15:08:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/blogs/stories/ksa-saves-money-with-3d-printed-prototypes"/>
+    <title>K-Space Associates Saves Money With 3D-Printed Prototypes</title>
+    <author>
+      <name>Christian Taske</name>
+    </author>
+    <summary type="html">
+      <![CDATA[k-Space Associates' products can be found in R&amp;D facilities around the world. It uses MakerGear 3D printers to create fully functional prototypes of systems intended to be CNC machined out of aluminum. This approach is saving kSA time and money.<p><a class="read-more" href="https://makergear.com/blogs/stories/ksa-saves-money-with-3d-printed-prototypes">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<p><strong><a href="https://www.k-space.com/" target="_blank" rel="noopener noreferrer">k-Space Associates</a></strong> is a leading manufacturer of metrology tools for the semiconductor, thin-film, photovoltaic, solar, automotive, glass and building materials industries. The company’s tools and custom solutions can be found in research and production facilities all around the world.</p>
+<p>For years, kSA has 3D printed custom electronics boxes used for the calibration of tools, fixturing for optical components, and full-size optical probe prototypes. The company originally purchased the <strong><a href="https://www.makergear.com/products/m2" target="_blank" rel="noopener noreferrer">MakerGear M2</a></strong> and recently upgraded to the <strong><a href="https://www.makergear.com/products/ultra-one" target="_blank" rel="noopener noreferrer">MakerGear Ultra One</a></strong> large-format industrial printer for mass producing components.</p>
+<p>k-Space uses its MakerGear 3D printers to create fully functional prototypes of systems intended to be CNC machined out of aluminum. It has printed entirely new products for only a few dollars to test tolerances or fix misalignments prior to final machining.</p>
+<p>Many of k-Space’s customers use various types of vacuum chambers and have strict timelines for when their processes can be shut down. 3D printing allows k-Space to make optical probe prototypes and send them to customers, so they can test fitment on the vacuum chambers prior to receiving the real product. The ability to test for fitment issues ahead of schedule, often before making the actual product, is critical to saving both time and money.</p>
+<blockquote>
+<p>“We were able to design and print an entire optical shutter system in only a few short hours,” says <strong>Hunter Van Eck</strong>, an application engineer with kSA. “This allowed us to test and prove the viability of our product’s design and potentially save upwards of $150,000 across an entire order of 100 units. This more than pays for the cost of the machine!”</p>
+</blockquote>
+<p>k-Space Associates also uses 3D-printed components inside its own systems, including adapter plates for fitting together oddly shaped objects, custom holders for optics, and cable clamps. kSA typically uses PETG and Nylon filaments for these production-ready components.</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://makergear.com/blogs/stories/preparing-the-next-generation-for-tomorrows-manufacturing-careers</id>
+    <published>2019-09-17T11:23:00-04:00</published>
+    <updated>2019-10-28T15:09:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/blogs/stories/preparing-the-next-generation-for-tomorrows-manufacturing-careers"/>
+    <title>Preparing the Next Generation for Manufacturing Careers</title>
+    <author>
+      <name>Christian Taske</name>
+    </author>
+    <summary type="html">
+      <![CDATA[When the Nucor Detailing Center partnered with five school districts to introduce junior high students to 3D printing, it anticipated MakerGear printers would be used a great deal in technology-related classes. What surprised them was the many other innovative uses.<p><a class="read-more" href="https://makergear.com/blogs/stories/preparing-the-next-generation-for-tomorrows-manufacturing-careers">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<p>Art teachers use them to turn students’ drawings into three-dimensional objects; agriculture educators use them to show how farm irrigation works; physics teachers use them to build robotic arms; and special education teachers use them as an incentive for their students.</p>
+<p>When the <strong>Nucor Detailing Center</strong> in Norfolk, Nebraska partnered with five local school districts to introduce junior high students to 3D printing, it anticipated <strong>MakerGear</strong> printers would be used a great deal in technology-related classes. What surprised them was the many other innovative uses of the machines.</p>
+<blockquote>
+<p>“3D printing is an easy way to generate excitement with students in many grade levels and varying interests,” says <strong>David DeCarolis</strong>, a trainer with Nucor. “The sound and movement of the printers spur the interest and curiosity of the kids. Once they are focused on 3D printing, it becomes easier to have discussions about additive manufacturing and careers that use this technology.”</p>
+</blockquote>
+<img alt="Creation Station" src="//cdn.shopify.com/s/files/1/0030/7372/files/Creation_Station_Blog_2.jpg?v=1568733593" style="margin-left: 5px; float: right;">
+<p>Nucor is the largest steel products manufacturer in the United States with over 25,000 employees across 300 locations. The company teamed up with the school districts to create a program that promotes interest in manufacturing, engineering and technology careers among 7th and 8th grade students.</p>
+<p>Together, Nucor and the school districts received a $125,000 grant, which provided the schools with age-appropriate manufacturing equipment, including eleven <strong><a href="https://www.makergear.com/products/m3-id">MakerGear M3-ID printers</a></strong>, laser engravers, CNC machines, vinyl cutters, and embroidery machines. These “Creation Stations” include a permanent makerspace at Norfolk Junior High School and a mobile makerspace to provide equipment to four other rural schools.</p>
+<p>The program also features training for teachers and presentations for students by Nucor staff to ensure both the educators and kids know how to properly use the equipment. As a result, teachers are incorporating 3D printing into their existing curriculum and their students are replicating the design-to-manufacture process that is at the heart of careers with Nucor.</p>
+<p>“The goal of the program is to introduce junior high students to drafting and manufacturing career skills,” DeCarolis says. “The long-term goal is to strengthen the future manufacturing, IT and drafting workforce in Northeast Nebraska.”</p>
+<p>Due to class sizes, schools often struggle to find enough time to allow all students to print their models. The program addresses this issue by providing multiple 3D printers in the Creation Stations.</p>
+<blockquote>
+<p>“With our MakerGear printers and <strong><a href="https://www.simplify3d.com/engaging-students-with-new-makerspace-program/">Simplify3D</a></strong> software, we are able to load multiple models, print in two colors simultaneously, and even use the dual extruders to print two identical objects at the same time, which doubles our print speed,” DeCarolis says.</p>
+<img alt="Creation Station" src="//cdn.shopify.com/s/files/1/0030/7372/files/Creation_Station_Blog_3.jpg?v=1568733712" style="margin-left: 5px; float: right;">
+</blockquote>
+<p>In 2018, the program provided over 1,000 students with access to new technology and learning experiences. Early surveys indicate the program has increased their interest in manufacturing. Nucor and its educational partners are looking for ways not only to sustain but grow the program. They are focused on establishing permanent Creation Stations in the four other rural schools, instead of sharing a single traveling makerspace between them.</p>
+<p>Nucor has already provided additional money and the schools have sourced funds to purchase additional hardware. Principals and teachers have said that once district administrators saw the students enthusiastically engaged with the equipment, especially the 3D printers, it was easy to convince them of the value that the makerspaces bring to their school.</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://makergear.com/blogs/stories/high-school-students-solving-third-world-problems</id>
+    <published>2019-09-13T16:18:00-04:00</published>
+    <updated>2019-09-17T11:45:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/blogs/stories/high-school-students-solving-third-world-problems"/>
+    <title>Solving Third-World Problems with MakerGear Printers</title>
+    <author>
+      <name>Christian Taske</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<meta charset="utf-8">Three years ago, two seniors at Winchester Thurston School in Pittsburgh wanted to solve a major problem halfway around the world. With the support of their school and the use of a MakerGear 3D printer, they are doing just that.<p><a class="read-more" href="https://makergear.com/blogs/stories/high-school-students-solving-third-world-problems">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<p>Three years ago, two seniors at <strong>Winchester Thurston School</strong> in Pittsburgh wanted to solve a major problem halfway around the world. With the support of their school and the use of a <strong><a href="https://www.makergear.com/collections/3d-printers">MakerGear 3D printer</a></strong>, they are doing just that.</p>
+<p>The students - <strong>Jack Waters and Jacob Dubner</strong> - had discovered a major problem with efforts to combat diarrheal diseases like cholera in developing nations. They had found that a common treatment practice - the use of Oral Rehydration Solutions (ORS) - was unreliable because people often measured inaccurate ORS concentrations.</p>
+<meta charset="utf-8">
+<p>The solutions are usually made by adding water to a pre-measured packet of salt and sugar, or by measuring out the individual ingredients. But the pre-measured packets are often out of stock and the suggested alternative method of using a pinch of salt and a palm full of sugar is inaccurate.</p>
+<p>So, Jack and Jacob submitted a proposal to Science Department Chair and STEM Education Teacher <strong>Graig Marx</strong> for a device that allows anyone to properly measure the solutions.</p>
+<p>Students in Marx’ engineering and design class are turned loose on projects with only one requirement: They must develop a product that helps people. This unique mix of pedagogical practices, fusing product development and altruism, results in thoughtful problem-finding and creative problem-solving.</p>
+<p><img alt="ORTube" src="//cdn.shopify.com/s/files/1/0030/7372/files/ORTube1_ef52c51a-1435-48d9-a5e5-4213ed3c346a.png?v=1568730569" style="margin-left: 5px; float: right;">The device Jack and Jacob invented is called the <strong>ORTube</strong>. The simple yet effective tube consists of a smaller space for measuring the accurate amount of salt and a larger opening for the sugar.</p>
+<p>“You pour it in a 1-liter bottle of water and you have a perfect DIY Pedialite,” Marx says. “It’s genius!”</p>
+<p>But getting to that genius idea took a while. Jack and Jacob tested a variety of ways to both transfer and measure the salt and sugar into their tube. They pitched one of their early designs to <strong>Omni Med</strong>, a nonprofit that trains health workers to administer ORS in Uganda. Omni Med ordered a small batch of the tubes to test them in the field.</p>
+<p>In order to successfully deliver on the ORTubes for Omni Med, the students turned to a MakerGear 3D printer for production. Throughout the iterative design stage Jack and Jacob dove into the process behind 3D printing and the difference between the printers available to them. They chose the MakerGear 3D printer for its speed and reliability.</p>
+<p>The students often printed six ORTubes at a time, letting the printer run for 18+ hours, always returning to successful prints. They experimented with a variety of plastics and nozzle diameters, ultimately settling on a 0.50 mm nozzle and an FDA-approved, dishwasher safe, high-temp PLA. The ability to quickly change out extruders on the MakerGear 3D printer and fine-tune the temperature settings of both the extruder and the heated bed ensured reliable and repeatable prints every time.</p>
+<meta charset="utf-8"><img alt="ORTube" src="//cdn.shopify.com/s/files/1/0030/7372/files/ORTube2_78d69a65-a79b-4d86-a9ff-0f99bddae506.png?v=1568731122" style="margin-left: 5px; float: right;">
+<p>Armed with feedback from the field testing, Jack and Jacob re-worked their design and grew their relationship with Omni Med, while successfully navigating their freshman year of college. In June of 2018, they again used the MakerGear 3D printer to deliver a fresh batch of ORTubes to Uganda. This time they traveled with Omni Med to personally train the health workers and experience life in Uganda as they collected data on the use of their device.</p>
+<p style="text-align: left;">Jack and Jacob are on their 18th iteration of the ORTube. They used feedback from their trip to make the tube function more intuitively. Plus, the final design could be more easily produced via injection molding.</p>
+<p>In June and July of this year, Jack and Jacob printed 650 ORTubes in batches of six to nine at a time on two MakerGear 3D printers. With an average of about 10 hours per batch, that equaled to about 870 hours of printing.</p>
+<blockquote>
+<p>“We had not one clog,” Marx says. “And that’s even though both of the machines were already at veteran status, having been used in my engineering and design class for two years.”</p>
+</blockquote>
+<p>The new tubes have been sent to Uganda and been distributed by Omni Med. Jack and Jacob plan to return to Africa to gather data on the new tubes in the summer of 2020.</p>
+<p>In the meantime, their project has inspired Marx to launch a new STEM design challenge for schools in the Western Pennsylvania region. <strong><a href="http://www.d2md.org">Design to Make a Difference</a></strong> is in its third year, providing access to equipment, training for teachers, and a platform for students to showcase their work.</p>
+<p>“Jack and Jacob were the inspiration for this program,” Marx says. “I think there are a couple of Jacks and Jacobs, or Janes and Jennies, at every school. Think about how much good these kids can do, if provided the opportunity and inspiration!”</p>
+<p>For more information on how to support Jack and Jacob’s project and Design to Make a Difference, contact Graig Marx at <a href="mailto:designtomakeadifference@gmail.com" target="_blank" rel="noopener noreferrer"><strong>DesignToMakeADifference@gmail.com</strong></a>.</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://makergear.com/blogs/stories/makergears-founders-story</id>
+    <published>2019-09-11T18:06:00-04:00</published>
+    <updated>2019-10-28T14:52:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/blogs/stories/makergears-founders-story"/>
+    <title>The MakerGear Story</title>
+    <author>
+      <name>Annie Liao</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<meta charset="utf-8">
+<p>He was a software guy, not a machinist. Not yet, anyway. But one afternoon at auction, he got into a spirited bidding war on a machine. $250 later he had his very own vintage micro-lathe. It was exactly what he needed to enable him to begin making a real difference in the dawning desktop 3D printer movement.</p><p><a class="read-more" href="https://makergear.com/blogs/stories/makergears-founders-story">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<p><strong>A BID FOR BETTER AT THE DAWN OF 3D PRINTING</strong></p>
+<p><span style="font-weight: 400;">He was a software guy, not a machinist. Not yet, anyway.</span></p>
+<p><span style="font-weight: 400;">But one afternoon at auction, he got into a spirited bidding war on a machine. $250 later he had his very own vintage micro-lathe. It was exactly what he needed to enable him to begin making a real difference in the dawning desktop 3D printer movement.</span></p>
+<p><span style="font-weight: 400;">It was 2009 and </span><b>Rick Pollack</b><span style="font-weight: 400;"> owned one of the first commercially available desktop 3D printers. The machines were built with laser-cut plywood and, though they were a lot of fun to build, did not work very well. At that time, the extruder components on the machines were unreliable at best. Pollack recalls that if someone actually managed to successfully 3D print an object it was cause to break out the champagne.</span></p>
+<p><span style="font-weight: 400;">The online community that had sprung up around this new technology was filled with conversations about how to get the problematic extruders to successfully melt and evenly dispense the plastic filament. This fledgling technology, brimming with possibility, but lacking in consistency, had Pollack wondering how he could do this better.</span></p>
+<p><span style="font-weight: 400;">Pollack began using his “new” micro-lathe to prototype extruders, and after numerous attempts and variations found a design that worked. Pollack’s print quality greatly improved and his extruders were consistent. Successful prints were now an expectation on his desktop 3D printer and no longer an exception.</span></p>
+<p><span style="font-weight: 400;">Pollack leveraged his knowledge of online communities to communicate with other 3D printer users who were desperately in need of reliable extruders and ready to try his design. For the first several months, Pollack made parts by hand during the day, and provided technical support and took orders online by night. And so MakerGear began – with Pollack at his lathe, helping other 3D printer users get their machines up and extruding smoothly.</span></p>
+<p><span style="font-weight: 400;">As MakerGear took hold, it developed a reputation for providing high-quality precision parts backed up by excellent customer service. From the beginning, MakerGear’s solid reputation for quality and support was paving its way forward into this growing industry.</span></p>
+<p><strong>FROM HAND-MADE EXTRUDERS TO ROCK-SOLID MACHINES</strong></p>
+<span style="font-weight: 400;"><span style="font-weight: 400;"><img alt="" src="//cdn.shopify.com/s/files/1/0030/7372/files/Mosaic_large.jpg?v=1491189104" style="float: right; margin-left: 5px;"></span></span>
+<p>It didn’t take long for Pollack to begin designing and constructing his own desktop 3D printers to sell to his ever-growing, loyal MakerGear customers. His first offering was a MakerGear RepRap kit, but always on the pursuit for better, he soon set up shop, laser-cutting frames and assembling plywood-frame printers at his home.</p>
+<p><span style="font-weight: 400;">In 2011 Pollack launched the </span><b>MakerGear Mosaic</b><span style="font-weight: 400;"> (also known as the M1), which received great reviews. His desire to constantly improve created a culture of perpetual innovation within MakerGear, raising the bar for what was possible in the realm of 3D printing. </span></p>
+<p><span style="font-weight: 400;">While continuing to run MakerGear, Pollack enrolled in a daily CNC machining class. After a couple of months, he had developed the confidence he needed to bid on an industrial CNC machine at an online auction. As if buying an expensive CNC machine sight unseen from across the country wasn’t stressful enough, Pollack also realized that it was too big to fit through the shop doors. Six weeks later it arrived during a downpour on a flatbed truck. After removing a few parts, it fit through the doors. </span></p>
+<a href="https://www.makergear.com/products/m2"><img alt="" src="//cdn.shopify.com/s/files/1/0030/7372/products/m2e-2_large.jpg?v=1470342629" style="float: right; margin-left: 5px;"></a>
+<p><span style="font-weight: 400;">This marked a pivotal moment when MakerGear evolved from maker to manufacturer. The CNC equipment provided the opportunity to produce 3D printers on MakerGear’s timeline and to MakerGear's specifications. The company’s mission was to create a durable product that could offer as much utility in a machine shop as it did in an office, studio or classroom.</span></p>
+<p>MakerGear released its third 3D printer – the <a href="https://www.makergear.com/products/m2"><b>MakerGear M2</b></a><span style="font-weight: 400;"> – in April 2012. Unlike its plywood predecessors, the M2 was constructed from fabricated steel and machined aluminum. Rock solid and built to last for the long haul, the machine was a delight to customers, both for its construction and consistency. This feedback further emboldened MakerGear’s commitment to using stainless steel frames and precision-machined components.</span></p>
+<p><span style="font-weight: 400;">MakerGear’s original workhorse, the M2 has become a worldwide success. It has received numerous user awards around the globe for its product quality and reliability. </span><span style="font-weight: 400;">It took top-honors in 3D Hubs’ Annual 3D Printer Guide for three consecutive years, <a href="https://www.makergear.com/blogs/news/makergear-3d-printers-ranked-1-in-the-world"><b>and was rated the Number 1 Desktop 3D Printer in the World in 2017.</b></a></span></p>
+<p><b>M3-SE &amp; M3-ID: THE NEXT GENERATION</b></p>
+<img alt="M3 ID" src="//cdn.shopify.com/s/files/1/0030/7372/files/M3-ID_5899215d-f294-4bfc-a685-ada6d3f220d5_large.jpg?v=1569963468" style="float: right; margin-left: 5px;">
+<p><span style="font-weight: 400;">While its original workhorse was garnering top accolades, MakerGear was chomping at the bit to introduce its next generation of 3D printers. The </span><a href="https://www.makergear.com/products/m3"><b>MakerGear M3-SE</b></a><span style="font-weight: 400;"> and </span><a href="https://www.makergear.com/products/m3-id"><b>MakerGear M3-ID</b></a><span style="font-weight: 400;"> were unveiled at the RAPID + TCT 3D Printing and Additive Manufacturing show in Pittsburgh in May 2017.  </span></p>
+<p>The M3 series offers advancements built on MakerGear’s precision-machined systems and designs, emphasizing performance and enabling continuous, 24/7 operation. With features like True-Leveling™, wifi connectivity, wireless control and an integrated user interface, the M3 series has made it easier than ever to leverage the advantages of 3D printing. </p>
+<p><span style="font-weight: 400;">The M3-ID offers a fast, efficient and reliable solution to the growing demand for multi-material and soluble-material 3D printing. With its independent dual extruders, it has enabled businesses and professionals to double their production speed for single-material prints. For professionals new to 3D printing or for those looking to keep it simple, the M3-SE has made it easier and more cost-effective than ever to harvest the benefits of professional 3D printing.</span></p>
+<p><b>MAKERGEAR’S INDUSTRIAL 3D PRINTER: THE ULTRA ONE</b></p>
+<p><span style="font-weight: 400;">Since its introduction, the M3 series has further strengthened MakerGear’s reputation as a manufacturer of professional-grade 3D printers that are reliable, durable and adaptable. </span></p>
+<p><span style="font-weight: 400;">But what if the company could take its unwavering commitment to innovation and excellence even further?  </span></p>
+<span style="font-weight: 400;"><span style="font-weight: 400;"><a href="https://www.makergear.com/products/ultra-one"><img alt="Ultra One" src="//cdn.shopify.com/s/files/1/0030/7372/files/U1-2_2000x_e78de8fb-b340-44a8-9df4-b089993c3ec3_large.png?v=1569963591" style="float: right; margin-left: 5px;"></a></span></span>
+<p>In September of 2018, less than 10 years after it had introduced its plywood-frame Mosaic, MakerGear unveiled its <a href="https://www.makergear.com/products/ultra-one"><b>Ultra One</b></a> industrial 3D printer at the International Manufacturing Technology Show (IMTS) in Chicago.</p>
+<p><span style="font-weight: 400;">Shrouded in riveted sheet metal, the MakerGear Ultra One combines industrial reliability with consumer-driven flexibility. It features independent direct-drive dual extruders, an assisted bed-leveling system with automatic compensation, and extensive connectivity options powered by an onboard print management system. With its 16” by 14” by 13” build volume and fully sealed enclosure, the Ultra One marked MakerGear’s entry into industrial 3D printing.   </span></p>
+<p><b>COMMITMENT TO CUSTOMERS &amp; COMMUNITY</b></p>
+<p><span style="font-weight: 400;">Today, MakerGear printers can be found in all 50 states and over 75 countries. Rick Pollack’s commitment to the community in which it all started has kept MakerGear’s headquarters, production and tech support in Beachwood, Ohio. Many of the components used in MakerGear 3D printers are manufactured within a 30-minute drive of Cleveland, and, with its extensive investment in local manufacturing, MakerGear has brought tens of millions of dollars into Ohio. </span></p>
+<p><span style="font-weight: 400;">While much has changed since Pollack’s initial investment in a vintage lathe in 2009, MakerGear continues to embody his vision as a company that never lets anything stand in its way of creating machines that set the precedent for precision and durability. A company built on thoughtfully responding to the changing needs of its customers, MakerGear continues to push the boundaries of innovation and craft rock-solid machines. Amidst the numerous advances and seismic shifts that have occurred in desktop 3D printing, MakerGear printers remain as ready-to-run and built-to-last as ever.</span></p>
+<meta charset="utf-8">
+<p><strong>MORE ABOUT OUR FOUNDER</strong></p>
+<p><strong><iframe width="560" height="315" src="https://www.youtube.com/embed/VbsZcD-fgy4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></strong></p>
+<div style="text-align: left;">MakerGear Founder &amp; CEO Rick Pollack is a serial entrepreneur with over 20 years of experience in software development and computer science. Among Pollack’s previous ventures have been a CRM software company that was acquired in 2000, a gaming device company dedicated to connecting families at long distances, and a stint at a crowdsourcing venture that pioneered the use of open source technologies to spur innovation.</div>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://makergear.com/blogs/stories/support-team</id>
+    <published>2018-02-27T12:00:00-05:00</published>
+    <updated>2019-10-28T15:11:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/blogs/stories/support-team"/>
+    <title>Meet the MakerGear Support Team</title>
+    <author>
+      <name>Annie Liao</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<meta charset="utf-8"><span>We sat down with Michael and Jason, two of our tech support team members, who shared what it’s like from their side of the support desk. Hear how they became 3D printing experts, the most common calls they receive, and more...</span><p><a class="read-more" href="https://makergear.com/blogs/stories/support-team">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<p>MakerGear is committed to providing top notch support to all of our customers. Our team of resident MakerGear tech support experts offers troubleshooting assistance for any MakerGear printers in need of technical care.</p>
+<p>We sat down with Michael and Jason, two of our tech support team members, who shared what it’s like from their side of the support desk.</p>
+<p><strong>First of all, I’d love to know what were some of the most helpful resources when you were getting started with 3D printing?</strong></p>
+<p><strong><em>Jason:</em></strong> In the beginning, whenever I encountered an issue with a print not sticking to the bed or layers shifting during printing, I’d go to the <a href="https://www.simplify3d.com/support/print-quality-troubleshooting/" target="_blank" rel="noopener noreferrer">Print Quality Trouble Shooting Guide</a> on the Simplify 3D website. They have pictures and explanations of the most common problems people face with their prints and nine times out of ten it gave me just the answer I was looking for. I also spent a lot of time on YouTube watching people’s 3D printing tips and tricks, and asking people who knew what they were doing lots of questions.</p>
+<p><strong><em>Michael:</em></strong> I learned by printing as much as I could, whatever I could. Even printing tiny trinkets helped me learn. Slowly, I noticed different quality issues. I’d run into an issue and I’d have to fix it. Even if I didn’t feel like figuring it out, I had to work through it because I wanted to get a good print. That’s how I learned. For me, I’ve found it to be more of an art than a science.</p>
+<p><strong>You spend all day with these printers, and know them backwards and forwards, what have you learned to help you troubleshoot issues with other people’s printers when they're not sitting right in front of you?</strong></p>
+<p><em><strong>Michael</strong>:</em> Our first priority is to make sure we’re talking apples to apples with the customer right away. There are so many parts and components that make up each 3D printer and we have to make sure we’re speaking the same language about the machine. What some people might call a hotend, we call an extruder and if we aren’t on the same page, it can get really confusing. So, we always start with the basics and make sure we know what printer and model number they’re using, as well as what filament, and then move on to more diagnostic questions. What it comes down to is that there’s usually a piece of information they are missing, and our job is to figure out what that is, to get them up and printing again as quickly as possible. </p>
+<meta charset="utf-8">
+<p><strong><img src="//cdn.shopify.com/s/files/1/0030/7372/files/supportteam_large.jpg?v=1519775618" alt="MakerGear Support Team"></strong></p>
+<p><strong>It sounds like your job requires a lot of detective work.  </strong></p>
+<p><em><strong>Jason</strong>:</em> Yes, it’s much like detective work. We ask a lot of questions and tailor our solutions to each customer because each case is different. Often it ends up being a super simple solution, we just needed to get the right piece of information to solve the puzzle. One thing that often makes a difference is being able to see for ourselves what the problem is. One of the most helpful things someone can do is to send pictures or a video of the problem they’re having. It can really speed up of the process of finding a resolution.</p>
+<p><strong>What are some of the most common issues you get calls about? </strong></p>
+<p><em><strong>Jason</strong>:</em> One common issue is when people try to print with old filament or a spool that’s left on their printer without being properly stored. It’s such a simple fix. Just make sure you’re storing your filament in an airtight bag when its not in use, and it will last much longer that way.</p>
+<p><em><strong>Michael</strong>:</em> Often times the solution to an issue is as simple as cleaning the glass to help the print adhere, or making sure the power cable is seated fully. It's usually the simple things that hold people up. So we always start by looking for the simplest thing first and let that lead us down the road to a solution.</p>
+<p><img src="//cdn.shopify.com/s/files/1/0030/7372/files/support_team_2_large.jpg?v=1519776110" alt="MakerGear Support Team"></p>
+<p><strong>What would be your number one recommendation to help people troubleshooting a problem at home?</strong></p>
+<p><em><strong>Jason</strong>:</em> As simple as it sounds, I’d say start with the manual. Many of the calls we receive are a matter of missing a step. So, if you come across a problem, go back and read the manual and follow the steps, and often times you’ll end up right where you need to be! </p>
+<p><em><strong>Michael</strong>:</em> I'd say look for the simplest explanation to your problem first. And watch the videos! Our website has setup and troubleshooting <a href="https://makergear.zendesk.com/hc/en-us">videos and other resources</a> for MakerGear owners that can help with many common fixes. </p>
+<p>And of course, if you get stuck, our expert MakerGear tech support team is at your service!</p>
+<p><strong></strong><strong>Thanks Michael and Jason! We're grateful for the work you do and for sharing your insights! </strong></p>
+<p>MakerGear’s tech support team is here and happy to help with any printer troubleshooting issues you may encounter with your MakerGear printer. You can reach them by phone at <strong>(216) 508-4025</strong> (9am-4pm ET M-F) or by email at <strong>support[at]makergear[dot]com</strong>. </p>
+<p> </p>
+<p style="text-align: left;"><strong><em><img alt="Lantern 3D Print " src="//cdn.shopify.com/s/files/1/0030/7372/files/Jason-2-min_medium.jpg?v=1519775746" style="float: none;">      </em></strong><img src="//cdn.shopify.com/s/files/1/0030/7372/files/Michael-2_medium.jpg?v=1519775821" alt="Portrait 3D Print"></p>
+<meta charset="utf-8">
+<p style="text-align: left;"><em>Above: The MakerGear support team is always printing and always perfecting their printing techniques, equipping them to handle 3D printing questions of every kind!</em></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://makergear.com/blogs/stories/gift-boxes</id>
+    <published>2017-12-19T16:04:00-05:00</published>
+    <updated>2019-10-28T15:11:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/blogs/stories/gift-boxes"/>
+    <title>Gift Box Prints to Amaze</title>
+    <author>
+      <name>Annie Liao</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<meta charset="utf-8">
+<p><span>There are two types of people in this world -- those who can neatly wrap a gift and those who depend on gift bags and tissue paper. There is, of course, a third type that deserves a some attention -- those who print their own packaging! We did a little hunting to round up some holiday box print designs that are a gift in and of themselves. </span></p><p><a class="read-more" href="https://makergear.com/blogs/stories/gift-boxes">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<p>There are two types of people in this world -- those who can neatly wrap a gift and those who depend on gift bags and tissue paper. There is, of course, a third type that deserves some attention -- those who print their own packaging! We did a little hunting to round up some holiday box print designs that are a gift in and of themselves. </p>
+<p><a href="https://www.thingiverse.com/thing:1223492" target="_blank" rel="noopener noreferrer">Holiday Box</a> by Arnold_Mandarak</p>
+<h6><a href="https://www.thingiverse.com/thing:1223492" target="_blank" rel="noopener noreferrer"><img alt="" src="//cdn.shopify.com/s/files/1/0030/7372/files/christmasbox_large.jpg?v=1513028850" style="float: none;"></a></h6>
+<p><a href="https://www.thingiverse.com/thing:1284952" target="_blank" rel="noopener noreferrer">Llama Box</a> by scorch</p>
+<p><a href="https://www.thingiverse.com/thing:1284952" target="_blank" rel="noopener noreferrer"><img src="//cdn.shopify.com/s/files/1/0030/7372/files/llama_large.jpg?v=1513028920" alt=""></a></p>
+<p><a href="https://www.thingiverse.com/thing:586169">Combination Safe Box</a> by SavageRodent</p>
+<p><a href="https://www.thingiverse.com/thing:586169" target="_blank" rel="noopener noreferrer"><img src="//cdn.shopify.com/s/files/1/0030/7372/files/combinationbox_large.jpg?v=1513028923" alt=""></a></p>
+<p><a href="https://www.thingiverse.com/thing:120179" target="_blank" rel="noopener noreferrer">Hinge Box</a> by profhankd</p>
+<p><a href="https://www.thingiverse.com/thing:120179" target="_blank" rel="noopener noreferrer"><img src="//cdn.shopify.com/s/files/1/0030/7372/files/hingebox_large.jpg?v=1513034412" alt=""></a></p>
+<p><a href="https://www.thingiverse.com/thing:1439556" target="_blank" rel="noopener noreferrer">Cheese Box</a> by UTJTrain</p>
+<p><a href="https://www.thingiverse.com/thing:1439556" target="_blank" rel="noopener noreferrer"><img src="//cdn.shopify.com/s/files/1/0030/7372/files/cheesebox_large.jpg?v=1513029571" alt=""></a></p>
+<p> Images via <a href="https://www.thingiverse.com" target="_blank" rel="noopener noreferrer">Thingiverse</a></p>
+<p>Happy printing and happy holidays!</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://makergear.com/blogs/stories/casting-metal-parts</id>
+    <published>2017-10-20T08:24:00-04:00</published>
+    <updated>2019-10-28T15:13:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/blogs/stories/casting-metal-parts"/>
+    <title>Casting Metal Parts</title>
+    <author>
+      <name>Sam Cervantes</name>
+    </author>
+    <summary type="html">
+      <![CDATA[While many of our customers have been casting metal from 3D printed parts for some time, we hadn't given it a serious effort. We finally gave it a try and the results were encouraging. We turned aluminum soda cans and an old aluminum ladder into some awesome stuff. Check out our process and lessons learned.<p><a class="read-more" href="https://makergear.com/blogs/stories/casting-metal-parts">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<p><em>Warning: Metal casting is dangerous. Molten metal and hot objects can cause burns. Additionally, many of the molding materials are toxic. Please seek the guidance of a trained professional before attempting anything listed here. All of our metal castings were performed under the supervision of a professional metal fabricator.</em></p>
+<p>I spent the weekend having the most fun I've had in quite some time - casting metal parts from 3D printed objects. I'll share my experiences here along with what I learned.</p>
+<p>Special thanks to Dana (Instagram: @phoenix55x) for the use of his hot-rod shop and helping us out!</p>
+<p>In total we made five attempts at casting, two of which were successful:</p>
+<p><img src="//cdn.shopify.com/s/files/1/0030/7372/files/4_castings_large.jpg?v=1508165308" alt=""></p>
+<h3>Attempt #1: Sand Casting</h3>
+<p>Our ultimate goal was to make an investment casting of this brake lever that we printed with moldlay filament:</p>
+<p><img src="//cdn.shopify.com/s/files/1/0030/7372/files/moldlay_part_large.JPG?v=1508166031" alt=""></p>
+<p>However, since investment casting destroys the part, we decided to first try a sand casting as an experiment. In a sand casting, the part is reusable since it is removed from the mold before the metal pour.</p>
+<p>We used Green Sand for the mold material. Green sand is a reusable mixture of sand, clay (bentonite), and water. Special thanks to Queen City Clay (instagram: @queencityclay) for their advice and help in selecting the materials. We didn't use the plaster in this step - that's used later for investment casting.</p>
+<p><img src="//cdn.shopify.com/s/files/1/0030/7372/files/bentonite_and_plaster_large.JPG?v=1508166415" alt=""></p>
+<p>We used respirators at all times when handling the materials since there were warnings on the packaging about toxicity. For the Green Sand, we mixed about 50 lbs of sand to 6 lbs of bentonite, while spraying a fine mist of water on with a spray bottle. The exact proportion is found by trial and error. A proper mixture will allow you to create a "sausage" in your hand by squeezing the material tightly. The sausage should hold together on it's own and break apart along clean lines with some resistance.</p>
+<p>We used a two-part mold for our sand casting. We quickly discovered that our part wasn't quite suitable for this type of casting. Due to the complex geometry of this part (holes, cutouts and lack of draft) we had to tape over the holes and cutouts to make the part removable.</p>
+<p>We placed the mold frame on a flat surface and then elevated the printed part on blocks of wood so that the centerline of the part was in the same plane as the dividing line of the two mold halves. Next we began to add the sand, sifting the first layer to ensure that it was free of chunks.</p>
+<p> <img src="//cdn.shopify.com/s/files/1/0030/7372/files/part_in_sand_large.JPG?v=1508167357" alt=""></p>
+<p>We then filled the mold frame with sand, tamping the sand down tightly with a large block of wood. After filling with sand, the part stuck up half-way out of the bottom mold. Next, we flipped the (now filled) bottom frame over, placed the second frame on top,  and sprinkled baby powder on the bottom half to prevent the two halves from sticking together when we would separate them later. Then we filled the second frame with sand as well:</p>
+<p><img src="//cdn.shopify.com/s/files/1/0030/7372/files/filled_frame_large.JPG?v=1508168295" alt=""></p>
+<p>After we filled the mold frame with tightly packed sand, we *carefully* separated the mold halves and removed the part. The molds didn't separate cleanly and some of the sand broke off in the process - likely due to the rough surface of the tape we used to seal off the holes in the part.</p>
+<p>Time for the pour! We fired up our $70 furnace, which consisted of a 5 gallon bucket filled with fireproof concrete and powered by a propane tank.</p>
+<p><img src="//cdn.shopify.com/s/files/1/0030/7372/files/furnace_large.PNG?v=1508168746" alt=""><img src="//cdn.shopify.com/s/files/1/0030/7372/files/pour_large.PNG?v=1508168974" alt=""></p>
+<p>The results were mediocre yet encouraging for our first attempt. The handle came out nicely but the rest of the part was mangled. Molten metal had somehow managed to escape from between the two mold halves.</p>
+<p><img src="//cdn.shopify.com/s/files/1/0030/7372/files/raw_part_large.JPG?v=1508169457" alt=""></p>
+<p>From this we learned that it's important to incorporate draft (sloped sides) into the printed part to allow the part to be removed cleanly from the sand without damaging the fragile mold. We also learned that two-piece molds are a little trickier that we originally expected due to the potential for molten metal to seep out into the middle of the two halves.</p>
+<h3>Attempt #2 - Investment Casting</h3>
+<p>Next we tried to investment cast the part. Investment casting involves creating a plaster mold around the part, melting the part of the mold, and then pouring molten metal into the space left behind. The plaster mold is then broken away, revealing the part - or so we thought...</p>
+<p>Our investment mixture was a 2:1 ratio of fine sand and plaster, with water added to until we got a yogurt-like texture. We placed the part in the bottom of a pitcher and poured in the investment.</p>
+<p><img src="//cdn.shopify.com/s/files/1/0030/7372/files/poured_investment_large.JPG?v=1508170478" alt=""></p>
+<p>After it dried (about 30 mins) we flipped the part over and carved a small hole.</p>
+<p><img src="//cdn.shopify.com/s/files/1/0030/7372/files/investment_mold_large.JPG?v=1508170573" alt=""></p>
+<p>Our next step was to melt out the moldlay filament. We placed the mold upside-down on our furnace and heated it for 2 hours, but only about 3 inches of the part melted out.</p>
+<p><img src="//cdn.shopify.com/s/files/1/0030/7372/files/melt_out_large.JPG?v=1508170871" alt=""></p>
+<p>Perhaps we could have achieved better melt-out inside of an oven, but we didn't have the time, so we decided to move on to more sand-castings.</p>
+<h3>Attempt #3 - Multiple Sand Castings</h3>
+<p>We learned from our previous attempts that to increase our chances of getting good castings, we should: 1) use sand casting with single-piece molds, and, 2) add draft to all sides of our parts. Based on these findings we created three new parts, designed for a straight-pull from a single mold, with at least 5 degrees of draft on all surfaces. We printed these parts from PLA, instead of moldlay, because we don't need to melt them out of the mold.</p>
+<p><img src="//cdn.shopify.com/s/files/1/0030/7372/files/new_parts_large.JPG?v=1508171479" alt=""></p>
+<p>Next, we created a single-piece mold containing all three printed parts from Green Sand. The left part separated cleanly from the mold, leaving all features intact - the MakerGear logo on this part had a generous 10 degrees of draft. The middle part damaged the mold when we pulled it out - a lot of sand stuck to the printed part near the makergear logo, likely because this feature had only 2 degrees of draft. The right part also damaged the mold slightly during removal. While this part had 10 degrees of draft on the 'MAKERGEAR' lettering, the detail was much finer, which is likely why some of the sand pulled out with the printed part.</p>
+<p><img src="//cdn.shopify.com/s/files/1/0030/7372/files/new_mold_large.JPG?v=1508171654" alt=""></p>
+<p>Now for the fun part - pouring the molten metal!</p>
+<p><img src="//cdn.shopify.com/s/files/1/0030/7372/files/second_pour_large.JPG?v=1508172114" alt=""></p>
+<p>Our pour was a little messy and required quite a lot of post-processing with a band saw and bench sander (an 80 grit belt worked best), but the results were pretty good!</p>
+<p>All features on the three-pin link came out pretty well. The MakerGear logo is a little shallow because the metal didn't quite flow into the grooves.</p>
+<p><img src="//cdn.shopify.com/s/files/1/0030/7372/files/three_pin_link_large.JPG?v=1508172313" alt=""></p>
+<p>The wrench casting turned out fairly well also. The MakerGear logo is somewhat visible even though the most of the sand was removed from this feature when the printed part was taken out of the mold. Next time we'll make the letters thicker and with even more draft (currently 10 degrees). We still have some post-processing to do on this part.</p>
+<p><img src="//cdn.shopify.com/s/files/1/0030/7372/files/wrench_large.JPG?v=1508172709" alt=""></p>
+<p>We decided to pour the medallion even though the mold was largely damaged during the extraction of the printed part. Even so, we were surprised that this casting turned out as well as it did. Next time we'll add more draft to the logo to make the printed part easier to remove from the mold.</p>
+<p><img src="//cdn.shopify.com/s/files/1/0030/7372/files/medallion_large.JPG?v=1508172868" alt=""></p>
+<h3>Summary - Lessons Learned</h3>
+<p>The casting process was trickier than we expected, requiring three attempts to obtain decent parts. We obtained our best results using:</p>
+<ul>
+<li>Sand casting with Green Sand</li>
+<li>A one-piece mold</li>
+<li>Printed parts designed with at least 5 degrees of draft on large features and 10 degrees of draft on small features</li>
+<li>Printed parts with large features to allow the metal to flow freely</li>
+</ul>
+<h3>For the Future...</h3>
+<p>Next, we plan to place the investment into an oven for a few hours to try to fully melt the moldlay filament out of the mold. We also want to try to make our letters thicker and add even more draft - perhaps 20 degrees. Given the success we had with sand casting using one-piece molds, we'd also like to experiment more with two-piece molds.</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://makergear.com/blogs/stories/makergear-road-warriors</id>
+    <published>2017-08-09T10:00:00-04:00</published>
+    <updated>2019-10-28T15:13:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/blogs/stories/makergear-road-warriors"/>
+    <title>MakerGear Road Warriors</title>
+    <author>
+      <name>Annie Liao</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<meta charset="utf-8"><span class="_5afx"><span class="_58cm">Turns out MakerGear printers are not just workhorses, they're road warriors too! StartupBus teams prototyped their designs while</span></span><span> rolling down the highway at 60 mph on their way to the national competition in NOLA. </span><p><a class="read-more" href="https://makergear.com/blogs/stories/makergear-road-warriors">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<meta charset="utf-8">
+<p><img src="//cdn.shopify.com/s/files/1/0030/7372/files/StartupbusMakers_large.jpeg?v=1501884361" alt="" width="692" height="519"></p>
+<p>This summer we sent two MakerGear printers on an entrepreneurial adventure of a lifetime! They boarded the StartupBus that departed out of Akron on July 31st with teams made up of entrepreneurs, engineers, and designers from Northeast Ohio and San Francisco bound for the 2017 National StartupBus Competition in New Orleans. </p>
+<meta charset="utf-8">
+<p><span class="_5afx"><span class="_58cm"><em>Wired</em> calls StartupBus a "Petal-to-the-Metal business incubator", and that is literally the case as for 72 hours as teams barrel down the highway developing their business ideas from concept to pitch.</span></span></p>
+<p><span class="_5afx"><span class="_58cm"><img src="//cdn.shopify.com/s/files/1/0030/7372/files/pretrip_large.jpeg?v=1501884460" alt=""></span></span></p>
+<h6><span class="_5afx"><span class="_58cm">Above: Ready to hit the road with MakerGear printers in tow!</span></span></h6>
+<p><span class="_5afx"><span class="_58cm"><img src="//cdn.shopify.com/s/files/1/0030/7372/files/makergearonabus_large.JPG?v=1501884391" alt=""></span></span></p>
+<h6><span class="_5afx"><span class="_58cm">Above: Team member getting ready for a print on the bus.</span></span></h6>
+<p><span class="_5afx"><span class="_58cm"><img src="//cdn.shopify.com/s/files/1/0030/7372/files/startupbusmap_large.png?v=1501884365" alt=""></span></span></p>
+<h6><span class="_5afx"><span class="_58cm">Above: Routes of all the StartupBus teams converging in New Orleans.</span></span></h6>
+<p><span class="_5afx"><span class="_58cm">The unique thing about the Maker StartupBus is that teams prototyped designs on MakerGear printers while</span></span> rolling down the highway at 60mph on their way to the national competition in NOLA.</p>
+<p>One startup formed on the bus is called <a href="http://seesearcher.com/" target="_blank" rel="noopener noreferrer">SeeSearcher</a>. They designed a watertight Search Response Unit (SRU) for underwater rescue operations. They prototyped their watertight cap on one of the MakerGears and made a compelling pitch in the semi-finals up against teams from NYC, St. Louis, Tampa, Mexico City, and New Orleans. They're already in conversation with clients about how to bring their product to life to save lives. </p>
+<p>Another team, from the Tampa StartupBus did some late night hotel lobby prototype printing before their pitch began. They call themselves <a href="https://twitter.com/DropInPedals" target="_blank" rel="noopener noreferrer">DropIn Pedal</a> and they've come up with a way to instantly transform a high-performance bike from clip-in pedals to platform pedals in one click! </p>
+<p>Within 72 hours, they designed, prototyped, built a website, and developed a pitch for their product. </p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5_6XZu0j65M" frameborder="0" allowfullscreen=""></iframe>
+<p>And the great news is, out of a field of more than twenty teams, DropIn Pedals came away with 2nd Place in the national competition!</p>
+<p>We're dazzled by the amount of creativity, perseverance, and get-it-done spirit we saw from these teams and we look forward to seeing some of these startups take off!  </p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://makergear.com/blogs/stories/saving-lives-3d-printing-medical</id>
+    <published>2017-01-12T17:08:00-05:00</published>
+    <updated>2019-11-14T11:39:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/blogs/stories/saving-lives-3d-printing-medical"/>
+    <title>Creating an Affordable, Life-Saving Device Using 3D Printing</title>
+    <author>
+      <name>Annie Liao</name>
+    </author>
+    <summary type="html">
+      <![CDATA[In a place where supply chain economics often keep life-saving technologies out of reach, 3D printing is uniquely positioned to provide a new way of tackling global issues in the 21st century.<p><a class="read-more" href="https://makergear.com/blogs/stories/saving-lives-3d-printing-medical">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<p>In one hospital, in one city in Uganda, an average of 400 children are attended to in the pediatrics unit every day.</p>
+<p>Nearly 10% of these cases require transfusions for the treatment of malaria, pneumonia, and diarrhea. With so many patients and not enough staff members to adequately oversee treatment, nearly 12% of children in need of intravenous care die as a result of a lack of equipment or failure of available medical devices.</p>
+<p>A joint effort between the <strong>Uganda Industrial Research Institute (UIRI)</strong> and the <strong><a href="http://www.designwithoutborders.com/">Design without Borders</a></strong> Uganda team, however, aims to change that. Using their MakerGear 3D printer, the two teams created a life-saving device that not only costs less than alternatives, but is also better suited to its environment.</p>
+<p><strong><img alt="" src="//cdn.shopify.com/s/files/1/0030/7372/files/DWB1_grande.png?v=1481660937" style="margin-left: 10px; float: right;">The two teams worked together to create an intravenous infusion set that costs 97% less than its traditional, imported counterpart.</strong> Using a simple yet sophisticated gravity-fed and electronically-regulated system, this programmable device allows medical care staff to safely and cost effectively control the infusion of fluids and drugs. As if it weren’t enough to drastically reduce the cost of life-saving technology in Uganda, their invention also eliminates the need for constant monitoring of infusions.</p>
+<p>As a result, medical providers in Uganda can provide more effective care to a greater number of patients, all within the same span of time for a mere 3% of the traditional hardware costs. Because the device is pre-programmed and easily configured to serve a patient’s exact needs, the possibility of human and technological error is eliminated almost entirely.</p>
+<p>Throughout their numerous iterations, the team collaborated to design, create, and test their prototypes quickly and affordably using their MakerGear M2 3D printer. When they had questions about optimizing the design for 3D printing, MakerGear's own Joshua Wills began printing, testing, and evaluating the design in order to provide immediate feedback.</p>
+<p><img alt="" src="//cdn.shopify.com/s/files/1/0030/7372/files/DWB5_grande.png?v=1481660950" style="margin-left: 10px; float: right;">After months of preparation, the first assembled prototype of their infusion set is now ready for clinical testing. In a place where supply chain economics often keep life-saving technologies out of reach, 3D printing is uniquely positioned to provide a new way of tackling global issues in the 21st century.</p>
+<meta charset="utf-8">
+<p><span>Thanks to 3D printing, what began as an idea now holds the potential to transform healthcare on country-wide scale. </span>For vulnerable populations like children, the elderly, and low-income patients, the collaborative efforts between Design Without Borders and UIRI are more than just a 3D printing success story.</p>
+<p>With our roots firmly planted in the maker culture, we’re thrilled to watch this project evolve as it continues to illustrate the promise of high-performance desktop 3D printers in professional and industrial environments.</p>
+Principal Investor in the project, Philippa Ngaju Makobore (pictured above with a MakerGear M2) says, "We look forward to validating our device on a countrywide scale clinical trial. We anticipate that our device will save hundreds of lives by preventing unnecessary mortality and morbidity that is associated with improper use of infusion sets." 
+<p><br>To hear from the team about their design process, check out their video or learn more at <a href="https://www.designwithoutborders.com/infusion-set" target="_blank" rel="noopener noreferrer">DesignWithoutBorders.com</a>.</p>
+<iframe src="https://player.vimeo.com/video/175361015" width="640" height="360" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
+<p><a href="https://vimeo.com/175361015">Saving lives of children – the Electronically Controlled Gravity-feed Infusion Set</a> from <a href="https://vimeo.com/user29740878">Design without Borders</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<p><em>Images from: www.designwithoutborders.com</em></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://makergear.com/blogs/stories/epicjunx-creating-products-from-scratch-with-3d-printing</id>
+    <published>2016-12-23T16:01:00-05:00</published>
+    <updated>2019-10-28T15:16:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/blogs/stories/epicjunx-creating-products-from-scratch-with-3d-printing"/>
+    <title>Creating Products from Scratch with 3D Printing</title>
+    <author>
+      <name>Owen Schoeniger</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<meta charset="utf-8">
+<p><span><span>“Here's a great example of a product created from scratch. </span></span>From concept to design to prototype to production to packaging to marketing to store." </p>
+<p><span style="font-weight: 400;">- </span><span style="font-weight: 400;"><span>Paul Higashi, </span>Epic Junx </span><span>founder</span></p><p><a class="read-more" href="https://makergear.com/blogs/stories/epicjunx-creating-products-from-scratch-with-3d-printing">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<p style="text-align: left;">One of the most exciting aspects of 3D printing lies in its entrepreneurial nature. For the ambitious problem-solver who is interested in launching new, never-before seen products, having a device that can produce complex forms both accurately and reliably is a game-changer to say the least.</p>
+<p style="float: left;"><span style="font-weight: 400;">This was exactly the case when Epic Junx — a Hawaii-based company specializing in the design, engineering, and fabrication of custom prototypes and products — expanded their toolbox to include two MakerGear M2 desktop 3D printers. </span><span style="font-weight: 400;">From fit-testing automotive prototypes to manufacturing end-use products, 3D printing has become a core aspect of Epic Junx' business and has enabled them to be more adaptable and responsive to the demands of a wide range of client needs.</span></p>
+<p style="float: left;">Their latest creation, the Hawaiian Pineapple Planter, is currently being sold at the Dole plantation in Hawaii.</p>
+<img alt="" src="//cdn.shopify.com/s/files/1/0030/7372/files/pineapplesucculents2_large.png?v=1482513404" style="float: left; margin-right: 15px;"><br>
+<p><span style="font-weight: 400;"> </span></p>
+<p><span style="font-weight: 400;">“Here's a great example of a product created from scratch. From concept to design to prototype to production to packaging to marketing to store. These Hawaiian Pineapple Planters are now on their way to be sold at Dole Plantation, Hawaii's largest visitor attraction.” - </span><span style="font-weight: 400;"><span>Paul Higashi, </span>Epic Junx </span>founder</p>
+<p><span style="font-weight: 400;">If you aren’t able to visit the Hawaii-based plantation and get your very own Hawaiian Pineapple Planter, you can also check out Epic Junx’ latest work on <a href="https://www.instagram.com/epicjunx/" target="_blank" title="Epic Junx Instagram - 3D printed Hawaiian Pineapple Planter by Hawaii-based product design firm Epic Junx, specializing in functional prototypes and short-run manufacturing of end-use products. " rel="noopener noreferrer">their Instagram feed @EpicJunx</a>. </span>And if you're in Hawaii, you can check out our reseller, <a href="https://sixsigmahawaii.net/">Six Sigma Hawaii</a>. They've brought MakerGear to the Islands and are making our printers easily accessible to businesses and innovators. </p>
+<p><span style="font-weight: 400;">Entrepreneurship is often associated with high-tech innovation, but it’s also important to remember the role played by old-fashioned creativity and a bias toward action. In the case of Epic Junx, 3D printing provides a perfect illustration of what can happen when technology works in harmony with human needs, business goals, and the desire to create something new.</span></p>
+<p> <img src="//cdn.shopify.com/s/files/1/0030/7372/files/EJAssembly_large.png?v=1485291852" alt="" width="550" height="411"></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://makergear.com/blogs/stories/happy-holidays</id>
+    <published>2016-12-23T15:39:00-05:00</published>
+    <updated>2017-08-15T14:02:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/blogs/stories/happy-holidays"/>
+    <title>Happy Holidays from MakerGear!</title>
+    <author>
+      <name>Annie Liao</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<meta charset="utf-8">
+<p>This week, we're loving these M2 ornaments our intern, Anthony, printed for all of our staff. Thanks Hank Dietz for the brilliant design! To print your own, click on this post to download the free .stl file. </p><p><a class="read-more" href="https://makergear.com/blogs/stories/happy-holidays">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<p>We hope your holiday season allows you a little more time and opportunity to get inventive with your 3D prints. We're looking forward to making and tinkering more ourselves.<br><br>This week, we're loving these M2 ornaments our intern, Anthony, printed for all of our staff. To print your own, click the link below for the .stl file.</p>
+<p>Thanks Hank Dietz (@profhankd) for the brilliant design!</p>
+<p><a href="https://cdn.shopify.com/s/files/1/0030/7372/files/m2toymodel.stl?6445960025322595053"><img src="//cdn.shopify.com/s/files/1/0030/7372/files/m2toymodel_preview_large.jpg?v=1482512478" alt=""></a></p>
+<p><a href="https://cdn.shopify.com/s/files/1/0030/7372/files/m2toymodel.stl?6445960025322595053"><b>MakerGear M2 Ornament (.stl) </b></a></p>
+<p><a href="https://cdn.shopify.com/s/files/1/0030/7372/files/m2toymodel.stl?6445960025322595053" target="_blank" rel="noopener noreferrer"><b></b></a> </p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://makergear.com/blogs/stories/thanksgiving-prints</id>
+    <published>2016-11-23T15:55:00-05:00</published>
+    <updated>2019-10-28T15:17:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/blogs/stories/thanksgiving-prints"/>
+    <title>Thanksgiving in 3D</title>
+    <author>
+      <name>Annie Liao</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<meta charset="utf-8">We've pulled together a short list of prints that can add some 3D panache to your Thanksgiving table. Find the design files at the links below.<p><a class="read-more" href="https://makergear.com/blogs/stories/thanksgiving-prints">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<h2><strong>Happy Thanksgiving from MakerGear!</strong></h2>
+<p>Every year brings a host of holidays, and with every holiday comes an opportunity to show off the magic of 3D printing. For this year's Thanksgiving festivities, we've gathered a few holiday-themed 3D treasures to make your celebration extra special. Now you can spice up the table with something special.</p>
+<p><span>While you're busy catching up with </span><span>(or hiding from)</span><span> your relatives, don't forget to share your 3D creations and tag @MakerGear for a chance to be featured!</span></p>
+<p><a href="http://www.thingiverse.com/thing:521854" target="_blank" rel="noopener noreferrer">Turkey Place Card Holder</a> by Cerberus333</p>
+<p><a href="http://www.thingiverse.com/thing:1155673" target="_blank" rel="noopener noreferrer">Turkey Napkin Ring</a> by Notin</p>
+<p><a href="http://www.thingiverse.com/thing:190923" target="_blank" rel="noopener noreferrer">FORMA Napkin Ring</a> by Simplus Design</p>
+<p><a href="http://www.thingiverse.com/thing:526611" target="_blank" rel="noopener noreferrer">Maple Coasters with Holder</a> by KingRahl</p>
+<p><a href="http://www.thingiverse.com/thing:454985" target="_blank" rel="noopener noreferrer">Vintage Candle Holders</a> by LaunchLab</p>
+<blockquote>
+<h2>What are <em>you</em> making?</h2>
+</blockquote>
+<p> </p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://makergear.com/blogs/stories/reinventing-an-old-tradition-with-3d-printing</id>
+    <published>2016-11-04T13:07:00-04:00</published>
+    <updated>2019-10-28T15:18:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/blogs/stories/reinventing-an-old-tradition-with-3d-printing"/>
+    <title>Reinventing an Old Tradition with 3D Printing</title>
+    <author>
+      <name>Annie Liao</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<meta charset="utf-8">We're hosting a mini contest to see who can fabricate the snazziest "I Voted" pin.<strong> </strong><span>Post photos of your pin with #ivoted and #MakerGear for a chance to win a free nozzle set and spool of PLA! </span><p><a class="read-more" href="https://makergear.com/blogs/stories/reinventing-an-old-tradition-with-3d-printing">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<p>We heard that some polling stations here in the U.S. have stopped the practice of passing out "I Voted" stickers. Since Election Day is just around the corner, we decided to create a 21st century alternative to the long-standing tradition with a 3D printed "I Voted" pin.</p>
+<p><strong>Then we thought "Why not get our community involved?", so we're hosting a mini contest to see who can fabricate the snazziest "I Voted" pin. </strong><span>Post photos of your pin with #ivoted and #MakerGear for a chance to win a free nozzle set and spool of PLA! Be sure to include information on the materials and post-processing techniques used (if applicable).</span><br><br><span>Click <a href="/pages/i-voted-pin">here</a> to go to the get the design file and start creating your very own "I Voted" pin! </span></p>
+<p><a href="/pages/i-voted-pin"><img src="//cdn.shopify.com/s/files/1/0030/7372/files/i_voted_large.png?v=1478114336" alt=""></a></p>
+<p>UPDATE:</p>
+<p>Our winner of the mini-contest is, Jerold Von Hemel!</p>
+<p>Jerold reports that he added G-code to stop Octoprint at layer 20 to change the color to blue. Then he sliced the file in Simplify 3D and sent it to the printer using Octoprint. See his design below.</p>
+<p><img src="//cdn.shopify.com/s/files/1/0030/7372/files/jvh-entry_medium.jpeg?v=1479157912" alt=""></p>
+<p>Great job! And keep an eye out for your nozzle set and spool of PLA! </p>
+<p>And to all, keep an eye out for future contests from MakerGear! </p>
+<p> </p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://makergear.com/blogs/stories/halloween-treats-from-makergear</id>
+    <published>2016-10-25T15:54:00-04:00</published>
+    <updated>2019-10-28T15:19:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/blogs/stories/halloween-treats-from-makergear"/>
+    <title>Halloween Treats from MakerGear</title>
+    <author>
+      <name>Annie Liao</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<meta charset="utf-8">
+<p><span class="s1">Headed to the pumpkin patch this weekend? </span><span class="s1">Just in time for Halloween, we're sharing over twenty free designs for you to print your own Mr. and Mrs. Pumpkinhead. Complement your carving skills or just skip the carving entirely by printing facial features for your pumpkins this year!  </span></p><p><a class="read-more" href="https://makergear.com/blogs/stories/halloween-treats-from-makergear">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<h6 style="text-align: left;"><strong><span class="s1">Headed to the pumpkin patch this weekend?</span></strong></h6>
+<p style="text-align: left;"><span class="s1">Just in time for Halloween, we're sharing over twenty free designs for you to print your own Mr. and Ms. Pumpkinhead. Complement your carving skills or just skip the carving entirely by printing facial features for your pumpkins this year!  </span></p>
+<p style="text-align: left;"><span class="s1">We're especially enjoying these cat eye glasses on the pumpkins in our office.  </span></p>
+<p style="text-align: left;"><span class="s1"><img src="//cdn.shopify.com/s/files/1/0030/7372/files/glasses2_large.png?v=1476988786" alt="MakerGear Cateye Glasses" width="480" height="489"></span></p>
+<p style="text-align: left;">And this scruffy little mustache too...</p>
+<p style="text-align: left;"><span class="s1"><img src="//cdn.shopify.com/s/files/1/0030/7372/files/mustache2_large.png?v=1476984980" alt="MakerGear mustache" width="478" height="545"></span></p>
+<p style="text-align: left;"><span class="s1">Which ones will you pick?</span></p>
+<p style="text-align: left;"><a href="/pages/pumpkinhead"><span class="s1">Check out the full collection and download the files here! </span></a></p>
+<p style="text-align: left;">And don't forget to send your pumpkin portraits our way. We'd love to see what you come up with! </p>
+<p class="p2" style="text-align: left;"><a href="http://www.makergear.com/pages/pumpkinhead" target="_blank" rel="noopener noreferrer"><img alt="MakerGear Pumpkinhead Accessories" src="//cdn.shopify.com/s/files/1/0030/7372/files/October_Newsletter_0e7b69ee-7b0c-496e-8bc9-220b2d82176c_grande.jpg?v=1477419243" style="float: none;"></a></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://makergear.com/blogs/stories/3-2-1-rocket-challenge-at-imts</id>
+    <published>2016-09-19T15:18:00-04:00</published>
+    <updated>2019-10-28T15:19:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/blogs/stories/3-2-1-rocket-challenge-at-imts"/>
+    <title>3-2-1.....Rocket Challenge at IMTS!</title>
+    <author>
+      <name>Annie Liao</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<meta charset="utf-8"><span>Our friends at </span>Rippl3D<span> have created a brilliant rocket challenge that allows kids (and kids at heart) to design and print their own model rocket fins for test launch. We were thrilled for the chance to partner with them at the </span>International Manufacturing and Technology Show<span> last week in Chicago!</span><p><a class="read-more" href="https://makergear.com/blogs/stories/3-2-1-rocket-challenge-at-imts">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<meta charset="utf-8">
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div>Our friends at <a href="http://rippl3d.com/">Rippl3D</a> have created a brilliant rocket challenge that allows kids (and kids at heart) to design and print their own model rocket fins for test launch. We were thrilled for the chance to collaborate with them at the <a href="https://www.imts.com/" target="_blank" rel="noopener noreferrer">International Manufacturing and Technology Show</a> last week in Chicago to bring this challenge to the trade show floor.</div>
+<div>
+<br>With our rack of MakerGear M2s in tow, we set up shop in the <meta charset="utf-8">
+<a href="https://www.imts.com/student/index.html" target="_blank" rel="noopener noreferrer">SmartForce Student Summit</a>, an IMTS interactive experience that gives students the opportunity to discover some of the technologies used in advanced manufacturing, and in this case, rocket science.</div>
+<div></div>
+<div></div>
+<div>
+<meta charset="utf-8">
+<img src="https://cdn.shopify.com/s/files/1/1221/5028/files/IMTS1_large.JPG?v=1475766062" alt="">
+</div>
+<div></div>
+<div></div>
+<div>A larger-than-life model rocket test silo suspended from the ceiling was outfitted with an air compressor-powered launch pad and a bullseye arrangement of baskets for students to aim their rockets.<meta charset="utf-8">Students were challenged to create and launch a 3D printed rocket, accounting for launch pressure, launch angle, nose weight and tail fin configuration.</div>
+<div></div>
+<div><img src="//cdn.shopify.com/s/files/1/0030/7372/files/Rippl3D_Rocket_Challenge_large.png?v=1475857667" alt=""></div>
+<div></div>
+<div></div>
+<div>They were invited to choose from an assortment of pre-printed parts, or use <a href="http://rippl3d.com/rocket-challenge/" target="_blank" rel="noopener noreferrer">Rippl3D's software</a> to create a custom tail fin that we printed for them on our MakerGear M2s. </div>
+<div></div>
+<div></div>
+<div><meta charset="utf-8"></div>
+<div></div>
+<div><img src="https://cdn.shopify.com/s/files/1/1221/5028/files/IMTS3_large.jpg?v=1475766161" alt=""></div>
+<div></div>
+<p>With thousands of students streaming through the halls of IMTS, we drew crowds of students cheering for launches. And every day, we had a leaderboard tallying who earned the most points. Points were accumulated based on where the rocket landed, due to the performance and stability of their model design. Though, it should be noted that even the duds were a big hit -- some students made their rockets so heavy that after an enthusiastic count down they made it about a foot into the air before crashing into the concrete. Those received hearty cheers of their own.</p>
+<p>Undeterred, many students who didn't have a bullseye launch their first time around went back to the drawing board to tweak their designs until they found one that gave them results. </p>
+<p>We loved being part of the energetic event and watching young innovators at work. Those students kept us on our toes the whole week! <br><br><strong>Rocket Challenge for Business</strong><br><br>This event also got us thinking.  Not only is this challenge fun for students, it's fun for everyone! If you are a business or organization that wants to support STEM in your area, this could be a great way to connect with your community.  It's affordable, requires a limited number of supplies, and can really draw a crowd. </p>
+<p>If you're interested in putting on an event like this in your own community, get in touch with us to find out how. We'd love to help you get started.</p>
+<p>Thanks to all of you who stopped by to say hello at the show, and a big congratulations to Gary Squire from JD Machine in Ogden, UT! He is our lucky winner of the <a class="profileLink" href="/products/m2">MakerGear M2</a> giveaway at IMTS 2016!</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://makergear.com/blogs/stories/makergear-brings-stem-to-life-at-the-great-lakes-science-center</id>
+    <published>2016-08-16T13:41:00-04:00</published>
+    <updated>2019-10-28T15:20:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/blogs/stories/makergear-brings-stem-to-life-at-the-great-lakes-science-center"/>
+    <title>MakerGear Brings STEM to Life at the Great Lakes Science Center</title>
+    <author>
+      <name>Annie Liao</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<meta charset="utf-8">
+<p><span>It’s no secret that we’re passionate about leveraging 3D printing as a tool to transform education. When we learned that the </span>Great Lakes Science Center<span> (GLSC) wanted to </span>enhance their summer program offerings <span>with 3D printing, we jumped at the opportunity to collaborate.</span></p><p><a class="read-more" href="https://makergear.com/blogs/stories/makergear-brings-stem-to-life-at-the-great-lakes-science-center">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<meta charset="utf-8">
+<p>It’s no secret that we’re passionate about leveraging 3D printing as a tool to transform education. When we learned that the <a href="http://www.greatscience.com/" target="_blank" rel="noopener noreferrer">Great Lakes Science Center</a> (GLSC) wanted to <a href="http://www.greatscience.com/programs.aspx" target="_blank" rel="noopener noreferrer">enhance their summer program offerings </a>with 3D printing, we jumped at the opportunity to collaborate.</p>
+<p><img src="https://cdn.shopify.com/s/files/1/1221/5028/files/GLSC-3_large.jpg?5900588173375406983" alt="MakerGear at GLSC"></p>
+<p><span>With their multi-site program of 180+ week-long camps covering a wide range of STEM education topics, <a href="http://www.greatscience.com/educators.aspx" target="_blank" rel="noopener noreferrer">GLSC is an innovative leader in STEM education</a>.</span></p>
+<p><img alt="MakerGear at GLSC" src="https://cdn.shopify.com/s/files/1/1221/5028/files/GLSC-8_grande.jpg?13177828953399890894"></p>
+<p><span>In order to provide GLSC  students with the chance to expand their curiosity and build critical 21st century skills (all while having a good summer camp time), MakerGear provided several M2 3D printers, and the students wasted no time in bringing their ideas to life.</span></p>
+<p><img src="https://cdn.shopify.com/s/files/1/1221/5028/files/GLSC-5_large.jpg?10726820127270329145" alt="MakerGear at GLSC"></p>
+<p><span>As every educator and parent knows, sustaining the interest and focus of students is no easy task.  But with CAD software and <a href="/products/m2">MakerGear M2s at their fingertips</a>, the classroom buzzed with energy as middle-schoolers raced against the clock to prototype organ transport containers for the </span><i><span>Organ Transport League</span></i><span> challenge while 4th and 5th graders blended biology and design thinking to build hermit crab habitats for the </span><i><span>Engineering Animal Habitats </span></i><span>camp.</span></p>
+<p><img src="https://cdn.shopify.com/s/files/1/1221/5028/files/GLSC-1_large.jpg?13683755026520306621" alt="MakerGear at GLSC"></p>
+<p>We love seeing the gears turning in these young minds and seeing the creativity that emerges when they're presented with fun ways to design solutions to real-world challenges. The combination of hands-on learning solutions offered by MakerGear paired with GLSC’s camps’ Problem Based Learning model make for engaged learning that fosters critical thinking, resilience in the face of challenges and innovation in the next generation. We can't wait to see what they come up with next!</p>
+<p><img src="https://cdn.shopify.com/s/files/1/1221/5028/files/GLSC-4_278c40e3-aab0-40db-89d2-526bed35bdfb_large.jpg?679382792583924021" alt="MakerGear at GLSC"></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://makergear.com/blogs/stories/gotta-print-em-all</id>
+    <published>2016-08-12T13:04:00-04:00</published>
+    <updated>2019-10-28T15:20:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/blogs/stories/gotta-print-em-all"/>
+    <title>Gotta Print &apos;Em All!</title>
+    <author>
+      <name>Annie Liao</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<meta charset="utf-8"><span>Have you been swept up in PokémonGO fever? We sure have. Though we may have been having more fun printing 'em than catching 'em!</span><p><a class="read-more" href="https://makergear.com/blogs/stories/gotta-print-em-all">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<meta charset="utf-8">
+<p>Have you been swept up in PokémonGO fever? We sure have. Though, we may have been having more fun printing 'em than catching 'em!</p>
+<h6><strong>Fun and Fast - Low Res Prints</strong></h6>
+<p>The MakerGear factory has been humming with M2s printing 3D <span>Pokémon</span> of our own. These were quick and easy, low-resolution prints, each taking about an hour to an hour and a half for the 4-6 inch tall <span>Pokémon</span>. </p>
+<meta charset="utf-8">
+<p><img src="https://cdn.shopify.com/s/files/1/1221/5028/files/pokemongo2_large.jpg?11658322105508376218" alt=""></p>
+<p>And this week, we took some of them down to <a href="http://www.greatscience.com/" target="_blank" rel="noopener noreferrer">Cleveland's Great Lakes Science Center</a>. We heard it was a hotspot for <span>PokémonGO </span><span>lures, </span><span>with many reports of rare </span>Pokémon to be caught there. Sure enough, we found plenty of fellow Trainers down by the waterfront and it made our day to pass out some of their favorite <span>Pokémon</span> in real life. We hope it made theirs too!</p>
+<meta charset="utf-8">
+<p><img src="https://cdn.shopify.com/s/files/1/1221/5028/files/PokemonatGLSC1_large.jpg?1500235956487254029" alt=""> </p>
+<meta charset="utf-8">
+<p><span>For even more </span><span><span>Pokémon</span> fun, s</span><span>upport your team by heading to </span><a href="/pages/pokemon">www.makergear.com/pages/<wbr></wbr>pokemon</a><span> to download your faction badge model! #teamvalor #teaminstinct #teammystic</span></p>
+<p><img src="https://cdn.shopify.com/s/files/1/1221/5028/files/pokemongo3_large.jpg?12023727083895960401" alt=""></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://makergear.com/blogs/stories/student-entrepreneurs-find-new-solutions-to-old-problems</id>
+    <published>2016-08-05T11:38:00-04:00</published>
+    <updated>2019-10-28T15:21:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/blogs/stories/student-entrepreneurs-find-new-solutions-to-old-problems"/>
+    <title>Student Entrepreneurs Find New Solutions to Old Problems</title>
+    <author>
+      <name>Annie Liao</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<meta charset="utf-8">
+<p>One of the things that excites us most about 3D printing, is the potential to solve real world problems in real time. This week MakerGear joined with <a href="http://vealeentrepreneurs.org/" target="_blank" rel="noopener noreferrer">The Veale Foundation </a>for their first annual Veale Startup Week held at Gilmour Academy.</p><p><a class="read-more" href="https://makergear.com/blogs/stories/student-entrepreneurs-find-new-solutions-to-old-problems">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<meta charset="utf-8">
+<p>One of the things that excites us most about 3D printing, is the potential to solve real world problems in real time. </p>
+<p>This week MakerGear partnered with <a href="http://vealeentrepreneurs.org/" target="_blank" rel="noopener noreferrer">The Veale Foundation </a>for their first annual Veale Startup Week held at Gilmour Academy in Gates Mills, Ohio.  Teams of high school students were challenged to prototype a product to solve a problem that will sound familiar to drivers everywhere -  how to prevent belongings in the passenger seat from crashing to the floor when they slam on the brakes!</p>
+<p>After dreaming up their solutions to the problem at hand, the students cadded their designs, printed them on <a href="/products/m2">MakerGear M2s</a>, developed a business plan and demonstrated the fruit of their labor by pitching their products to a live audience. Their hard work and ingenuity were evident during each of their presentations, and without a doubt, the creativity and confidence of these bright students keeps us inspired in our own R&amp;D. </p>
+<p>Here's a fun glimpse of the final presentations. Make sure you keep an eye out for the “Seat Cage”, the “Huggy”, and the “Secure n’ Go” coming to a passenger seat near you!</p>
+<p><img src="//cdn.shopify.com/s/files/1/0030/7372/files/Veale-11_copy_large.jpg?v=1485293141" alt=""></p>
+<p><em>Students created working prototypes of their inventions. The team pictured at top of the post went above and beyond and created a miniature model to demonstrate in their toy car. </em></p>
+<p><img src="https://cdn.shopify.com/s/files/1/1221/5028/files/Veale_Team_2_large.jpg?13412941134198918482" alt="Students Using MakerGear M2s"></p>
+<p><em>Teams worked together from conceptualization, to printing, to crafting a marketing presentation of their product.</em></p>
+<p><img src="https://cdn.shopify.com/s/files/1/1221/5028/files/Veale_Team_3_large.jpg?13412941134198918482" alt="Students Using MakerGear M2s"></p>
+<p><em>After their presentations, teams took questions from the audience on everything from design aspects to sales viability of their product in the current market. </em></p>
+<p><img src="https://cdn.shopify.com/s/files/1/1221/5028/files/Veale_Crown_large.jpg?16278732003663604204" alt="Students Using MakerGear M2s"></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://makergear.com/blogs/stories/makergear-m2-on-the-worlds-stage</id>
+    <published>2016-07-25T14:34:00-04:00</published>
+    <updated>2019-10-28T15:23:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/blogs/stories/makergear-m2-on-the-worlds-stage"/>
+    <title>MakerGear M2 on The World&apos;s Stage</title>
+    <author>
+      <name>Annie Liao</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<meta charset="utf-8"><span>When JobsOhio invited us to demonstrate the M2’s capabilities last in April at Hannover Messe in Germany, the world’s largest trade show focused on advanced manufacturing technologies, we booked our tickets to Germany and immediately began gathering printed examples of our customers’ creations to showcase on the world stage. </span><p><a class="read-more" href="https://makergear.com/blogs/stories/makergear-m2-on-the-worlds-stage">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<meta charset="utf-8">
+<p><em>Photo Left to Right: German Chancellor Merkel, President Obama, MakerGear CEO Rick Pollack, and Lieutenant Governor of Ohio Mary Taylor</em></p>
+<h5><strong>The M2 on the World's Stage</strong></h5>
+<p>When <a href="http://jobs-ohio.com/" target="_blank" rel="noopener noreferrer">JobsOhio</a> invited us to demonstrate the M2’s capabilities last in April at <a href="http://www.hannovermesse.de/home" target="_blank" rel="noopener noreferrer">Hannover Messe</a> in Germany, the world’s largest trade show focused on advanced manufacturing technologies, we booked our tickets to Germany and immediately began gathering printed examples of our customers’ creations to showcase on the world stage. From the <a href="http://www.news-herald.com/article/HR/20160516/NEWS/160519595" target="_blank" rel="noopener noreferrer"><span>prosthetic hand created by students at the Mayfield Innovation Center</span></a> to the cosplay props and functional prototypes that stood on display, our goal from the very beginning was to convey the sheer diversity of what’s possible in 3D printing. As excited as we were to share our story with thousands of attendees from around the world, we could have never expected what came next.</p>
+<p><span>Our founder and CEO, Rick Pollack kicked off the event with a visit from President Obama, Chancellor Merkel, and Lieutenant Governor Mary Taylor (OH) at the MakerGear booth, where they got a chance to discuss how MakerGear is laying a foundation for the resurgence of US advanced manufacturing in the 21</span><span>st</span><span> Century.</span></p>
+<p><a href="https://www.google.com/url?q=https://www.youtube.com/watch?v%3DM3Cc30osf1E%26feature%3Dyoutu.be&amp;sa=D&amp;ust=1475686983652000&amp;usg=AFQjCNGwaOV59tCDpWSvmQ5sYRtSgo0-jw" target="_blank" rel="noopener noreferrer">Check out Google's <span>360° video for an even closer look!</span></a></p>
+<p><span>After discussing ways in which MakerGear is boosting local manufacturing while also driving global commerce, President Obama indicated he may have a new occupation once he leaves office next January, saying "I might have to get one.  After I get out of office I'm going to have a lot of time on my hands, so I can start designing some things."</span></p>
+<p><span>All we can say to that is, we'd love to to see an Obama 3D original, Mr. President.</span></p>
+<p><span>We'd be happy to get you up and running with your first MakerGear M2.</span></p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/M3Cc30osf1E" frameborder="0" allowfullscreen=""></iframe></p>
+<br><br>]]>
+    </content>
+  </entry>
+</feed>

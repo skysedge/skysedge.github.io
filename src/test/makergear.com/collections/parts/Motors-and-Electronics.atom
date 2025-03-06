@@ -1,0 +1,1180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://makergear.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://makergear.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://makergear.com/collections/parts.atom"/>
+  <title>MakerGear™</title>
+  <updated>2024-04-03T12:33:42-04:00</updated>
+  <author>
+    <name>MakerGear™</name>
+  </author>
+  <entry>
+    <id>https://makergear.com/products/7037017915490</id>
+    <published>2024-04-03T12:33:42-04:00</published>
+    <updated>2024-04-03T12:33:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/products/lightly-used-lcd-for-m3-se-and-m3-id"/>
+    <title>Lightly Used LCD for M3-SE and M3-ID</title>
+    <s:type>Parts</s:type>
+    <s:vendor>MakerGear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/7372/files/lcde_for_m3-2.jpg?v=1712162379"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MakerGear<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>LCD for M3:</strong></p>
+<p>The Lightly Used MakerGear LCD for M3s is perfect for printers with multiple users or if you don't want to connect with a computer, the LCD for the M3 series printer is a great way to make your printer a stand-alone unit.</p>
+<p>The LCD comes with all of the hardware you will need. </p>
+<p>Once you're done, you'll be able to upload your files via a USB drive, preheat your bed and hotend, and jog your axes without having to connect to the printer.</p>
+<p><span style="text-decoration: underline;"><strong>LCD Screen Setup Instructions-</strong></span></p>
+<p><a href="https://cdn.shopify.com/s/files/1/0030/7372/files/MakerGear_M3_LCD_Installation_05-2022.pdf?v=1652811957" title="Installation instructions LCD for M3" rel="noopener noreferrer" target="_blank">Installation Instructions</a></p>
+<p><em><strong>*Note: LCD for M3s is for M3 series printers only and is for control, not calibration</strong></em></p>
+<p><a href="https://www.makergear.com/collections/3d-printers/products/m3-id" title="MAKERGEAR M3-ID 3D PRINTER" rel="noopener" target="_blank"><em><strong>MakerGear M3-ID 3D Printer</strong></em></a></p>
+<p><a href="https://www.makergear.com/collections/3d-printers/products/m3" title="MAKERGEAR M3-SE 3D PRINTER" rel="noopener" target="_blank"><em><strong>Maker Gear M3-SE 3D printer</strong></em></a></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Extras</s:tag>
+    <s:tag>M2 Accessories</s:tag>
+    <s:tag>Upgrades</s:tag>
+    <s:variant>
+      <id>https://makergear.com/products/7037017915490</id>
+      <title>Default Title</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku/>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makergear.com/products/519017922575</id>
+    <published>2022-03-17T16:29:34-04:00</published>
+    <updated>2022-03-17T16:29:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/products/four-point-leveling-upgrade"/>
+    <title>Four Point Leveling Upgrade</title>
+    <s:type>Parts</s:type>
+    <s:vendor>MakerGear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/7372/products/4PointLevelingBedUpgrade.jpg?v=1638816687"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MakerGear<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Four Point Leveling Upgrade for older M2's.</p>
+<p><a href="https://cdn.shopify.com/s/files/1/0030/7372/files/4-Point_Installation_Instructions.pdf?10362763737697614412" title="4 Point Leveling Upgrade Instructions">4 Point Leveling Upgrade Instructions</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>4 point leveling</s:tag>
+    <s:tag>Older M2 Upgrade</s:tag>
+    <s:variant>
+      <id>https://makergear.com/products/519017922575</id>
+      <title>Default Title</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku>MG1084</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makergear.com/products/6581275361378</id>
+    <published>2021-08-01T16:23:36-04:00</published>
+    <updated>2021-08-01T16:23:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/products/refurbished-lcd-for-m2"/>
+    <title>Lightly Used LCD for M2</title>
+    <s:type>Parts</s:type>
+    <s:vendor>MakerGear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/7372/products/LCD_800x_600x_d62a4f85-d215-42c0-a29e-c8f82eaa2fa1.jpg?v=1627848772"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MakerGear<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>LCD for M2:</strong></p>
+<p>The Lightly Used MakerGear LCD for M2 Interface (with integrated SD Card Reader) is a perfect upgrade item for those who wish to control their printer without the use of a computer. It includes a RepRap Smart Controller-style LCD screen with assembly hardware, all necessary wiring and connections, as well as a laser-cut ABS housing unit and 3D-printed ABS adjustment knob. </p>
+<p><a title="Installation Instructions" href="http://makergear.wikidot.com/m2-lcd-panel" target="_blank">Installation Instructions</a></p>
+<meta charset="utf-8">
+<p><span>Please note that you may need to upgrade your firmware before using this product. Please visit </span><a title="MakerGear Firmware Site" href="http://firmware.makergear.com/">http://firmware.makergear.com</a><span> to download the correct firmware.</span></p>
+<p><strong><em>Note: The LCD for M2s is only for M2 printers.</em></strong></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Extras</s:tag>
+    <s:tag>M2 Accessories</s:tag>
+    <s:tag>Upgrades</s:tag>
+    <s:variant>
+      <id>https://makergear.com/products/6581275361378</id>
+      <title>Default Title</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>MG1003R</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makergear.com/products/3925825650786</id>
+    <published>2021-01-05T13:59:56-05:00</published>
+    <updated>2021-01-05T13:59:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/products/ultra-one-cart"/>
+    <title>Ultra One 3D Printer Cart</title>
+    <s:type>Parts</s:type>
+    <s:vendor>MakerGear™</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/7372/products/IMG-6809.jpg?v=1563310029"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MakerGear™<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            1000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Get the most out of your Ultra One 3D Printer with this heavy duty rolling cart. The attractive design holds your printer at the perfect height for ergonomic operating. Easily move your printer around the shop with the heavy-duty 5" locking casters and eliminate the tool hunt by keeping your favorite tools quickly accessible in the slim tool drawer. </p>
+<p><strong>Key Features:</strong></p>
+<ul>
+<li>Complementary Design</li>
+<li>Quick Access Tool Drawer</li>
+<li>Filament Storage Cabinet</li>
+<li>5" Locking Casters</li>
+<li>Mounting Pads for Ultra One Feet</li>
+</ul>
+<p><strong>Additional Specs:</strong></p>
+<ul>
+<li>Size: 30"x30"x24"</li>
+<li>Weight: 30 lbs</li>
+</ul>
+<p>Carts are in stock and typically ship within a week ARO.</p>
+<p>Price: $1,000</p>
+<p><strong>To order please contact sales@makergear.com</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Extras</s:tag>
+    <s:variant>
+      <id>https://makergear.com/products/3925825650786</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1000.00</s:price>
+      <s:sku>MG2000CT</s:sku>
+      <s:grams>13608</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makergear.com/products/4519972143202</id>
+    <published>2020-11-11T11:43:46-05:00</published>
+    <updated>2020-11-11T11:43:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/products/copy-of-build-surface-with-polyimide-tape"/>
+    <title>Imperfect Build Surface (with polyimide tape)</title>
+    <s:type>Parts</s:type>
+    <s:vendor>MakerGear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/7372/products/MG1010_Borosilicate_Glass_with_Polyimide_Film_4a669072-a9af-4e0b-a124-e03b9f464015.jpg?v=1605113001"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MakerGear<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            18.00 - 35.00
+            <a href="https://makergear.com/products/copy-of-build-surface-with-polyimide-tape">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span>These build surfaces are perfectly functional but may have a small chip out of the side or another small cosmetic defect.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Extras</s:tag>
+    <s:tag>Replacements</s:tag>
+    <s:variant>
+      <id>https://makergear.com/products/4519972143202</id>
+      <title>8 x 10 (M Series)</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makergear.com/products/4519972143202</id>
+      <title>14 x 16 (Ultra One)</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makergear.com/products/4481155563618</id>
+    <published>2020-08-10T08:17:13-04:00</published>
+    <updated>2020-08-10T08:17:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/products/copy-of-extruder-motor-components"/>
+    <title>Filament Guide Tubes</title>
+    <s:type>Parts</s:type>
+    <s:vendor>MakerGear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/7372/products/Filament_Guide-tube_800x_96d37209-a583-40c6-895f-a62a80fb94ee.jpg?v=1597061262"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MakerGear<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            10.00 - 20.00
+            <a href="https://makergear.com/products/copy-of-extruder-motor-components">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Made from low-friction PFA. These filament guide tubes have a 2mm internal diameter and are perfect for minimizing filament bending and friction. Filament guide tubes help to ensure optimal extrusion by directing your filament material from the spool to the filament drive.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Extras</s:tag>
+    <s:tag>M Series Spare Part</s:tag>
+    <s:tag>Replacements</s:tag>
+    <s:tag>Ultra One Spare Part</s:tag>
+    <s:variant>
+      <id>https://makergear.com/products/4481155563618</id>
+      <title>M2/M3</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>MG1021</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makergear.com/products/4481155563618</id>
+      <title>Ultra One</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>MG2021</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makergear.com/products/518671237135</id>
+    <published>2020-05-14T15:22:23-04:00</published>
+    <updated>2020-05-14T15:22:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/products/v4-barrel"/>
+    <title>V4 Barrel (MG1005BARREL)</title>
+    <s:type>Parts</s:type>
+    <s:vendor>MakerGear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/7372/products/barrel_jpg.png?v=1588863301"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MakerGear<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style>
+<p> </p>
+<p>V4 Barrel with high temperature PTFE insert and hollow set screw.</p>
+<p>Barrels should always be paired with a new nozzle. Nozzles can be switched out on the same barrel, but not onto different barrels.</p>
+<p><a title="V4 Barrel Installation Guide" href="https://makergear.zendesk.com/hc/en-us/articles/360043169972-V4-Barrel-Installation" target="_blank">V4 Barrel Installation Guide</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hot End Parts</s:tag>
+    <s:variant>
+      <id>https://makergear.com/products/518671237135</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>MG1005BARREL</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makergear.com/products/4357794332770</id>
+    <published>2020-01-28T13:29:28-05:00</published>
+    <updated>2020-01-28T13:29:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/products/lcd-for-m3-printers"/>
+    <title>LCD for M3</title>
+    <s:type>Parts</s:type>
+    <s:vendor>MakerGear™</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/7372/products/lcde_for_m3-2.jpg?v=1580236323"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MakerGear™<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            99.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>﻿</strong><br></p>
+<p>Perfect for printers with multiple users or if you don't want to connect with a computer, the LCD for the M3 series printer is a great way to make your printer a stand-alone unit.</p>
+<p>The LCD comes with all of the hardware you will need. </p>
+<p>Once you're done, you'll be able to upload your files via a USB drive, preheat your bed and hotend, and jog your axes without having to connect to the printer.</p>
+<p><span style="text-decoration: underline;"><strong>LCD Screen Setup Instructions-</strong></span></p>
+<p><a href="https://cdn.shopify.com/s/files/1/0030/7372/files/MakerGear_M3_LCD_Installation_05-2022.pdf?v=1652811957" title="Installation instructions LCD for M3" target="_blank" rel="noopener noreferrer">Installation Instructions</a></p>
+<p><em><strong>*Note: LCD is for M3 series printers only and is for control, not calibration</strong></em></p>
+<p><a href="https://www.makergear.com/collections/3d-printers/products/m3-id" title="MAKERGEAR M3-ID 3D PRINTER" target="_blank"><em><strong>MakerGear M3-ID 3D Printer</strong></em></a></p>
+<p><a href="https://www.makergear.com/collections/3d-printers/products/m3" title="MAKERGEAR M3-SE 3D PRINTER" target="_blank"><em><strong>Maker Gear M3-SE 3D printer</strong></em></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Extras</s:tag>
+    <s:tag>M3 Series Accessories</s:tag>
+    <s:tag>Upgrades</s:tag>
+    <s:variant>
+      <id>https://makergear.com/products/4357794332770</id>
+      <title>Default Title</title>
+      <s:price currency="USD">99.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makergear.com/products/4353382776930</id>
+    <published>2020-01-13T10:20:58-05:00</published>
+    <updated>2020-01-13T10:20:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/products/probe-assembly-w-probe-tip"/>
+    <title>BL Touch Probe Assembly (MG10BL)</title>
+    <s:type>Parts</s:type>
+    <s:vendor>MakerGear™</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/7372/products/bl-touch-probe.jpg?v=1578675546"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MakerGear™<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            48.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The BL Touch Probe is compatible with:</p>
+<meta charset="utf-8">
+<ul>
+<li>Ultra-One printers</li>
+<li>M3 series Rev 1 printers</li>
+<li>Probe Upgrade Kit (for M3-ID Rev 0 printers only)</li>
+</ul>
+<p>Just need the probe tip and not the whole assembly? You can order just the <a href="https://www.makergear.com/collections/parts/products/probe-tip" title="BL Touch Probe Tip" target="_blank">BL Touch Probe Tip</a>.</p>
+<p> </p>
+<p>BLTouch 3D Printed Spacer-<a href="https://github.com/MakerGear/M3/blob/master/Printed%20Parts/STL/Rev1/BLTouch%20Spacer.STL" title="3D Printed C Spacer for BLTouch" target="_blank">M3/BLTouch Spacer.STL at master · MakerGear/M3 · GitHub</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>M Series Spare Part</s:tag>
+    <s:tag>Probe_Parts</s:tag>
+    <s:variant>
+      <id>https://makergear.com/products/4353382776930</id>
+      <title>Default Title</title>
+      <s:price currency="USD">48.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makergear.com/products/1846204989538</id>
+    <published>2019-07-02T11:39:18-04:00</published>
+    <updated>2019-07-02T11:39:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/products/probe-tip"/>
+    <title>Probe Tip for BL Touch (MG1219)</title>
+    <s:type>Parts</s:type>
+    <s:vendor>MakerGear™</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/7372/products/probe-tip.jpg?v=1563306010"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MakerGear™<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Extras</s:tag>
+    <s:tag>Probe_Parts</s:tag>
+    <s:tag>Replacements</s:tag>
+    <s:variant>
+      <id>https://makergear.com/products/1846204989538</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku>MG1219</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makergear.com/products/2226519015522</id>
+    <published>2019-05-10T11:18:20-04:00</published>
+    <updated>2019-05-10T11:18:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/products/diecut-polyimide-tape"/>
+    <title>Diecut Polyimide Tape</title>
+    <s:type>Parts</s:type>
+    <s:vendor>MakerGear™</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/7372/products/diecut_polyimide_3eb91b9a-3ef3-437a-b203-38d8cd9de3e3.jpg?v=1578499836"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MakerGear™<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            10.00 - 20.00
+            <a href="https://makergear.com/products/diecut-polyimide-tape">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Get great bed adhesion for your prints by refreshing your glass build plate with a new piece of Polyimide tape - cut to size.</p>
+<p>We offer two sizes - one for the M2/M3 and one for the Ultra One. <br></p>
+<p style="text-align: center;" data-mce-style="text-align: center;"><strong>Please select your size below</strong></p>
+<p style="text-align: center;" data-mce-style="text-align: center;"><span style="text-decoration: underline;" data-mce-style="text-decoration: underline;"><strong>Benefits</strong></span></p>
+<ul>
+<li>Prints adheres well but will self release when bed is cooled.</li>
+<li>Reliable, consistent first layers.</li>
+<li>Easy to clean and durable.</li>
+<li>Shiny, smooth, mirror like surface on bottom print area.<br>
+</li>
+</ul>
+<p>Installation Instructions- <a href="https://makergear.zendesk.com/hc/en-us/articles/115003212723-Bed-Prep-and-Maintenance" data-mce-href="https://makergear.zendesk.com/hc/en-us/articles/115003212723-Bed-Prep-and-Maintenance" target="_blank">How to Apply Polyimide Tape</a></p>
+<ul>
+<li>Polyimide tape layer thickness - 0.07mm (0.00275 inch)</li>
+<li><span>Temperature Range -269C to +400C</span></li>
+<li><span>Clean with isopropyl alcohol and a lint free rag</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Extras</s:tag>
+    <s:tag>Replacements</s:tag>
+    <s:variant>
+      <id>https://makergear.com/products/2226519015522</id>
+      <title>8x10&quot; for M2 &amp; M3 (MG12DT)</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>MG12DT</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makergear.com/products/2226519015522</id>
+      <title>14x16&quot; (Ultra One)</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>MG20DT</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makergear.com/products/2120116699234</id>
+    <published>2019-02-21T13:35:47-05:00</published>
+    <updated>2019-02-21T13:35:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/products/v4-extruder-upgrade-rev-f-g-cooling-kit"/>
+    <title>V4 Extruder Upgrade + Rev F/G Cooling Kit</title>
+    <s:type>Parts</s:type>
+    <s:vendor>MakerGear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/7372/products/upgrade-kit.png?v=1578581060"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MakerGear<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            175.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br></p>
+<p>If you're looking to upgrade your V3b Hot End, then you're in the right place!</p>
+<p>With the V4 Extruder Upgrade kit, you can reach higher temperatures (up to 300 °C) while also reducing your material's residence time at elevated temperatures.</p>
+<p>In addition to all necessary installation hardware, the V4 Extruder Upgrade Kit includes:</p>
+<ul>
+<li>1 - Optimized Z Endstop Clamp</li>
+<li>1 - V4 Hot End</li>
+<li>1 - V4 Filament Drive with Rev F/G fan cooling</li>
+<li>1 - V4 Mounting Plate with Rev F/G cooling system</li>
+<li>1 - Metal Motor Mount</li>
+<li>1 - V4 Belt Clamp</li>
+</ul>
+<p>* This upgrade kit is compatible only with M2 3D printers purchased after November 2013 or with earlier M2 3D printers that have already installed the 24 V Power Supply Upgrade Kit. If you purchased your M2 3D printer before November 2013 but have not installed the 24 V Power Supply Upgrade Kit, our "Standard PLUS" Power Supply Upgrade Kit includes both products bundled together.</p>
+<p><a href="https://cdn.shopify.com/s/files/1/0030/7372/files/New_V4_Upgrade_10_2022.pdf?v=1664910118" target="_blank">Assembly Instructions</a></p>
+<p><strong>(Before September 2022):</strong> <a href="https://cdn.shopify.com/s/files/1/0030/7372/files/V4_cooling_upgrade.pdf?532358421021802077" target="_blank">Assembly Instructions</a></p>
+<meta charset="utf-8">
+<p><span>Please note that you will need to upgrade your firmware before using this product. Please visit </span><a href="http://firmware.makergear.com/" title="MakerGear Firmware Site">http://firmware.makergear.com</a><span> to download the correct firmware.</span></p>
+<p><span>To remove or swap a nozzle, it is important to remove the hot end from the mount first or the barrel will likely be damaged.  Please watch these videos on </span><a href="https://www.youtube.com/watch?v=OdducxLlZyk">removing your V4 hot end from the mounting plate</a><span> and </span><a href="https://www.youtube.com/watch?v=tyoxU0RbVS0">removing the nozzle from your V4 hot end</a><span>.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Upgrades</s:tag>
+    <s:variant>
+      <id>https://makergear.com/products/2120116699234</id>
+      <title>Default Title</title>
+      <s:price currency="USD">175.00</s:price>
+      <s:sku>MG1015b</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makergear.com/products/1846598991970</id>
+    <published>2018-11-09T15:54:28-05:00</published>
+    <updated>2018-11-09T15:54:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/products/bed-corner-rubber-pieces"/>
+    <title>Bed Corner Rubber Pieces - set of 4 (MG1152)</title>
+    <s:type>Parts</s:type>
+    <s:vendor>MakerGear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/7372/products/1.png?v=1541796903"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MakerGear<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Each order includes 1 set (4 pieces).</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>M Series Spare Part</s:tag>
+    <s:tag>Replacements</s:tag>
+    <s:tag>Ultra One Spare Part</s:tag>
+    <s:variant>
+      <id>https://makergear.com/products/1846598991970</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>MG1152</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makergear.com/products/1846596665442</id>
+    <published>2018-11-09T15:53:07-05:00</published>
+    <updated>2018-11-09T15:53:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/products/bed-hold-down-clips"/>
+    <title>Bed Hold Down Clips - set of 8 (MG1151)</title>
+    <s:type>Parts</s:type>
+    <s:vendor>MakerGear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/7372/products/2.png?v=1541796856"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MakerGear<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Each order includes two full sets (8 clips)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>M Series Spare Part</s:tag>
+    <s:tag>Replacements</s:tag>
+    <s:tag>Ultra One Spare Part</s:tag>
+    <s:variant>
+      <id>https://makergear.com/products/1846596665442</id>
+      <title>Default Title</title>
+      <s:price currency="USD">5.00</s:price>
+      <s:sku>MG1151</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makergear.com/products/1728530546786</id>
+    <published>2018-10-23T16:31:22-04:00</published>
+    <updated>2018-10-23T16:31:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/products/probe-upgrade"/>
+    <title>Probe Upgrade</title>
+    <s:type>Parts</s:type>
+    <s:vendor>MakerGear™</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/7372/products/probe.png?v=1540327352"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MakerGear™<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Probe Upgrades ordered today will ship in a few days.</strong></p>
+<p>Designed for M3-ID rev 0 owners, this upgrade package adds a probe for an improved leveling process and auto-compensation.</p>
+<p><a href="https://cdn.shopify.com/s/files/1/0030/7372/files/M3ID-Rev-0-to-Rev-1_10-17-18.pdf?7550756082658606892">Upgrade Guide</a></p>
+<p><span>Printer internet access required for upgrade.</span> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Upgrades</s:tag>
+    <s:variant>
+      <id>https://makergear.com/products/1728530546786</id>
+      <title>Default Title</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku>MG1217</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makergear.com/products/6298163652</id>
+    <published>2016-07-22T15:27:37-04:00</published>
+    <updated>2016-07-22T15:27:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/products/thermistor"/>
+    <title>Thermistor</title>
+    <s:type>Parts</s:type>
+    <s:vendor>MakerGear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/7372/products/Hot_End_Thermistor.jpg?v=1470342627"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MakerGear<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>This thermistor (temperature sensor) is suitable for both the V3b and the V4 Hot Ends. If Hot End's temperature display seems to be inaccurate, a replacement thermistor would be a good idea. </p>
+<p>Each thermistor includes the proper molex connector, and can accurately read temperatures up to 300 °C. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hot End Parts</s:tag>
+    <s:variant>
+      <id>https://makergear.com/products/6298163652</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>MG1006</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makergear.com/products/6298163396</id>
+    <published>2016-07-22T15:27:35-04:00</published>
+    <updated>2016-07-22T15:27:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/products/cartridge-heater"/>
+    <title>V4 Cartridge Heater</title>
+    <s:type>Parts</s:type>
+    <s:vendor>MakerGear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/7372/products/scaled_450x300_V4_CH_grande_50315751-b440-4e47-8906-3ccc08fe29e9.jpg?v=1470342626"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MakerGear<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>The cartridge heater is a replaceable heating element in the V4 Hot End. If your Hot End is not able to maintain temperature, it might be time to replace the heater. Because this component endures a large number of extreme heating and cooling cycles, it does have a limited lifespan. It is a good idea to keep a spare available. The "V4 Spare Parts Set" includes one extra cartridge heater.</p>
+<p><span style="text-decoration: underline;">V4 Cartridge Heater Specifications</span></p>
+<ul>
+<li><span style="line-height: 1.4;">24 Volt</span></li>
+<li>V4 Hot End only</li>
+<li>Rated for heating up to 300 ºC</li>
+</ul>
+<p><span>If your Hot End is able to heat-up but your temperature readings appear inaccurate, it is most likely caused by a damaged thermistor (rather than a damaged cartridge heater).</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hot End Parts</s:tag>
+    <s:variant>
+      <id>https://makergear.com/products/6298163396</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>MG1007</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makergear.com/products/6298163140</id>
+    <published>2016-07-22T15:27:35-04:00</published>
+    <updated>2016-07-22T15:27:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/products/insulation"/>
+    <title>Fiberglass Insulation (Expandable, Rubber Coated)</title>
+    <s:type>Parts</s:type>
+    <s:vendor>MakerGear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/7372/products/insulation.jpg?v=1470342625"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MakerGear<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Suitable for both the V4 and V3b Hot Ends, t</span>his insulation is used to maintain your hot end's temperature and to prevent potential burn injuries. </p>
+<p>*For all individually-sold fiberglass insulation pieces, you'll need to cut the insulation in order to match the size and dimensions of your specific Hot End. Insulation sold <em>with</em> Hot Ends are pre-cut and installed.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hot End Parts</s:tag>
+    <s:variant>
+      <id>https://makergear.com/products/6298163140</id>
+      <title>Default Title</title>
+      <s:price currency="USD">2.50</s:price>
+      <s:sku>MG1020</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makergear.com/products/6298162820</id>
+    <published>2016-07-22T15:27:32-04:00</published>
+    <updated>2016-07-22T15:27:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/products/50fan"/>
+    <title>50 mm Fan</title>
+    <s:type>Parts</s:type>
+    <s:vendor>MakerGear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/7372/products/50mm_fan.jpg?v=1472057233"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MakerGear<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Mounted at a 45 degree angle in front of the extruder's 40 mm fan, this 50 mm fan provides users with greater control over the cooling rate of extruded filament material.</p>
+<p>* Depending on when you purchased your M2, you may have a 12 volt or 24 volt 50 mm fan. If you are unsure which fan you need, you can examine the label on your current fan to verify its voltage.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>M2 Replacement Part</s:tag>
+    <s:tag>Motors and Electronics</s:tag>
+    <s:tag>Replacements</s:tag>
+    <s:variant>
+      <id>https://makergear.com/products/6298162820</id>
+      <title>24 V</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>MG1024A</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makergear.com/products/6298162820</id>
+      <title>12 V</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>MG1046B</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makergear.com/products/6298162820</id>
+      <title>24 V (longer wire for M2 Dual)</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>W1070A</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makergear.com/products/6298162692</id>
+    <published>2016-07-22T15:27:28-04:00</published>
+    <updated>2016-07-22T15:27:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/products/idler"/>
+    <title>Idler Components</title>
+    <s:type>Parts</s:type>
+    <s:vendor>MakerGear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/7372/products/M3-idler.png?v=1578499518"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MakerGear<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>For the M2 Rev A thru F:</strong>  These high grade bearings prevent damage to the X and Y axis belts and help keep them aligned. <span>Each M2 3D printer includes</span><span> two bearings sets (</span><span>one for each belt)</span><span>. Each bearing set is mounted onto a separate idler bolt.  A purchase here gets you one idler bolt and accompanying bearing set.</span></p>
+<p><span><strong>For the M3/M2 Rev G thru H:</strong>  On the M3-SE we use two of these, and on the M3-ID we use three (one for each belt).  The M3 idler set has a geared pulley with a bearing inside that mounts on a bolt. A purchase here gets you one bolt and one geared pulley with a bearing inside.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Replacements</s:tag>
+    <s:variant>
+      <id>https://makergear.com/products/6298162692</id>
+      <title>M2 Rev A thru F - Idler Bearing Set and Bolt</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>MG1022A</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makergear.com/products/6298162692</id>
+      <title>M3/ M2 Rev G thru H - Idler Pulley</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>MG1022B</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makergear.com/products/6298162308</id>
+    <published>2016-07-22T15:27:27-04:00</published>
+    <updated>2016-07-22T15:27:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/products/belt-set"/>
+    <title>Belt Set</title>
+    <s:type>Parts</s:type>
+    <s:vendor>MakerGear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/7372/products/Belt_Set.jpg?v=1470342619"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MakerGear<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            20.00 - 100.00
+            <a href="https://makergear.com/products/belt-set">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Because they are kevlar-reinforced, it is very rare for the belts on MakerGear 3D printers to be damaged. If your belts are worn, check your printer for alignment issues—misalignment is the most likely cause for worn belts, and should be addressed in order to maximize the lifetime of your belts.</p>
+<p>The M2 belt set includes both belts used on the M2 and M3-SE rev 0 3D printers (<span>630 mm for the X-axis and 702 mm for the Y-axis)</span>.</p>
+<p><span>The M3-SE belt set includes both belts used on the M3-SE rev 1 3D printer (742</span><span> mm for the X-axis and 702 mm for the Y-axis)</span><span>.</span></p>
+<p>The M3-ID belt set includes all three belts used on the M3-ID 3D printer (742 mm for the left extruder, 726 mm for the right extruder, and 702 mm for the Y-axis).</p>
+<p>The Ultra One belt set includes all four belts used on the Ultra One 3D printer (2 Y-belts, 1 X T0 belt and 1 X T1 belt).</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>M Series Spare Part</s:tag>
+    <s:tag>Replacements</s:tag>
+    <s:variant>
+      <id>https://makergear.com/products/6298162308</id>
+      <title>M2</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>MG1023A</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makergear.com/products/6298162308</id>
+      <title>M3-ID</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku>MG1023B</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makergear.com/products/6298162308</id>
+      <title>M3-SE</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku>MG1023C</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makergear.com/products/6298162308</id>
+      <title>Ultra One (MG20TB)</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>MG20TB</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makergear.com/products/6298163076</id>
+    <published>2016-07-22T15:27:00-04:00</published>
+    <updated>2016-07-22T15:27:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/products/polyimide"/>
+    <title>Polyimide Tape (2&quot; Roll)</title>
+    <s:type>Parts</s:type>
+    <s:vendor>MakerGear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/7372/products/2_Kapton.jpg?v=1470342624"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MakerGear<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p>Forget the hairspray and ditch the blue painter's tape—it's time to print like a pro.</p>
+<p>Polyimide tape helps your prints adhere (i.e., stick) to your print bed without compromising heat transfer. We use it for all of the models that we print, and recommend that you do the same—which is why we include one roll (2" W x 108' L) with every M2 3D printer that we ship!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Extras</s:tag>
+    <s:variant>
+      <id>https://makergear.com/products/6298163076</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>MG1011</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makergear.com/products/6298162948</id>
+    <published>2016-07-22T15:27:00-04:00</published>
+    <updated>2016-07-22T15:27:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/products/40fan"/>
+    <title>40 mm Fan</title>
+    <s:type>Parts</s:type>
+    <s:vendor>MakerGear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/7372/products/40mm_fan.jpg?v=1472057145"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MakerGear<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>This fan is the smaller of the two fans mounted in front of the extruder and is also used inside the electronics case.</p>
+<p>These fans have a keyed connector, guarding against incorrect plug-in. All fans should be kept free of dust buildup to prevent failure. </p>
+<p>*M2 3D printers purchased in November 2015 or earlier require the 12 volt version of the 40 mm fan—please be sure to select the proper voltage based on your date of purchase. If you are unsure which fan you need, you can examine the label on your current fan to verify its voltage..</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Motors and Electronics</s:tag>
+    <s:tag>Replacements</s:tag>
+    <s:variant>
+      <id>https://makergear.com/products/6298162948</id>
+      <title>24 V</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>MG1024B</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makergear.com/products/6298162948</id>
+      <title>12 V</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>MG1046A</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makergear.com/products/6298162948</id>
+      <title>24 V (15 mm Deep M3 Bed Fan)</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku>MG1024C</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makergear.com/products/6298162116</id>
+    <published>2016-07-22T15:27:00-04:00</published>
+    <updated>2016-07-22T15:27:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/products/carriage"/>
+    <title>Carriage for X/Y-Axis Rail (MG1025C)</title>
+    <s:type>Parts</s:type>
+    <s:vendor>MakerGear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/7372/products/x_y_carriage.jpg?v=1470342618"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MakerGear<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This is a replacement carriage for M2, M3 and Ultra One 3D printers, which can be used on either the X- or Y-axis rails.  Please note that rails and carriages are matched at the factory where they're produced, and carriages purchased independently of rails may not have the same fit as a <a href="https://www.makergear.com/products/rail">paired rail and carriage</a>.</p>
+<p>This item ships attached to a plastic rail.  You will need to slide the carriage directly from the plastic rail to the metal rail on your printers to prevent dislodging of individual bearings.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>M Series Replacement Part</s:tag>
+    <s:tag>Replacements</s:tag>
+    <s:variant>
+      <id>https://makergear.com/products/6298162116</id>
+      <title>Default Title</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>MG1025C</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makergear.com/products/6298160388</id>
+    <published>2016-07-22T15:27:00-04:00</published>
+    <updated>2016-07-22T15:27:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/products/lcd-interface"/>
+    <title>LCD for M2</title>
+    <s:type>Parts</s:type>
+    <s:vendor>MakerGear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/7372/products/LCD_800x_600x_0cc6f45b-f8ca-4821-8d8b-da1020b367e3.jpg?v=1578585629"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MakerGear<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            99.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br></p>
+<p>The MakerGear LCD for M2 Interface (with integrated SD Card Reader) is a perfect upgrade item for those who wish to control their printer without the use of a computer. It includes a RepRap Smart Controller-style LCD screen with assembly hardware, all necessary wiring and connections, as well as a laser-cut ABS housing unit and 3D-printed ABS adjustment knob. </p>
+<p><a href="http://makergear.wikidot.com/m2-lcd-panel" title="Installation Instructions" target="_blank">Installation Instructions</a></p>
+<meta charset="utf-8">
+<p><span>Please note that you may need to upgrade your firmware before using this product. Please visit </span><a href="http://firmware.makergear.com/" title="MakerGear Firmware Site">http://firmware.makergear.com</a><span> to download the correct firmware.</span></p>
+<p>(Refurbished M2 LCDs are available on our <a href="https://www.makergear.com/collections/clearance/products/refurbished-lcd-for-m2">Clearance Page</a>.)</p>
+<p><strong><em>Note: This LCD is only for M2 printers.</em></strong></p>
+<p><br></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Extras</s:tag>
+    <s:tag>M2 Accessories</s:tag>
+    <s:tag>Upgrades</s:tag>
+    <s:variant>
+      <id>https://makergear.com/products/6298160388</id>
+      <title>Default Title</title>
+      <s:price currency="USD">99.00</s:price>
+      <s:sku>MG1003</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+</feed>

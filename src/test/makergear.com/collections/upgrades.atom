@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://makergear.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://makergear.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://makergear.com/collections/upgrades.atom"/>
+  <title>MakerGear™</title>
+  <updated>2024-04-03T12:33:42-04:00</updated>
+  <author>
+    <name>MakerGear™</name>
+  </author>
+  <entry>
+    <id>https://makergear.com/products/7037017915490</id>
+    <published>2024-04-03T12:33:42-04:00</published>
+    <updated>2024-04-03T12:33:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/products/lightly-used-lcd-for-m3-se-and-m3-id"/>
+    <title>Lightly Used LCD for M3-SE and M3-ID</title>
+    <s:type>Parts</s:type>
+    <s:vendor>MakerGear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/7372/files/lcde_for_m3-2.jpg?v=1712162379"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MakerGear<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>LCD for M3:</strong></p>
+<p>The Lightly Used MakerGear LCD for M3s is perfect for printers with multiple users or if you don't want to connect with a computer, the LCD for the M3 series printer is a great way to make your printer a stand-alone unit.</p>
+<p>The LCD comes with all of the hardware you will need. </p>
+<p>Once you're done, you'll be able to upload your files via a USB drive, preheat your bed and hotend, and jog your axes without having to connect to the printer.</p>
+<p><span style="text-decoration: underline;"><strong>LCD Screen Setup Instructions-</strong></span></p>
+<p><a href="https://cdn.shopify.com/s/files/1/0030/7372/files/MakerGear_M3_LCD_Installation_05-2022.pdf?v=1652811957" title="Installation instructions LCD for M3" rel="noopener noreferrer" target="_blank">Installation Instructions</a></p>
+<p><em><strong>*Note: LCD for M3s is for M3 series printers only and is for control, not calibration</strong></em></p>
+<p><a href="https://www.makergear.com/collections/3d-printers/products/m3-id" title="MAKERGEAR M3-ID 3D PRINTER" rel="noopener" target="_blank"><em><strong>MakerGear M3-ID 3D Printer</strong></em></a></p>
+<p><a href="https://www.makergear.com/collections/3d-printers/products/m3" title="MAKERGEAR M3-SE 3D PRINTER" rel="noopener" target="_blank"><em><strong>Maker Gear M3-SE 3D printer</strong></em></a></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Extras</s:tag>
+    <s:tag>M2 Accessories</s:tag>
+    <s:tag>Upgrades</s:tag>
+    <s:variant>
+      <id>https://makergear.com/products/7037017915490</id>
+      <title>Default Title</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku/>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makergear.com/products/6581275361378</id>
+    <published>2021-08-01T16:23:36-04:00</published>
+    <updated>2021-08-01T16:23:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/products/refurbished-lcd-for-m2"/>
+    <title>Lightly Used LCD for M2</title>
+    <s:type>Parts</s:type>
+    <s:vendor>MakerGear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/7372/products/LCD_800x_600x_d62a4f85-d215-42c0-a29e-c8f82eaa2fa1.jpg?v=1627848772"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MakerGear<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>LCD for M2:</strong></p>
+<p>The Lightly Used MakerGear LCD for M2 Interface (with integrated SD Card Reader) is a perfect upgrade item for those who wish to control their printer without the use of a computer. It includes a RepRap Smart Controller-style LCD screen with assembly hardware, all necessary wiring and connections, as well as a laser-cut ABS housing unit and 3D-printed ABS adjustment knob. </p>
+<p><a title="Installation Instructions" href="http://makergear.wikidot.com/m2-lcd-panel" target="_blank">Installation Instructions</a></p>
+<meta charset="utf-8">
+<p><span>Please note that you may need to upgrade your firmware before using this product. Please visit </span><a title="MakerGear Firmware Site" href="http://firmware.makergear.com/">http://firmware.makergear.com</a><span> to download the correct firmware.</span></p>
+<p><strong><em>Note: The LCD for M2s is only for M2 printers.</em></strong></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Extras</s:tag>
+    <s:tag>M2 Accessories</s:tag>
+    <s:tag>Upgrades</s:tag>
+    <s:variant>
+      <id>https://makergear.com/products/6581275361378</id>
+      <title>Default Title</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>MG1003R</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makergear.com/products/4357794332770</id>
+    <published>2020-01-28T13:29:28-05:00</published>
+    <updated>2020-01-28T13:29:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/products/lcd-for-m3-printers"/>
+    <title>LCD for M3</title>
+    <s:type>Parts</s:type>
+    <s:vendor>MakerGear™</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/7372/products/lcde_for_m3-2.jpg?v=1580236323"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MakerGear™<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            99.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>﻿</strong><br></p>
+<p>Perfect for printers with multiple users or if you don't want to connect with a computer, the LCD for the M3 series printer is a great way to make your printer a stand-alone unit.</p>
+<p>The LCD comes with all of the hardware you will need. </p>
+<p>Once you're done, you'll be able to upload your files via a USB drive, preheat your bed and hotend, and jog your axes without having to connect to the printer.</p>
+<p><span style="text-decoration: underline;"><strong>LCD Screen Setup Instructions-</strong></span></p>
+<p><a href="https://cdn.shopify.com/s/files/1/0030/7372/files/MakerGear_M3_LCD_Installation_05-2022.pdf?v=1652811957" title="Installation instructions LCD for M3" target="_blank" rel="noopener noreferrer">Installation Instructions</a></p>
+<p><em><strong>*Note: LCD is for M3 series printers only and is for control, not calibration</strong></em></p>
+<p><a href="https://www.makergear.com/collections/3d-printers/products/m3-id" title="MAKERGEAR M3-ID 3D PRINTER" target="_blank"><em><strong>MakerGear M3-ID 3D Printer</strong></em></a></p>
+<p><a href="https://www.makergear.com/collections/3d-printers/products/m3" title="MAKERGEAR M3-SE 3D PRINTER" target="_blank"><em><strong>Maker Gear M3-SE 3D printer</strong></em></a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Extras</s:tag>
+    <s:tag>M3 Series Accessories</s:tag>
+    <s:tag>Upgrades</s:tag>
+    <s:variant>
+      <id>https://makergear.com/products/4357794332770</id>
+      <title>Default Title</title>
+      <s:price currency="USD">99.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makergear.com/products/2120116699234</id>
+    <published>2019-02-21T13:35:47-05:00</published>
+    <updated>2019-02-21T13:35:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/products/v4-extruder-upgrade-rev-f-g-cooling-kit"/>
+    <title>V4 Extruder Upgrade + Rev F/G Cooling Kit</title>
+    <s:type>Parts</s:type>
+    <s:vendor>MakerGear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/7372/products/upgrade-kit.png?v=1578581060"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MakerGear<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            175.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br></p>
+<p>If you're looking to upgrade your V3b Hot End, then you're in the right place!</p>
+<p>With the V4 Extruder Upgrade kit, you can reach higher temperatures (up to 300 °C) while also reducing your material's residence time at elevated temperatures.</p>
+<p>In addition to all necessary installation hardware, the V4 Extruder Upgrade Kit includes:</p>
+<ul>
+<li>1 - Optimized Z Endstop Clamp</li>
+<li>1 - V4 Hot End</li>
+<li>1 - V4 Filament Drive with Rev F/G fan cooling</li>
+<li>1 - V4 Mounting Plate with Rev F/G cooling system</li>
+<li>1 - Metal Motor Mount</li>
+<li>1 - V4 Belt Clamp</li>
+</ul>
+<p>* This upgrade kit is compatible only with M2 3D printers purchased after November 2013 or with earlier M2 3D printers that have already installed the 24 V Power Supply Upgrade Kit. If you purchased your M2 3D printer before November 2013 but have not installed the 24 V Power Supply Upgrade Kit, our "Standard PLUS" Power Supply Upgrade Kit includes both products bundled together.</p>
+<p><a href="https://cdn.shopify.com/s/files/1/0030/7372/files/New_V4_Upgrade_10_2022.pdf?v=1664910118" target="_blank">Assembly Instructions</a></p>
+<p><strong>(Before September 2022):</strong> <a href="https://cdn.shopify.com/s/files/1/0030/7372/files/V4_cooling_upgrade.pdf?532358421021802077" target="_blank">Assembly Instructions</a></p>
+<meta charset="utf-8">
+<p><span>Please note that you will need to upgrade your firmware before using this product. Please visit </span><a href="http://firmware.makergear.com/" title="MakerGear Firmware Site">http://firmware.makergear.com</a><span> to download the correct firmware.</span></p>
+<p><span>To remove or swap a nozzle, it is important to remove the hot end from the mount first or the barrel will likely be damaged.  Please watch these videos on </span><a href="https://www.youtube.com/watch?v=OdducxLlZyk">removing your V4 hot end from the mounting plate</a><span> and </span><a href="https://www.youtube.com/watch?v=tyoxU0RbVS0">removing the nozzle from your V4 hot end</a><span>.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Upgrades</s:tag>
+    <s:variant>
+      <id>https://makergear.com/products/2120116699234</id>
+      <title>Default Title</title>
+      <s:price currency="USD">175.00</s:price>
+      <s:sku>MG1015b</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makergear.com/products/1728530546786</id>
+    <published>2018-10-23T16:31:22-04:00</published>
+    <updated>2018-10-23T16:31:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/products/probe-upgrade"/>
+    <title>Probe Upgrade</title>
+    <s:type>Parts</s:type>
+    <s:vendor>MakerGear™</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/7372/products/probe.png?v=1540327352"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MakerGear™<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Probe Upgrades ordered today will ship in a few days.</strong></p>
+<p>Designed for M3-ID rev 0 owners, this upgrade package adds a probe for an improved leveling process and auto-compensation.</p>
+<p><a href="https://cdn.shopify.com/s/files/1/0030/7372/files/M3ID-Rev-0-to-Rev-1_10-17-18.pdf?7550756082658606892">Upgrade Guide</a></p>
+<p><span>Printer internet access required for upgrade.</span> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Upgrades</s:tag>
+    <s:variant>
+      <id>https://makergear.com/products/1728530546786</id>
+      <title>Default Title</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku>MG1217</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makergear.com/products/6298160388</id>
+    <published>2016-07-22T15:27:00-04:00</published>
+    <updated>2016-07-22T15:27:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/products/lcd-interface"/>
+    <title>LCD for M2</title>
+    <s:type>Parts</s:type>
+    <s:vendor>MakerGear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/7372/products/LCD_800x_600x_0cc6f45b-f8ca-4821-8d8b-da1020b367e3.jpg?v=1578585629"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MakerGear<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            99.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br></p>
+<p>The MakerGear LCD for M2 Interface (with integrated SD Card Reader) is a perfect upgrade item for those who wish to control their printer without the use of a computer. It includes a RepRap Smart Controller-style LCD screen with assembly hardware, all necessary wiring and connections, as well as a laser-cut ABS housing unit and 3D-printed ABS adjustment knob. </p>
+<p><a href="http://makergear.wikidot.com/m2-lcd-panel" title="Installation Instructions" target="_blank">Installation Instructions</a></p>
+<meta charset="utf-8">
+<p><span>Please note that you may need to upgrade your firmware before using this product. Please visit </span><a href="http://firmware.makergear.com/" title="MakerGear Firmware Site">http://firmware.makergear.com</a><span> to download the correct firmware.</span></p>
+<p>(Refurbished M2 LCDs are available on our <a href="https://www.makergear.com/collections/clearance/products/refurbished-lcd-for-m2">Clearance Page</a>.)</p>
+<p><strong><em>Note: This LCD is only for M2 printers.</em></strong></p>
+<p><br></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Extras</s:tag>
+    <s:tag>M2 Accessories</s:tag>
+    <s:tag>Upgrades</s:tag>
+    <s:variant>
+      <id>https://makergear.com/products/6298160388</id>
+      <title>Default Title</title>
+      <s:price currency="USD">99.00</s:price>
+      <s:sku>MG1003</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makergear.com/products/6298160068</id>
+    <published>2016-07-22T15:27:00-04:00</published>
+    <updated>2016-07-22T15:27:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/products/simplify-3d-software"/>
+    <title>Simplify 3D® Software</title>
+    <s:type>Parts</s:type>
+    <s:vendor>MakerGear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/7372/products/Screen_Shot_2016-05-24_at_10.01.18_AM.jpg?v=1470342607"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MakerGear<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<h3>Delivery</h3>
+<p>If ordered with other items, the license will be shipped in the form of a card with an activation key and download instructions on it.</p>
+<br>If ordered by itself, Simplify3D orders will be delivered by email from "Simplify 3D" and occasionally gets caught in spam filters. You will receive a "shipment confirmation" email from MakerGear when the Simplify 3D license has been sent. Simplify 3D licenses are sent manually by our staff during regular business hours. If you place your order during an evening or weekend, the license will be sent the next business morning.<hr><br>
+<h3>Hassle-Free Printing</h3>
+No need to patch together multiple software applications! One powerful application allows you to import, manipulate, repair, slice, preview, and start printing a 3D model in a matter of minutes.
+<ul>
+<li>Access more than 100 pre-configured profiles, optimized for your printer.</li>
+<li>Adjust as few or as many settings as you wish.</li>
+<li>Print over USB or with an SD card.</li>
+</ul>
+<h3>Lightning-Fast Slicer</h3>
+Slice your 3D models in seconds, not minutes. Simplify3D is the fastest slicer on the market, allowing you to quickly and easily perform multiple iterations in order to achieve the best quality.
+<ul>
+<li>Slice complex prints in mere seconds.</li>
+<li>Preview your 3D part to identify potential areas of improvement.</li>
+<li>Tweak settings, slice, and repeat as many times as you need to.</li>
+</ul>
+<h3>Smart Supports</h3>
+Support generation doesn’t get any easier than this. Automatically generate support based on overhang angles, then add or remove supports as needed.
+<ul>
+<li>Customize the placement, size,  and angle of support material.</li>
+<li>Snap off supports easily without damaging your part.</li>
+<li>Enjoy the best of both worlds — sufficient support and cleaner surface finishes.</li>
+</ul>
+<h3 class="img img-hover">Optimized Dual Extrusion</h3>
+Create stunning dual-color parts with Simplify3D’s Dual Extrusion Wizard. Unique features prevent filament from oozing on your print, resulting in crisp, sharp definition between colors.
+<ul>
+<li>Streamline the setup of dual-extrusion print jobs.</li>
+<li>Protect your part from blobs and defects using the Ooze Shield and Prime Pillar.</li>
+<li>Print the part in one material and the support structures in another, allowing you to use dissolvable filament.</li>
+</ul>
+<h3>Simplified Multi-Part Printing</h3>
+Load up the build plate! Easily print multiple parts to save time and increase efficiency.
+<ul>
+<li>Quickly manipulate where parts are placed to make the most of the build space.</li>
+<li>Control whether to print continuously layer-by-layer or sequentially.</li>
+<li>Change settings such as infill, support generation, layer height, and temperature for each part as needed.</li>
+</ul>
+<h3>Better 3D Printing Results</h3>
+Stop wasting time, money, and filament on failed or imperfect prints. The highly detailed animated Preview Mode allows you to visualize every aspect of your print before sending a job to the printer.
+<ul>
+<li>Achieve fine levels of quality with advanced print settings.</li>
+<li>Estimate print time, material quantity and cost before printing.</li>
+<li>Preview your print line-by-line or layer-by-layer.</li>
+</ul>
+<h6><a href="https://www.simplify3d.com/software/" title="Simplify3D Software - 3D Printer Control and File Slicing" target="_blank">Learn more</a></h6></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Extras</s:tag>
+    <s:tag>Upgrades</s:tag>
+    <s:variant>
+      <id>https://makergear.com/products/6298160068</id>
+      <title>Default Title</title>
+      <s:price currency="USD">199.00</s:price>
+      <s:sku>MG1147</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makergear.com/products/6298151620</id>
+    <published>2016-07-22T15:26:15-04:00</published>
+    <updated>2016-07-22T15:26:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/products/electronics-case"/>
+    <title>Electronics Case</title>
+    <s:type>Parts</s:type>
+    <s:vendor>MakerGear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/7372/products/RAMBo_Case.jpg?v=1470342577"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MakerGear<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Electronics Case is included with all current M2 3D printers, and serves as an upgrade for all M2 3D printers purchased before February 2015.</p>
+<p>It is made of powder-coated stainless steel and was designed to protect and house the electronics board on the M2 3D printer.</p>
+<p>The Electronics Case does not include the electronics board, 40 mm fan, nor the SD card reader.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>M Series Spare Part</s:tag>
+    <s:tag>Upgrades</s:tag>
+    <s:variant>
+      <id>https://makergear.com/products/6298151620</id>
+      <title>Default Title</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku>MG1016</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makergear.com/products/6298150340</id>
+    <published>2016-07-22T15:26:10-04:00</published>
+    <updated>2016-07-22T15:26:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/products/power-upgrade"/>
+    <title>Power Supply Upgrade Kit</title>
+    <s:type>Parts</s:type>
+    <s:vendor>MakerGear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/7372/products/Power_Supply_6de72728-44e5-4380-b5cf-017e08176788.jpg?v=1470342573"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MakerGear<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            230.00 - 385.00
+            <a href="https://makergear.com/products/power-upgrade">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Power Supply Upgrade Kits ordered today will ship in about 1-2 weeks.</strong></p>
+<p>The Power Supply Upgrade Kit allows you to bring your old M2 3D printer up to current MakerGear voltage standards (currently 24 V, previously 19 V), and includes two options:</p>
+<ul>
+<li><span style="line-height: 1.4;"><strong>Standard</strong> - One 24 V power supply, one 24 V heated build platform, one 24 V 50 mm fan, one extruder wiring harness, and two 24 V 40 mm fans.</span></li>
+<li>
+<strong>Standard PLUS</strong> - One 24V power supply, one 24V heated build platform, one extruder wiring harness and one 24V 40mm fan + the V4 Extruder Upgrade Kit + Rev F/G Cooling Kit</li>
+</ul>
+<p>Please note that you will need to upgrade your firmware before using this product. Please visit <a href="http://firmware.makergear.com" title="MakerGear Firmware Site">http://firmware.makergear.com</a> to download the correct firmware.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Upgrades</s:tag>
+    <s:variant>
+      <id>https://makergear.com/products/6298150340</id>
+      <title>Standard</title>
+      <s:price currency="USD">230.00</s:price>
+      <s:sku>MG1014B</s:sku>
+      <s:grams>3175</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makergear.com/products/6298150340</id>
+      <title>Standard PLUS</title>
+      <s:price currency="USD">385.00</s:price>
+      <s:sku>MG1014D</s:sku>
+      <s:grams>3175</s:grams>
+    </s:variant>
+  </entry>
+</feed>

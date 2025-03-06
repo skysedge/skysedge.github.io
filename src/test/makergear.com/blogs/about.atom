@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://makergear.com/blogs/about.atom</id>
+  <link rel="alternate" type="text/html" href="https://makergear.com/blogs/about"/>
+  <link rel="self" type="application/atom+xml" href="https://makergear.com/blogs/about.atom"/>
+  <title>MakerGear™ - About</title>
+  <updated>2018-11-02T16:58:00-04:00</updated>
+  <author>
+    <name>MakerGear™</name>
+  </author>
+  <entry>
+    <id>https://makergear.com/blogs/about/direct-drive</id>
+    <published>2018-11-02T16:58:00-04:00</published>
+    <updated>2019-01-09T13:03:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/blogs/about/direct-drive"/>
+    <title>Direct Drive</title>
+    <author>
+      <name>Ryan Martin-Wagar</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<p>Direct Drive is the only way to produce excellent results reliably.  MakerGear printers can run direct drive extruders because of their renowned build quality.</p><p><a class="read-more" href="https://makergear.com/blogs/about/direct-drive">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<p>Bowden vs. Direct Drive</p>
+<p>In the early days of desktop 3D printing, manufacturers were looking for ways to speed up the printing process.  One technology that was released was a Bowden extruder, which removed the weight of the extruder motor from the fast-moving hot end by having a stationary motor push the filament through a long tube to the hot end.  While this seems to work adequately for rigid materials like PLA, materials with any flex to them do not perform well with this extruder system.  One tactic employed to deal with this lack of rigidity was to use 2.85 mm filament rather than 1.75 mm, which means that each micro-step of the extruder pushes out more than 2.5 times as much material—definitely not a good thing.</p>
+<p>While reducing the mobile mass of the extruder system is beneficial, the reduced control that comes with the Bowden system has negative effects on print quality and reliability.  Because MakerGear has used all metal frames and linear rails for motion control since 2012, our printers have been able to support the extra mass that comes with a direct drive system while also edging the competition on speed.</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://makergear.com/blogs/about/ct-j-plate</id>
+    <published>2018-11-02T16:00:00-04:00</published>
+    <updated>2019-01-03T14:44:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/blogs/about/ct-j-plate"/>
+    <title>CT &amp; J Plate</title>
+    <author>
+      <name>Ryan Martin-Wagar</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<span>Precision machined cast aluminum tooling plate and our "built like a tank" frames provide the foundation for excellent printing.</span><p><a class="read-more" href="https://makergear.com/blogs/about/ct-j-plate">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<p>All MakerGear printers use Cast Tool and Jig Plate, aka cast aluminum tooling plate for the precision critical structural components (for those with knowledge of GD&amp;T, each Datum is defined with respect to these components).  The tooling plate is machined with flat surfaces for mounting linear rails and tight tolerance holes for holding linear rods and ensuring orthogonality,   By installing these to our welded steel frames (M series printers) or riveted aluminum frames (Ultra One), we build the most robust, precise, repeatable, and user maintainable machines on the market.</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://makergear.com/blogs/about/linear-rails</id>
+    <published>2018-11-02T15:00:00-04:00</published>
+    <updated>2018-12-12T14:51:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/blogs/about/linear-rails"/>
+    <title>Linear Rails</title>
+    <author>
+      <name>Ryan Martin-Wagar</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<span>Precise motion, easy maintenance.  There's a reason why all well built machines use linear rails.  Discover it without the excessive price tag.</span><p><a class="read-more" href="https://makergear.com/blogs/about/linear-rails">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<p>Because the linear rails are bolted securely to the tooling plate components of our printers, they eliminate the common failure modes of other motion control systems.  Linear rails deliver repeatable precision throughout lengthy prints and lengthy campaigns of prints.  Additionally, the simple way in which they’re installed on the machines makes them user maintainable by even the newest individuals in the 3D printing world.</p>
+<p>By pairing the linear rails with Kevlar reinforced belts, the printhead reliably arrives at its programmed location resulting in beautiful print quality and industry leading dimensional precision.</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://makergear.com/blogs/about/v4-hot-end</id>
+    <published>2018-11-02T13:00:00-04:00</published>
+    <updated>2018-12-12T14:51:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/blogs/about/v4-hot-end"/>
+    <title>V4 Hot End</title>
+    <author>
+      <name>Ryan Martin-Wagar</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<span>With a decade of experience and innovation, the V4 hot end provides the versatility to run the material of your choice.</span><p><a class="read-more" href="https://makergear.com/blogs/about/v4-hot-end">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<p>In 2009, when our founder purchased one of the early MakerBot printers, he had a lot of the headaches that other users reported.  Specifically, the hot ends were unreliable.  So he bought a lathe, started making nozzles and helped other users fix their printers.  His early hot ends were so successful that by 2010 he had built a 3D printer to go with his highly regarded hot ends, and MakerGear was making a name for itself in the rapidly growing 3D printing industry.</p>
+<p>After several years of continuous improvement, the V4 hot end was released.  The female thread on the interchangeable nozzles provides for short filament residence time (the longer the filament is at elevated temperature, the more it will break down into other plastics and cause jams), and the high temperature Teflon insert accommodates excellent retraction for highly detailed prints.  The V4 hot end is available with brass or stainless steel nozzles in a variety of sizes, and several hardened steel aftermarket nozzles are available as well.</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://makergear.com/blogs/about/touch-probe-true-leveling</id>
+    <published>2018-11-01T09:35:00-04:00</published>
+    <updated>2019-01-03T14:49:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/blogs/about/touch-probe-true-leveling"/>
+    <title>Touch Probe + True Leveling</title>
+    <author>
+      <name>Ryan Martin-Wagar</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>There are two critical elements in attaining reliable bed adhesion:</p>
+<ol>
+<li>Bed material/adhesive systems—There are countless solutions, and MakerGear sticks with a method that is tried and true: Polyimide Film (aka Kapton) on Borosilicate Glass.  Many users love the great adhesion that the polyimide film provides at elevated temperature and the equally great release of the printed object when the plate cools down.  Users looking for a stronger hold can replace the Polyimide Film with a PEI sheet (BuildTak makes a trusted option) or simply use hairspray (Aquanet) or glue stick (Avery Purple) applied directly to the glass.</li>
+<li>Nozzle proximity to the bed—with the release of True Leveling, MakerGear removed the springs from beneath the bed and placed the bed squarely on four adjustable points. This meant that once a bed was leveled it stayed level.  Since the release of True Leveling, we have added a touch probe (much more reliable than other probing technologies), which makes the leveling process very straightforward.  Additionally, the probe compensates for the unavoidable minor variations from flatness by creating a mesh pattern of the build surface before each print.  Our printers use this mesh pattern to raise and lower the bed during the first few layers of the print to ensure the nozzle is at the correct distance from the bed.</li>
+</ol>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://makergear.com/blogs/about/independent-dual-extruders</id>
+    <published>2018-11-01T09:33:00-04:00</published>
+    <updated>2019-01-09T13:05:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/blogs/about/independent-dual-extruders"/>
+    <title>Independent Dual Extruders</title>
+    <author>
+      <name>Ryan Martin-Wagar</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>Dual extrusion provides the ability to print multi-material objects as well as super complex geometries (using support structures printed out of water soluble filament).  While many consumer-grade 3D printers feature dual extrusion using a single head with two nozzles that are raised when inactive, the process of switching active extruders is time consuming and is another system that can be a maintenance problem. </p>
+<p>By using two independent heads, MakerGear’s independent dual heads allow seamless transition between extruders on dual material prints and produce beautiful print quality.  Further, because the two heads operate independently of each other, users can run their printer in mimeo mode where the right extruder is duplicating the movement of the left extruder, doubling throughput on jobs where you need many of the same object.  Lastly, because users can choose to run just their left extruder or just their right extruder, the system has built-in redundancy (not to mention the ease of maintenance on MakerGear extruder systems).</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://makergear.com/blogs/about/connectivity</id>
+    <published>2018-11-01T09:32:00-04:00</published>
+    <updated>2019-01-14T16:47:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/blogs/about/connectivity"/>
+    <title>Connectivity</title>
+    <author>
+      <name>Ryan Martin-Wagar</name>
+    </author>
+    <content type="html">
+      <![CDATA[<div>All Ultra One and M3 MakerGear 3D printers come with a variety of connectivity options.</div>
+<div>The printer's built in USB ports allow you to add printer upgrades like webcams, lights, or additional storage. </div>
+<div></div>
+<div>Using Wifi or Ethernet you can connect and control your printer from any network attached device. Setting up and monitoring print jobs is simple as there's no special hardware or software required to connect to the printer. If your device can get on your network and open a web browser, you're good to go. </div>
+<div></div>
+<div>This network connection makes it easy to add multiple printers to your collection and  seamlessly allows you to manage all of your printers from a single computer anywhere on your network. </div>
+<div></div>
+<div>Our printers can work with a variety of network configurations or can generate their own network for a self-contained experience. Just put the printer into Access Point mode, and it will broadcast a wifi network that you can join from any wifi device.  </div>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://makergear.com/blogs/about/software</id>
+    <published>2018-11-01T09:30:00-04:00</published>
+    <updated>2019-01-09T13:04:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/blogs/about/software"/>
+    <title>Software</title>
+    <author>
+      <name>Ryan Martin-Wagar</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>In using Simplify 3D for creating the .gcode that sets the toolpath and OctoPrint for MakerGear for setting up, maintaining, and controlling the printer, you can be confident that your printer will perform as intended. </p>
+<p>Simplify3D—As the leading proprietary 3D printing software, Simplify 3D organizes an incredible amount of functionality, including industry-leading dual extruder features, into a simple user interface.  Make no mistake about it, any time this much functionality is being offered, it can seem daunting to learn, but Simplify 3D makes it as easy as possible.</p>
+<p>OctoPrint for MakerGear—we have taken the very popular open-source printer control software and added functionality specific to MakerGear printers.  This software allows you to control your printer from any web-enabled device (desktop, laptop, tablet, or smartphone).  It also has an immense library of plug-ins designed by the community-at-large that enable features like remote video monitoring. A portion of all MakerGear printer sales goes to keeping this open source community strong.</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://makergear.com/blogs/about/support</id>
+    <published>2018-10-31T09:41:00-04:00</published>
+    <updated>2018-12-12T14:50:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/blogs/about/support"/>
+    <title>Customer Support</title>
+    <author>
+      <name>Ryan Martin-Wagar</name>
+    </author>
+    <content type="html">
+      <![CDATA[Back in 2009, when Rick (our founder) was machining nozzles in his garage during the day to get MakerGear started, he would spend his evenings supporting the growing RepRap community through his IRC channel.  The technical support he provided played a significant role in helping the early adopters of desktop 3D printing make the industry into what it is today.  A decade later, MakerGear is still focused on providing the best technical support and customer service in the industry, but don't take our word for it, type "MakerGear reviews" into your search engine, and see for yourself.]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://makergear.com/blogs/about/customer-service</id>
+    <published>2018-10-31T09:39:00-04:00</published>
+    <updated>2019-01-09T13:06:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/blogs/about/customer-service"/>
+    <title>Flexible Use Made Easier</title>
+    <author>
+      <name>Ryan Martin-Wagar</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>There is a huge trade-off between ease of use and the flexibility to produce parts in the filament of your choice.  While some systems have dialed in settings, these systems require you to use a limited selection of their filament, which is priced at multiples of their open market value.  On the other hand, MakerGear printers have been designed to run with a wide variety of materials, allowing users to obtain industrial-grade performance with exactly the material they need for their application.</p>
+<p>To get MakerGear users started, we provide optimized Simplify 3D profiles for the most commonly used materials, making the process straight forward.  The list of materials with optimized profiles is always growing!</p>
+<p>Lastly, when considering ease of use, it is important to consider not only how easy it is to operate your printer when it’s properly functioning, but also how reliably it performs as intended and how quickly (or not) users can get their printer back up and running.  By combining industrial-grade components with genuine technical support, you can trust that MakerGear printers will perform reliably and that you will be impressed with our support and the ease of maintenance.</p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://makergear.com/blogs/about/reliability</id>
+    <published>2018-10-31T09:35:00-04:00</published>
+    <updated>2019-01-03T14:53:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/blogs/about/reliability"/>
+    <title>Reliability</title>
+    <author>
+      <name>Ryan Martin-Wagar</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>In the 3D printing world, the term “reliability” is thrown around quite liberally.  The reason for this is that, for many, 3D printers have been anything but reliable.  Usually, regardless of industry, this concept is used by marketers to minimize a problem rather than to highlight a strength.  For example reliability is not typically included in marketing for a spoon, a towel, or a table, but it is for cars.</p>
+<p>MakerGear has enjoyed growth merely through word-of-mouth.  While nearly all of our competition rely on significant marketing budgets, the reliability of our machines is the reason for our success.</p>]]>
+    </content>
+  </entry>
+</feed>

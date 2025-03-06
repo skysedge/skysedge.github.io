@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://makergear.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://makergear.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://makergear.com/collections/clothing.atom"/>
+  <title>MakerGear™</title>
+  <updated>2019-02-28T11:12:47-05:00</updated>
+  <author>
+    <name>MakerGear™</name>
+  </author>
+  <entry>
+    <id>https://makergear.com/products/6298149572</id>
+    <published>2019-02-28T11:12:47-05:00</published>
+    <updated>2019-02-28T11:12:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/products/t-shirt"/>
+    <title>T-Shirt</title>
+    <s:type></s:type>
+    <s:vendor>MakerGear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/7372/products/MG_HeatherGrey_large_800x_b13da7c4-1058-4146-bb8c-240eac1191dc.jpg?v=1572295650"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MakerGear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Get your Maker Gear here!</p>
+<p>S:  Black T-Shirt with Ohio outline</p>
+<p>2XL, 3XL:  Heather Gray T-Shirt with MakerGear logo.</p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clothing</s:tag>
+    <s:variant>
+      <id>https://makergear.com/products/6298149572</id>
+      <title>S</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makergear.com/products/6298149572</id>
+      <title>M</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makergear.com/products/6298149572</id>
+      <title>L</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makergear.com/products/6298149572</id>
+      <title>XL</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makergear.com/products/6298149572</id>
+      <title>XXL</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makergear.com/products/6298149572</id>
+      <title>XXXL</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makergear.com/products/6405408388</id>
+    <published>2017-12-19T09:50:43-05:00</published>
+    <updated>2017-12-19T09:50:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/products/gift-card"/>
+    <title>Gift Card</title>
+    <s:type>Gift Card</s:type>
+    <s:vendor>MakerGear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/7372/products/e38bd83af578077b65a31424bd24d085.png?v=1471372411"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MakerGear<br>
+        <strong>Type: </strong>Gift Card<br>
+        <strong>Price: </strong>
+            25.00 - 1000.00
+            <a href="https://makergear.com/products/gift-card">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shopping for someone else but not sure what to give them? Give them the gift of choice with a MakerGear™ gift card.</p>
+<p>Gift cards are delivered by email and contain instructions to redeem them at checkout. Our gift cards have no additional processing fees.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clothing</s:tag>
+    <s:variant>
+      <id>https://makergear.com/products/6405408388</id>
+      <title>$25.00</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku>Giftcard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makergear.com/products/6405408388</id>
+      <title>$50.00</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>Giftcard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makergear.com/products/6405408388</id>
+      <title>$100.00</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>Giftcard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makergear.com/products/6405408388</id>
+      <title>$250.00</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku>Giftcard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makergear.com/products/6405408388</id>
+      <title>$500.00</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku>Giftcard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makergear.com/products/6405408388</id>
+      <title>$1,000.00</title>
+      <s:price currency="USD">1000.00</s:price>
+      <s:sku>Giftcard</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makergear.com/products/88109252623</id>
+    <published>2017-12-11T10:22:50-05:00</published>
+    <updated>2017-12-11T10:22:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/products/morning-mug"/>
+    <title>MakerGear Coffee Mug</title>
+    <s:type></s:type>
+    <s:vendor>MakerGear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/7372/products/MakerGear_Mug_800.jpg?v=1572294496"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MakerGear<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Start your day the right way with a ceramic MakerGear Coffee Mug.</p>
+<p>- Holds up to 16 oz. of any liquid of choice.</p>
+<p>- Colors: Workhorse Black and Overdrive Orange</p>
+<p>- Shipping Weight: Just right.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clothing</s:tag>
+    <s:variant>
+      <id>https://makergear.com/products/88109252623</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.00</s:price>
+      <s:sku>P1205</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+</feed>

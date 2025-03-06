@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://makergear.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://makergear.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://makergear.com/collections/clearance.atom"/>
+  <title>MakerGear™</title>
+  <updated>2024-04-03T12:33:42-04:00</updated>
+  <author>
+    <name>MakerGear™</name>
+  </author>
+  <entry>
+    <id>https://makergear.com/products/7037017915490</id>
+    <published>2024-04-03T12:33:42-04:00</published>
+    <updated>2024-04-03T12:33:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/products/lightly-used-lcd-for-m3-se-and-m3-id"/>
+    <title>Lightly Used LCD for M3-SE and M3-ID</title>
+    <s:type>Parts</s:type>
+    <s:vendor>MakerGear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/7372/files/lcde_for_m3-2.jpg?v=1712162379"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MakerGear<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>LCD for M3:</strong></p>
+<p>The Lightly Used MakerGear LCD for M3s is perfect for printers with multiple users or if you don't want to connect with a computer, the LCD for the M3 series printer is a great way to make your printer a stand-alone unit.</p>
+<p>The LCD comes with all of the hardware you will need. </p>
+<p>Once you're done, you'll be able to upload your files via a USB drive, preheat your bed and hotend, and jog your axes without having to connect to the printer.</p>
+<p><span style="text-decoration: underline;"><strong>LCD Screen Setup Instructions-</strong></span></p>
+<p><a href="https://cdn.shopify.com/s/files/1/0030/7372/files/MakerGear_M3_LCD_Installation_05-2022.pdf?v=1652811957" title="Installation instructions LCD for M3" rel="noopener noreferrer" target="_blank">Installation Instructions</a></p>
+<p><em><strong>*Note: LCD for M3s is for M3 series printers only and is for control, not calibration</strong></em></p>
+<p><a href="https://www.makergear.com/collections/3d-printers/products/m3-id" title="MAKERGEAR M3-ID 3D PRINTER" rel="noopener" target="_blank"><em><strong>MakerGear M3-ID 3D Printer</strong></em></a></p>
+<p><a href="https://www.makergear.com/collections/3d-printers/products/m3" title="MAKERGEAR M3-SE 3D PRINTER" rel="noopener" target="_blank"><em><strong>Maker Gear M3-SE 3D printer</strong></em></a></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Extras</s:tag>
+    <s:tag>M2 Accessories</s:tag>
+    <s:tag>Upgrades</s:tag>
+    <s:variant>
+      <id>https://makergear.com/products/7037017915490</id>
+      <title>Default Title</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku/>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makergear.com/products/6581275361378</id>
+    <published>2021-08-01T16:23:36-04:00</published>
+    <updated>2021-08-01T16:23:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/products/refurbished-lcd-for-m2"/>
+    <title>Lightly Used LCD for M2</title>
+    <s:type>Parts</s:type>
+    <s:vendor>MakerGear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/7372/products/LCD_800x_600x_d62a4f85-d215-42c0-a29e-c8f82eaa2fa1.jpg?v=1627848772"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MakerGear<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>LCD for M2:</strong></p>
+<p>The Lightly Used MakerGear LCD for M2 Interface (with integrated SD Card Reader) is a perfect upgrade item for those who wish to control their printer without the use of a computer. It includes a RepRap Smart Controller-style LCD screen with assembly hardware, all necessary wiring and connections, as well as a laser-cut ABS housing unit and 3D-printed ABS adjustment knob. </p>
+<p><a title="Installation Instructions" href="http://makergear.wikidot.com/m2-lcd-panel" target="_blank">Installation Instructions</a></p>
+<meta charset="utf-8">
+<p><span>Please note that you may need to upgrade your firmware before using this product. Please visit </span><a title="MakerGear Firmware Site" href="http://firmware.makergear.com/">http://firmware.makergear.com</a><span> to download the correct firmware.</span></p>
+<p><strong><em>Note: The LCD for M2s is only for M2 printers.</em></strong></p>
+<style type="text/css"><!--
+td {border: 1px solid #ccc;}br {mso-data-placement:same-cell;}
+--></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Extras</s:tag>
+    <s:tag>M2 Accessories</s:tag>
+    <s:tag>Upgrades</s:tag>
+    <s:variant>
+      <id>https://makergear.com/products/6581275361378</id>
+      <title>Default Title</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku>MG1003R</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makergear.com/products/4519972143202</id>
+    <published>2020-11-11T11:43:46-05:00</published>
+    <updated>2020-11-11T11:43:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/products/copy-of-build-surface-with-polyimide-tape"/>
+    <title>Imperfect Build Surface (with polyimide tape)</title>
+    <s:type>Parts</s:type>
+    <s:vendor>MakerGear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/7372/products/MG1010_Borosilicate_Glass_with_Polyimide_Film_4a669072-a9af-4e0b-a124-e03b9f464015.jpg?v=1605113001"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MakerGear<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            18.00 - 35.00
+            <a href="https://makergear.com/products/copy-of-build-surface-with-polyimide-tape">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span>These build surfaces are perfectly functional but may have a small chip out of the side or another small cosmetic defect.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clearance</s:tag>
+    <s:tag>Extras</s:tag>
+    <s:tag>Replacements</s:tag>
+    <s:variant>
+      <id>https://makergear.com/products/4519972143202</id>
+      <title>8 x 10 (M Series)</title>
+      <s:price currency="USD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makergear.com/products/4519972143202</id>
+      <title>14 x 16 (Ultra One)</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makergear.com/products/6348392132</id>
+    <published>2016-08-02T16:36:00-04:00</published>
+    <updated>2016-08-02T16:36:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/products/lightly-used-refurbished"/>
+    <title>Lightly Used/Refurbished</title>
+    <s:type>3D Printers</s:type>
+    <s:vendor>MakerGear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/7372/products/m2e-2.jpg?v=1470342629"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MakerGear<br>
+        <strong>Type: </strong>3D Printers<br>
+        <strong>Price: </strong>
+            750.00 - 2375.00
+            <a href="https://makergear.com/products/lightly-used-refurbished">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="text-decoration: underline;"><strong>Lightly Used M3-ID rev 1</strong></span> Fully tested and ships with the standard M3-ID warranty (see the M3-ID product page for warranty <a href="https://www.makergear.com/products/m3-id">details</a>). US Only. </p>
+<p><strong><span style="text-decoration: underline;">Refurbished M3-ID rev 1</span> </strong>Fully tested and ships with a <strong>sixty-day warranty and a seven day return policy</strong>. US Only.</p>
+<p style="text-align: center;">------------------------------------</p>
+<p><span style="text-decoration: underline;"><strong>Lightly Used M3-SE rev 1</strong></span> <span>Fully tested and ships with the standard M3-SE warranty (see the M3-SE product page for warranty </span><a href="https://www.makergear.com/products/m3">details</a><span>). US Only.</span></p>
+<p style="text-align: left;"><span><meta charset="utf-8"> <strong data-mce-fragment="1"><span style="text-decoration: underline;">Refurbished M3-SE rev 1</span> </strong>Fully tested and ships with a <strong data-mce-fragment="1">sixty-day warranty and a seven day return policy</strong>. US Only.</span></p>
+<p style="text-align: center;"><span>------------------------------------</span></p>
+<p><span style="text-decoration: underline;"><strong>Lightly Used M2</strong></span> Fully tested and ships with the standard M2 warranty (see the M2 product page for warranty <a href="http://www.makergear.com/products/m-series-3d-printers">details</a>). US Only.</p>
+<p><span style="text-decoration: underline;"><strong>Refurbished M2</strong></span> Factory refurbished and updated with a single v4 extruder and the latest HBP. May have cosmetic imperfections. The price reflects a whopping 40% discount off the normal retail M2 cost. Refurbished printers have a <strong>sixty</strong><strong>-day warranty and a seven-day return policy</strong> (from the date received). This is an excellent opportunity for existing M2 owners. This is not recommended for people who do not have prior desktop 3D printing experience. US Only.</p>
+<p style="text-align: center;">------------------------------------</p>
+<p><strong>All used printers ship with our standard accessories (filament, tools, borosilicate with polyimide tape, etc.)</strong></p>
+<p> </p>
+<p><strong>Refurbished M2s available for purchase are in stock and ready to ship!</strong><strong><br></strong></p>
+<p><strong>Lightly Used and Refurbished M3-SEs available for purchase are in stock and ready to ship!</strong></p>
+<p><strong>Refurbished M3-IDs available for purchase are in stock and ready to ship!</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clearance</s:tag>
+    <s:variant>
+      <id>https://makergear.com/products/6348392132</id>
+      <title>Lightly Used M3-ID Rev 1</title>
+      <s:price currency="USD">2375.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>68039</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makergear.com/products/6348392132</id>
+      <title>Refurbished M3-ID rev 1</title>
+      <s:price currency="USD">1575.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>68039</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makergear.com/products/6348392132</id>
+      <title>Lightly Used M3-SE rev 1</title>
+      <s:price currency="USD">1125.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>68039</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makergear.com/products/6348392132</id>
+      <title>Lightly Used M2</title>
+      <s:price currency="USD">1600.00</s:price>
+      <s:sku>MG1000L</s:sku>
+      <s:grams>45813</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makergear.com/products/6348392132</id>
+      <title>Refurbished M2</title>
+      <s:price currency="USD">750.00</s:price>
+      <s:sku>MG1000R</s:sku>
+      <s:grams>45813</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makergear.com/products/6348392132</id>
+      <title>Refurbished M3-SE rev 1</title>
+      <s:price currency="USD">900.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>68039</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1005 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://makergear.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://makergear.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://makergear.com/collections/3d-printers.atom"/>
+  <title>MakerGear™</title>
+  <updated>2021-11-05T16:25:41-04:00</updated>
+  <author>
+    <name>MakerGear™</name>
+  </author>
+  <entry>
+    <id>https://makergear.com/products/6609803051106</id>
+    <published>2021-11-05T16:25:41-04:00</published>
+    <updated>2021-11-05T16:25:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/products/micro"/>
+    <title>MakerGear Micro 3D Printer Kit</title>
+    <s:type>3D Printers</s:type>
+    <s:vendor>MakerGear™</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/7372/products/Microfront.jpg?v=1635958300"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MakerGear™<br>
+        <strong>Type: </strong>3D Printers<br>
+        <strong>Price: </strong>
+            500.00 - 600.00
+            <a href="https://makergear.com/products/micro">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-fragment="1">This 3D printed 3D printer is designed to be a fun and easy-to-build open source project for anyone and everyone! With so many of our customers being in education, we set out to create <strong>the perfect tool for STEM education</strong> that not only encourages students to use their school's 3D printers but also helps them better understand the mechanics and technology behind them. <br><br><strong>Don't just make your own 3D printer; make that 3D printer your OWN </strong>- Unleash your creativity and use any color of almost any filament to 3D print your own fully customized MakerGear Micro on your MakerGear M2 or M3 (or nearly any midsize desktop 3D printer). The STEP files are available if you'd like to improve or modify the printed parts and the hardware sets are prepped for easy assembly with no crimping or soldering required. If you prefer to get right into building on day 1, we also offer a kit with the printed parts included.</div>
+<div data-mce-fragment="1"><br data-mce-fragment="1"></div>
+<div data-mce-fragment="1">
+<strong>﻿A more accessible 3D printing experience </strong>﻿- The MakerGear Micro is a perfect project for kids and adults alike with little or no experience necessary. Order your MakerGear Micro kit today and get yourself, your kids, your grandkids and/or your students involved in this awesome project.<br><br>
+</div>
+<div data-mce-fragment="1"><a title="Micro STEP files" href="https://github.com/Garr-R/MakerGear_Micro/tree/main/Hardware/STEP_Files">Micro STEP files</a></div>
+<div data-mce-fragment="1"><a title="Micro STL files" href="https://github.com/Garr-R/MakerGear_Micro/tree/main/Hardware/STL_Files">Micro STL files</a></div>
+<div data-mce-fragment="1"><a title="Micro assembly instructions with tool list" href="https://github.com/MakerGear/MakerGear_Micro/blob/main/Guides/Micro%20Mechanical%20Assembly%20Guide.pdf">Micro assembly instructions with tool list</a></div>
+<div data-mce-fragment="1">
+<br><span style="text-decoration: underline;">Hardware only:</span> All of the hardware (pre-crimped and pre-soldered for easy assembly) needed to build a MakerGear Micro. </div>
+<div data-mce-fragment="1">
+<br><span style="text-decoration: underline;">Hardware + Printed Parts:</span> All of the hardware plus all of the printed parts (orange pla).</div>
+<div data-mce-fragment="1"></div>
+<div data-mce-fragment="1"></div>
+<div data-mce-fragment="1"><strong><br>1 week lead time. </strong></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3D Printers</s:tag>
+    <s:variant>
+      <id>https://makergear.com/products/6609803051106</id>
+      <title>Hardware only</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku>Micro Kit - HW Only</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makergear.com/products/6609803051106</id>
+      <title>Hardware + Printed Parts</title>
+      <s:price currency="USD">600.00</s:price>
+      <s:sku>Micro Kit - Full</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makergear.com/products/1549251674210</id>
+    <published>2018-09-10T09:03:27-04:00</published>
+    <updated>2018-09-10T09:03:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/products/ultra-one"/>
+    <title>MakerGear Ultra One</title>
+    <s:type></s:type>
+    <s:vendor>MakerGear™</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/7372/products/UltraOne.jpg?v=1570712043"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MakerGear™<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Made in the USA</strong></p>
+<p><strong><iframe title="YouTube video player" src="https://www.youtube.com/embed/gH4gDG7y5pM" height="315" width="560"></iframe></strong></p>
+<p><a href="https://www.makergear.com/collections/parts/products/ultra-one-cart" title="Ultra One Cart Only"><strong>Click here for the Ultra One Cart Only</strong></a></p>
+<ul class="tabs">
+<li><a href="#tab1" class="active">Overview</a></li>
+<li><a href="#tab2">Features</a></li>
+<li><a href="#tab3">Specs</a></li>
+<li><a href="#tab6">Warranty</a></li>
+<li><a href="#tab8">International</a></li>
+<li><a href="#tab7">Installation</a></li>
+<li><a href="#tab9">Resources</a></li>
+</ul>
+<ul class="tabs-content">
+<ul class="tabs-content">
+<li id="tab1" class="active">
+<h1>Industrial Power Meets Material Flexibility</h1>
+<p><span style="font-weight: 400;">The MakerGear Ultra One 3D printer provides </span><span style="font-weight: 400;">true</span><span style="font-weight: 400;"> material flexibility and delivers high-quality FFF prints for your industrial, business and educational needs.</span></p>
+<p><span style="font-weight: 400;">With a build volume of 16” by 14” by 13”, the Ultra One offers speed, precision and durability for large-scale parts and assemblies. Two independent extruders capable of high temperatures enable you to print with a wide variety of materials. Unlike other industrial printers, the Ultra One offers the freedom to choose your filament grade and filament supplier, enabling a broader range of projects and greatly reducing production costs. </span></p>
+<p><span style="font-weight: 400;">The Ultra One’s touch probe-powered intelligent bed leveling system maximizes print adhesion; linear rails and industrial-grade components provide true CNC reliability; and dual extruders allow you to print with two materials simultaneously, including water soluble support, or take advantage of the Ultra One’s duplication mode.</span></p>
+<p><span style="font-weight: 400;">The Ultra One operates at a whisper thanks to its rigid aluminum frame, beautifully engineered enclosure and trinamic drivers. A built-in LCD touch screen, a USB drive, and WiFi and ethernet capability provide flexible access</span>.</p>
+<p><span style="color: #ff6335;"><strong>Ultra Ones are in production and can typically ship within about 30-45 days ARO. Please contact sales@makergear.com for more info.</strong></span></p>
+</li>
+<li id="tab2">
+<p><b>Independent Dual Extruders </b><span style="font-weight: 400;">for fast multi-material printing and use of soluble supports. </span>Using both extruders simultaneously, the Ultra One offers twice the production capacity of fixed-head dual extrusion systems for single-material print jobs.  </p>
+<span><b>Linear Rails </b><span style="font-weight: 400;">of industrial grade offer true CNC reliability</span>.</span><br><br><strong>Touch Probe Leveling</strong> reliably determines the levelness of the bed.  With these measurements, the bed is then automatically leveled by adjusting the z-motors at each of the four corners.  Additionally, the printer generates a mesh of the print surface before each print in order to compensate for small, unavoidable variations from perfect flatness.<br><br><strong>Print with unlimited complexity</strong> using soluble BVOH and HIPS support materials. Combine flexible and rigid elements into a single part to achieve your desired mechanical, thermal and chemical properties; and print multi-colored objects with stunning precision.<br><br><strong>WiFi/Ethernet Connectivity</strong> offers remote control and monitoring capabilities. <br><br><strong>Onboard computer</strong> with 10+ GB storage. <br><br><b>LCD Screen &amp; USB Port</b> enable users to print files stored on flash drives. <br><br><strong>Simplify3D</strong>,<span> the industry's leading independent slicing software.</span><br><br><strong>OctoPrint for MakerGear</strong> offers one-click file preparation and direct design-to-print integrations. <br><br><strong>Compatibility</strong> with a wide range of operating systems, devices and browsers, including Windows/Mac/Linux, iOS/Android, Chrome/Firefox/Safari.</li>
+<li id="tab3">
+<table style="width: 534px;">
+<tbody>
+<tr>
+<td style="width: 150px;">Technology</td>
+<td style="width: 376px;">FFF (Fused Filament Fabrication)</td>
+</tr>
+<tr>
+<td style="width: 150px;">Materials</td>
+<td style="width: 376px;">ABS*, ASA*, HIPS*, Nylon, PET-G, PET-T, PLA, polycarbonate, polypropylene, BVOH, TPE, TPU, metal composites, wood composites, carbon fiber composites, and more.</td>
+</tr>
+<tr>
+<td style="width: 150px;">Print Head</td>
+<td style="width: 376px;">Independent Dual Extruders (Direct, non-Bowden)</td>
+</tr>
+<tr>
+<td style="width: 150px;">Build Volume</td>
+<td style="width: 376px;">16" wide x 14" deep x 13" high (406 mm x 356 mm x 330 mm), Mimeo Mode 8" x 14" x 13" (203 mm x 356 mm x 330 mm)</td>
+</tr>
+<tr>
+<td style="width: 150px;">Filament Diameter</td>
+<td style="width: 376px;">1.75 mm</td>
+</tr>
+<tr>
+<td style="width: 150px;">Layer Resolution</td>
+<td style="width: 376px;">Suggested layer height: 0.10 - 0.350 mm (100 - 350 micron)</td>
+</tr>
+<tr>
+<td style="width: 150px;">Print Head Travel Speed</td>
+<td style="width: 376px;"> 10 - 500 mm/sec </td>
+</tr>
+<tr>
+<td style="width: 150px;">Build Plate</td>
+<td style="width: 376px;">Borosilicate Glass Plate coated with polyimide film</td>
+</tr>
+<tr>
+<td style="width: 150px;">Build Plate Temp.</td>
+<td style="width: 376px;">20 - 140 °C</td>
+</tr>
+<tr>
+<td style="width: 150px;">Build Plate Heat Up Time</td>
+<td style="width: 376px;">&lt; 10 minutes (110 °C)</td>
+</tr>
+<tr>
+<td style="width: 150px;">Max Build Chamber Temp.</td>
+<td style="width: 376px;">50 °C</td>
+</tr>
+<tr>
+<td style="width: 150px;">Assisted Leveling</td>
+<td style="width: 376px;">Touch probe auto-leveling. Touch probe auto-compensation (for minor variations from flat).</td>
+</tr>
+<tr>
+<td style="width: 150px;">Nozzle Type and Diameter</td>
+<td style="width: 376px;">Ships with 0.50 mm brass (0.35 mm and 0.75 mm in brass and 0.35 mm and 0.50 mm in stainless steel also available).</td>
+</tr>
+<tr>
+<td style="width: 150px;">Nozzle Temp.</td>
+<td style="width: 376px;">180 - 300 °C</td>
+</tr>
+<tr>
+<td style="width: 150px;">Nozzle Heat Up Time</td>
+<td style="width: 376px;">&lt; 2 minutes (220 °C)</td>
+</tr>
+<tr>
+<td style="width: 150px;">X Motion</td>
+<td style="width: 376px;">The X gantry contains independent heads driven by fiberglass reinforced belts and guided by a precision linear rail.</td>
+</tr>
+<tr>
+<td style="width: 150px;">Y Motion</td>
+<td style="width: 376px;">Two precision linear rails guide the X gantry, which is driven by two fiberglass reinforced belts.</td>
+</tr>
+<tr>
+<td style="width: 150px;">Z motion</td>
+<td style="width: 376px;">Four 12 mm rods guide motion independently driven by four lead screws.</td>
+</tr>
+<tr>
+<td style="width: 150px;">Operating Sound</td>
+<td style="width: 376px;">Lower than 65 dBA</td>
+</tr>
+<tr>
+<td style="width: 150px;">Ambient Operation Temp.</td>
+<td style="width: 376px;">15 ˚C to 32 ˚C (59 ˚F to 90 ˚F)</td>
+</tr>
+<tr>
+<td style="width: 150px;">Storage Temp.</td>
+<td style="width: 376px;">0 ˚C to 32 ˚C (32 ˚F to 90 ˚F)</td>
+</tr>
+<tr>
+<td style="width: 150px;">Connectivity</td>
+<td style="width: 376px;">
+<p>Ethernet, WiFi, LAN, USB Drive (accessible through LCD screen)</p>
+</td>
+</tr>
+<tr>
+<td style="width: 150px;">Monitoring</td>
+<td style="width: 376px;">
+<p>Webcam optional</p>
+</td>
+</tr>
+<tr>
+<td style="width: 150px;">Machine Weight and Dimensions</td>
+<td style="width: 376px;">170 lbs (77 kg), 30" x 30" x 30" (750 mm x 750 mm x 750 mm)</td>
+</tr>
+<tr>
+<td style="width: 150px;">AC input</td>
+<td style="width: 376px;">100 - 120 V, 15A, 47 - 63 Hz</td>
+</tr>
+<tr>
+<td style="width: 150px;">Power Consumption</td>
+<td style="width: 376px;">1800 W max</td>
+</tr>
+<tr>
+<td style="width: 150px;">Supplied Software</td>
+<td style="width: 376px;">Simplify3D</td>
+</tr>
+<tr>
+<td style="width: 150px;">Printer Interface</td>
+<td style="width: 376px;">Touch Screen LCD and OctoPrint for MakerGear (web-based)</td>
+</tr>
+<tr>
+<td style="width: 150px;">Supported OS</td>
+<td style="width: 376px;">Mac, Windows, Linux, iOS, Android</td>
+</tr>
+<tr>
+<td style="width: 150px;">File Types</td>
+<td style="width: 376px;">.stl, .obj, .gcode</td>
+</tr>
+<tr>
+<td style="width: 150px;">*CA Prop 65</td>
+<td style="width: 376px;">
+<meta charset="UTF-8"> <img data-mce-fragment="1" src="https://cdn.shopify.com/s/files/1/0030/7372/files/Warning_icon_480x480.png?v=1607011988" alt=""> <span><strong>WARNING</strong>: This Filament - when used in the operation of 3D Printers or 3D Pens - can expose you and others in the same room to styrene, a chemical known to the State of California to cause cancer. </span><span></span><a href="www.P65Warnings.ca.gov">www.P65Warnings.ca.gov</a><br><strong>ALWAYS OPERATE THIS PRODUCT IN A WELL-VENTILATED AREA.</strong>
+</td>
+</tr>
+</tbody>
+</table>
+</li>
+<li id="tab6">
+<p data-mce-fragment="1">Important: Review the <a href="https://makergear.com/policies/terms-of-service">Terms of Service</a> updated on 5/31/22 before purchasing.</p>
+</li>
+<li id="tab8">MakerGear will include the standard power cord used in the country to which the 3D printer is shipped.<br><br>Customer is responsible for customs duties, domestic sales tax, etc. <br><br>Customers who live in Canada and other certain countries who have applicable free trade agreements with the US will not be charged customs duties, though domestic sales tax may still apply. Customers in South Korea will need to fill out their portion of the Certificate of Origin form and send it to customs@makergear.com for completion by MakerGear to eliminate customs duties.</li>
+<li id="tab7">
+<b>Once uncrated, the Ultra One is ready to run!</b><br><br><b>Requirements:</b><br>Multiple lift partners: the machine weighs approximately 170 lbs (77 kg).</li>
+<li id="tab9">
+<h4 style="padding-bottom: 0px; margin-bottom: 0px;">Case Studies</h4>
+<ul>
+<li><a href="https://www.makergear.com/blogs/case-studies/darko-inc-case-study">Darko</a></li>
+<li><a href="https://www.makergear.com/blogs/case-studies/k-space-case-study">K-Space</a></li>
+</ul>
+<h4 style="padding-bottom: 0px; margin-bottom: 0px;">Resources</h4>
+<ul>
+<li><a href="https://www.makergear.com/pages/user-guides">User Guide</a></li>
+<li><a href="https://makergear.zendesk.com/hc/en-us/articles/115004464806-Simplify3D-Profiles-and-Factory-Files">Simplify3D Profiles</a></li>
+<li><a href="http://setup.makergear.com/u1">Printer Setup</a></li>
+<li><a href="https://makergear.zendesk.com/hc/en-us/articles/360035859432">Ultra One Power Requirements - FAQ</a></li>
+<li><a href="https://makergear.zendesk.com/hc/en-us">Knowledge Base</a></li>
+<li><a href="http://forum.makergear.com/">Forum</a></li>
+</ul>
+</li>
+</ul>
+</ul>
+<p>Ultra One Price: $13,499 <br>Ultra One with Cart Price: $14,499 </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3D Printers</s:tag>
+    <s:tag>Ultra One Printer</s:tag>
+    <s:variant>
+      <id>https://makergear.com/products/1549251674210</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12500.00</s:price>
+      <s:sku>MG2000</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makergear.com/products/1296205086796</id>
+    <published>2018-04-24T00:23:13-04:00</published>
+    <updated>2018-04-24T00:23:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/products/m3-id"/>
+    <title>MakerGear M3-ID 3D Printer</title>
+    <s:type>3D Printers</s:type>
+    <s:vendor>MakerGear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/7372/products/M3-ID_5246a5a6-ba2d-4f50-901f-eb1e07c6e456.jpg?v=1570712122"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MakerGear<br>
+        <strong>Type: </strong>3D Printers<br>
+        <strong>Price: </strong>
+            1979.00 - 2079.00
+            <a href="https://makergear.com/products/m3-id">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br></p>
+<ul class="tabs">
+<li><a class="active" href="#tab1">Overview</a></li>
+<li><a href="#tab2">Features</a></li>
+<li><a href="#tab3">Specs</a></li>
+<li><a href="#tab4">Includes</a></li>
+<li><a href="#tab6">Warranty</a></li>
+<li><a href="#tab8">International</a></li>
+<li><a href="#tab9">Resources</a></li>
+</ul>
+<ul class="tabs-content">
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<h1>Independent Heads, Double the Output</h1>
+<p><span style="font-weight: 400;">The MakerGear M3-ID has changed the way dual is done. It is the first desktop 3D printer to fully support duplication printing with independent extruders. </span></p>
+<p><span style="font-weight: 400;">Unlike traditional dual systems, where both extruders are locked into the same task, the M3-ID’s extruders work both independently and simultaneously, doubling your printing capacity.</span></p>
+<p><span style="font-weight: 400;">The M3-ID is made for the long haul and excels at high-volume, high-quality print jobs thanks to its rock-solid steel frame and touch probe-powered True Leveling.</span></p>
+<p><span style="font-weight: 400;">With industrial-grade precision and reliability in a machine compact enough to sit on your desk, the M3-ID is built for prototyping and production. Print crisp, clean lines on multicolor models; mix and match a large variety of materials to achieve the ideal balance of desired properties; and make complex and intricate parts using soluble support materials</span>. </p>
+</li>
+<li id="tab2">
+<p><b>Independent Dual Extruders </b><span style="font-weight: 400;">for fast multi-material printing and use of soluble supports.</span></p>
+<p><b>Linear Rails </b><span style="font-weight: 400;">of industrial-grade, </span><b>Cast Tooling Plate Components,</b> <b>Direct Drive Extruders</b><span style="font-weight: 400;">.</span></p>
+<p><b>Touch Probe</b><span style="font-weight: 400;"> for automatic and reliable leveling of </span><b>Heated Bed</b><span style="font-weight: 400;">.</span></p>
+<p><b>WiFi/Ethernet Connectivity</b><span style="font-weight: 400;"> offering remote control and monitoring capabilities.</span></p>
+<p><b>Onboard Computer</b><span style="font-weight: 400;"> with 10GB storage.</span></p>
+<p><b>USB Port</b><span style="font-weight: 400;"> enabling users to print files stored on flash drives.</span></p>
+<p><a href="https://www.makergear.com/collections/parts/products/simplify-3d-software" title="Simplify3D" target="_blank"><b>Simplify 3D</b><span style="font-weight: 400;">, the leading independent slicing software.</span></a></p>
+<p><b>OctoPrint for MakerGear</b><span style="font-weight: 400;"> offers one-click file preparation and design-to-print integration.</span></p>
+<p><b>MacOS, Windows, Linux, iOS &amp; Android Compatibility</b>.</p>
+</li>
+<li id="tab3">
+<table style="width: 536px;">
+<tbody>
+<tr>
+<td style="width: 150px;">Build Dimensions</td>
+<td style="width: 376px;">
+<div>
+<meta charset="utf-8"> <br>
+</div>
+<span color="#000000">Head 1 - 203 x 232 x 203 mm, Head 2 = 180 x 232 x 203 mm, Duplication/Mimeo Mode = 100 x 232 x 203 per extruder</span>
+</td>
+</tr>
+<tr>
+<td style="width: 150px;">Build Plate</td>
+<td style="width: 376px;">
+<div>
+<meta charset="utf-8"> <br>
+</div>
+<div>
+<meta charset="utf-8"> <br>
+</div>
+<span>Up to 110 °C. Borosilicate glass build plate coated with polyimide film.</span>
+</td>
+</tr>
+<tr>
+<td style="width: 150px;">Assisted Leveling</td>
+<td style="width: 376px;">Yes - True-Leveling + Auto-Leveling</td>
+</tr>
+<tr>
+<td style="width: 150px;">Filament Feed</td>
+<td style="width: 376px;">Direct (non-Bowden).</td>
+</tr>
+<tr>
+<td style="width: 150px;">Materials</td>
+<td style="width: 376px;">
+<div>
+<meta charset="utf-8"> <br>
+</div>
+1.75 mm. ABS*, ASA*, HIPS*, Nylon, PET-G, PET-T, PLA, polycarbonate, polypropylene, PVA, TPE, TPU, metal composites, wood composites, carbon fiber composites, and more.</td>
+</tr>
+<tr>
+<td style="width: 150px;">Nozzle</td>
+<td style="width: 376px;">
+<div>
+<meta charset="utf-8"> <br>
+</div>
+<span>Ships with 0.35 mm brass (0.25mm, 0.5mm, 0.75mm brass and 0.35mm and 0.50mm steel available).</span>
+</td>
+</tr>
+<tr>
+<td style="width: 150px;">Maximum Extruding Temperature</td>
+<td style="width: 376px;">40 W heater and thermistor rated to 300 °C.</td>
+</tr>
+<tr>
+<td style="width: 150px;">Hot End</td>
+<td style="width: 376px;">
+<div>
+<meta charset="utf-8"> <br>
+</div>
+Independent dual extruders with swappable V4 Hot Ends.</td>
+</tr>
+<tr>
+<td style="width: 150px;">Print technology</td>
+<td style="width: 376px;">FFF (Fused Filament Fabrication)</td>
+</tr>
+<tr>
+<td style="width: 150px;">X/Y Motion</td>
+<td style="width: 376px;">Independent axes with high precision linear rails guiding motion driven by kevlar reinforced belts.</td>
+</tr>
+<tr>
+<td style="width: 150px;">Z motion</td>
+<td style="width: 376px;">10 mm rods guide motion driven by lead screw.</td>
+</tr>
+<tr>
+<td style="width: 150px;">Layer Resolution</td>
+<td style="width: 376px;">
+<div>
+<meta charset="utf-8"> <br>
+</div>
+0.020 - 0.350 mm (20 - 350 micron)</td>
+</tr>
+<tr>
+<td style="width: 150px;">Print head travel speed</td>
+<td style="width: 376px;"> 80-450 mm/sec </td>
+</tr>
+<tr>
+<td style="width: 150px;">Ambient operation temperature</td>
+<td style="width: 376px;">15 ˚C to 32 ˚C (59 ˚F to 90 ˚F)</td>
+</tr>
+<tr>
+<td style="width: 150px;">Storage temperature</td>
+<td style="width: 376px;">0 ˚C to 32 ˚C (32 ˚F to 90 ˚F)</td>
+</tr>
+<tr>
+<td style="width: 150px;">Operating Sound</td>
+<td style="width: 376px;">lower than 65 dBA</td>
+</tr>
+<tr>
+<td style="width: 150px;">Machine Weight</td>
+<td style="width: 376px;">13.5 kg (29.5 lbs)</td>
+</tr>
+<tr>
+<td style="width: 150px;">Machine Dimensions with spool and full range of motion</td>
+<td style="width: 376px;">
+<div>
+<meta charset="utf-8"> <br>
+</div>
+<span>Width x Depth x Height: 533 mm (21") x 610 mm (24") x 533 mm (21”).</span>
+</td>
+</tr>
+<tr>
+<td style="width: 150px;">shipping box dimensions</td>
+<td style="width: 376px;">
+<div>
+<meta charset="utf-8"> <br>
+</div>
+<span>19 kg (42 lbs.). 535 mm x 535 mm x 635 mm (21" x 21" x 25”).</span>
+</td>
+</tr>
+<tr>
+<td style="width: 150px;">AC input</td>
+<td style="width: 376px;">100 - 120 V (4 A)/220 - 240 V (2 A), 47 - 63 Hz</td>
+</tr>
+<tr>
+<td style="width: 150px;">Power requirements</td>
+<td style="width: 376px;">24 V DC @ 15 A</td>
+</tr>
+<tr>
+<td style="width: 150px;">Power consumption</td>
+<td style="width: 376px;">360 W max</td>
+</tr>
+<tr>
+<td style="width: 150px;">Software</td>
+<td style="width: 376px;">
+<div>
+<meta charset="utf-8"> <br>
+</div>
+<span>A Simplify3D software license and the latest version of OctoPrint for MakerGear are included with the M3-ID. With no proprietary software required, the MakerGear M3-ID is compatible with a wide variety of free and commercial software programs.</span>
+</td>
+</tr>
+<tr>
+<td style="width: 150px;">Connectivity</td>
+<td style="width: 376px;">
+<p>Wifi, LAN, USB</p>
+</td>
+</tr>
+<tr>
+<td style="width: 150px;">*CA Prop 65</td>
+<td style="width: 376px;">
+<meta charset="UTF-8"> <img data-mce-fragment="1" src="https://cdn.shopify.com/s/files/1/0030/7372/files/Warning_icon_480x480.png?v=1607011988" alt=""> <span><strong>WARNING</strong>: This Filament - when used in the operation of 3D Printers or 3D Pens - can expose you and others in the same room to styrene, a chemical known to the State of California to cause cancer. </span><span></span><a href="www.P65Warnings.ca.gov">www.P65Warnings.ca.gov</a><br><strong>ALWAYS OPERATE THIS PRODUCT IN A WELL-VENTILATED AREA. </strong>
+</td>
+</tr>
+</tbody>
+</table>
+</li>
+<li id="tab4">- MakerGear M3-ID 3D printer with V4 hot ends<br><br>- Simplify3D software license<br><br>- Power supply with adjustable input voltage (115 V or 230 V) <br><br>- Power cord compliant with your country's power outlets <br><br>- Two 1 kg spools of PLA (black and blue)<br><br>- 8 inch x 10 inch borosilicate glass print surface with applied film<br> <br>- Tool set<br><br>- Sample print<br> <br>- User guide</li>
+<li id="tab6">Important: Review the <a href="https://makergear.com/policies/terms-of-service">Terms of Service</a> updated on 5/31/22 before purchasing.<br><br>
+</li>
+<li id="tab8">MakerGear will include the standard power cord used in the country to which the 3D printer is shipped.<br><br>MakerGear shipping fees cover transportation only. Customs duties, domestic sales tax, etc. are the responsibility of the customer.<br><br>Customers who live in Canada and other certain countries who have applicable free trade agreements with the US will not be charged customs duties, though domestic sales tax may still apply. Customers in South Korea will need to fill out their portion of the Certificate of Origin form and send it to customs@makergear.com for completion by MakerGear to eliminate customs duties.</li>
+<li id="tab9">
+<h4 style="padding-bottom: 0px; margin-bottom: 0px;">Case Studies</h4>
+<ul>
+<li><a href="https://www.makergear.com/blogs/case-studies/nucor-case-study">Nucor</a></li>
+</ul>
+<h4 style="padding-bottom: 0px; margin-bottom: 0px;">Resources</h4>
+<ul>
+<li><a href="https://www.makergear.com/pages/user-guides">User Guide</a></li>
+<li><a href="https://makergear.zendesk.com/hc/en-us/articles/115004464806-Simplify3D-Profiles-and-Factory-Files">Simplify3D Profiles</a></li>
+<li><a href="http://setup.makergear.com">Printer Setup</a></li>
+<li><a href="https://makergear.zendesk.com/hc/en-us">Knowledge Base</a></li>
+<li><a href="http://forum.makergear.com/">Forum</a></li>
+<li>
+<p>LCD Screen Setup Instructions- <a href="https://cdn.shopify.com/s/files/1/0030/7372/files/MakerGear_M3_LCD_Installation.pdf?675" title="Installation instructions LCD for M3" target="_blank">Installation Instructions</a></p>
+</li>
+</ul>
+</li>
+</ul>
+</ul>
+<p><strong>M3-IDs ordered today will ship in approx. 2 weeks.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3D Printer</s:tag>
+    <s:tag>3D Printers</s:tag>
+    <s:tag>M3 Printer</s:tag>
+    <s:variant>
+      <id>https://makergear.com/products/1296205086796</id>
+      <title>Printer Only</title>
+      <s:price currency="USD">1979.00</s:price>
+      <s:sku>MG1250-1</s:sku>
+      <s:grams>68039</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makergear.com/products/1296205086796</id>
+      <title>+ LCD for M3</title>
+      <s:price currency="USD">2079.00</s:price>
+      <s:sku>MG1250-2</s:sku>
+      <s:grams>68039</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makergear.com/products/11285033551</id>
+    <published>2017-05-03T07:38:48-04:00</published>
+    <updated>2017-05-03T07:38:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/products/m3"/>
+    <title>MakerGear M3-SE 3D Printer</title>
+    <s:type>3D Printers</s:type>
+    <s:vendor>MakerGear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/7372/products/M3-SE.jpg?v=1570712184"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MakerGear<br>
+        <strong>Type: </strong>3D Printers<br>
+        <strong>Price: </strong>
+            1530.00 - 1829.00
+            <a href="https://makergear.com/products/m3">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Made in the USA</strong><br></p>
+<ul class="tabs">
+<li><a class="active" href="#tab1">Overview</a></li>
+<li><a href="#tab2">Features</a></li>
+<li><a href="#tab3">Specs</a></li>
+<li><a href="#tab4">Includes</a></li>
+<li><a href="#tab6">Warranty</a></li>
+<li><a href="#tab8">International</a></li>
+<li><a href="#tab9">Resources</a></li>
+</ul>
+<ul class="tabs-content">
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<h5><br></h5>
+<h1>Ready to Run, Built to Last</h1>
+<span style="font-weight: 400;">The MakerGear M3-SE desktop 3D printer is the embodiment of both performance and reliability. </span> <span style="font-weight: 400;">With its steel frame and precision-machined components, the M3-SE is made for the long haul. It delivers outstanding print quality and dimensional accuracy thanks to its industrial-grade linear rails, MakerGear’s True Leveling system, and precision cooling.</span> <span style="font-weight: 400;">The M3-SE prints a broad range of materials, and is easy to use and maintain. With WiFi and ethernet connectivity, a built-in USB port, and an integrated OctoPrint user interface, the M3-SE offers total control from your favorite device. Prepare STL files in one click, choose from pre-configured material profiles, or upload your own custom profiles for even greater optimization.</span>
+</li>
+<li id="tab2">
+<span><span><b>Linear Rails </b><span style="font-weight: 400;">of industrial grade,</span><b> Cast Tooling Plate Components </b><span style="font-weight: 400;">&amp;</span><b> Direct Drive Extruder.<br></b><br></span></span> <b>Touch Probe</b><span style="font-weight: 400;"> for automatic and reliable leveling of </span><b>Heated Bed</b><span style="font-weight: 400;">.</span> <b>WiFi/Ethernet Connectivity</b><span style="font-weight: 400;"> offering remote control and monitoring capabilities.</span> <b>Onboard Computer</b><span style="font-weight: 400;"> with 10GB storage.</span> <b>USB Port</b><span style="font-weight: 400;"> enabling users to print files stored on flash drives.</span> <b>OctoPrint for MakerGear</b><span style="font-weight: 400;"> offers one-click file preparation and design-to-print integration.</span> <b>MacOS, Windows, Linux, iOS &amp; Android Compatibility</b>.</li>
+<li id="tab3">
+<table style="width: 540px;">
+<tbody>
+<tr>
+<td style="width: 147px;">Build Dimensions</td>
+<td style="width: 379px;">
+<div>
+<meta charset="utf-8"> <br>
+</div>
+<span color="#000000">203 x 232 x 203 mm</span>
+</td>
+</tr>
+<tr>
+<td style="width: 147px;">Build Plate</td>
+<td style="width: 379px;">
+<div>
+<meta charset="utf-8"> <br>
+</div>
+<div>
+<meta charset="utf-8"> <br>
+</div>
+<span>Up to 110 °C. Borosilicate glass build plate coated with polyimide film.</span>
+</td>
+</tr>
+<tr>
+<td style="width: 147px;">Assisted Leveling</td>
+<td style="width: 379px;">
+<meta charset="utf-8"> <span>Yes - True-Leveling + Auto-Leveling</span>
+</td>
+</tr>
+<tr>
+<td style="width: 147px;">Filament Feed</td>
+<td style="width: 379px;">Direct (non-Bowden).</td>
+</tr>
+<tr>
+<td style="width: 147px;">Materials</td>
+<td style="width: 379px;">
+<div>
+<meta charset="utf-8"> <br>
+</div>
+1.75 mm. ABS*, ASA*, HIPS*, Nylon, PET-G, PET-T, PLA, polycarbonate, polypropylene, PVA, TPE, TPU, metal composites, wood composites, carbon fiber composites, and more.</td>
+</tr>
+<tr>
+<td style="width: 147px;">Nozzle</td>
+<td style="width: 379px;">
+<div>
+<meta charset="utf-8"> <br>
+</div>
+<span>Ships with 0.35 mm brass (0.25mm, 0.5mm, 0.75mm brass and 0.35mm and 0.50mm steel available).</span>
+</td>
+</tr>
+<tr>
+<td style="width: 147px;">Maximum Extruding Temperature</td>
+<td style="width: 379px;">40 W heater and thermistor rated to 300 °C.</td>
+</tr>
+<tr>
+<td style="width: 147px;">Hot End</td>
+<td style="width: 379px;">
+<div>
+<meta charset="utf-8"> <br>
+</div>
+Swappable V4 Hot End.</td>
+</tr>
+<tr>
+<td style="width: 147px;">Print technology</td>
+<td style="width: 379px;">FFF (Fused Filament Fabrication)</td>
+</tr>
+<tr>
+<td style="width: 147px;">X/Y Motion</td>
+<td style="width: 379px;">Independent axes with high precision linear rails guiding motion driven by kevlar reinforced belts.</td>
+</tr>
+<tr>
+<td style="width: 147px;">Z motion</td>
+<td style="width: 379px;">10 mm rods guide motion driven by lead screw.</td>
+</tr>
+<tr>
+<td style="width: 147px;">Layer Resolution</td>
+<td style="width: 379px;">
+<div>
+<meta charset="utf-8"> <br>
+</div>
+0.020 - 0.350 mm (20 - 350 micron)</td>
+</tr>
+<tr>
+<td style="width: 147px;">Print head travel speed</td>
+<td style="width: 379px;"> 80-450 mm/sec </td>
+</tr>
+<tr>
+<td style="width: 147px;">Ambient operation temperature</td>
+<td style="width: 379px;">15 ˚C to 32 ˚C (59 ˚F to 90 ˚F)</td>
+</tr>
+<tr>
+<td style="width: 147px;">Storage temperature</td>
+<td style="width: 379px;">0 ˚C to 32 ˚C (32 ˚F to 90 ˚F)</td>
+</tr>
+<tr>
+<td style="width: 147px;">Operating Sound</td>
+<td style="width: 379px;">lower than 65 dBA</td>
+</tr>
+<tr>
+<td style="width: 147px;">Machine Weight</td>
+<td style="width: 379px;">12 kg (26.5 lbs)</td>
+</tr>
+<tr>
+<td style="width: 147px;">Machine Dimensions with spool and full range of motion</td>
+<td style="width: 379px;">
+<div>
+<meta charset="utf-8"> <br>
+</div>
+<span>Width x Depth x Height: 533 mm (21") x 610 mm (24") x 533 mm (21”).</span>
+</td>
+</tr>
+<tr>
+<td style="width: 147px;">shipping box dimensions</td>
+<td style="width: 379px;">
+<div>
+<meta charset="utf-8"> <br>
+</div>
+<span>19 kg (42 lbs.). 535 mm x 535 mm x 535 mm (21" x 21" x 21”).</span>
+</td>
+</tr>
+<tr>
+<td style="width: 147px;">AC input</td>
+<td style="width: 379px;">100 - 120 V (4 A)/220 - 240 V (2 A), 47 - 63 Hz</td>
+</tr>
+<tr>
+<td style="width: 147px;">Power requirements</td>
+<td style="width: 379px;">24 V DC @ 15 A</td>
+</tr>
+<tr>
+<td style="width: 147px;">Power consumption</td>
+<td style="width: 379px;">360 W max</td>
+</tr>
+<tr>
+<td style="width: 147px;">Software</td>
+<td style="width: 379px;">
+<div>
+<meta charset="utf-8"> <br>
+</div>
+<span>The latest version of OctoPrint for MakerGear is included with the M3-SE. With no proprietary software required, the MakerGear M3-SE is compatible with a wide variety of free and commercial software programs.</span>
+</td>
+</tr>
+<tr>
+<td style="width: 147px;">Connectivity</td>
+<td style="width: 379px;">Wifi, LAN, USB</td>
+</tr>
+<tr>
+<td style="width: 150px;">*CA Prop 65</td>
+<td style="width: 376px;">
+<meta charset="UTF-8"> <img data-mce-fragment="1" src="https://cdn.shopify.com/s/files/1/0030/7372/files/Warning_icon_480x480.png?v=1607011988" alt=""> <span><strong>WARNING</strong>: This Filament - when used in the operation of 3D Printers or 3D Pens - can expose you and others in the same room to styrene, a chemical known to the State of California to cause cancer. </span><span></span><a href="www.P65Warnings.ca.gov">www.P65Warnings.ca.gov</a><br><strong>ALWAYS OPERATE THIS PRODUCT IN A WELL-VENTILATED AREA. </strong>
+</td>
+</tr>
+</tbody>
+</table>
+</li>
+<li id="tab4">- MakerGear M3-SE 3D printer with V4 hot end<br><br>- Power supply with adjustable input voltage (115 V or 230 V)<br><br>- Power cord compliant with your country's power outlets<br><br>- 1 kg spool of black PLA<br><br>- 8 inch x 10 inch borosilicate glass print surface with applied film<br> <br>- Tool set<br><br>- Sample print <br><br>- User guide</li>
+<li id="tab6">
+<p data-mce-fragment="1">Important: Review the <a href="https://makergear.com/policies/terms-of-service">Terms of Service</a> updated on 5/31/22 before purchasing.</p>
+</li>
+<li id="tab8">MakerGear will include the standard power cord used in the country to which the 3D printer is shipped.<br><br>MakerGear shipping fees cover transportation only. Customs duties, domestic sales tax, etc. are the responsibility of the customer.<br><br>Customers who live in Canada and other certain countries who have applicable free trade agreements with the US will not be charged customs duties, though domestic sales tax may still apply. Customers in South Korea will need to fill out their portion of the Certificate of Origin form and send it to customs@makergear.com for completion by MakerGear to eliminate customs duties.</li>
+<li id="tab9">
+<h4 style="padding-bottom: 0px; margin-bottom: 0px;">Case Studies</h4>
+<ul>
+<li><a href="https://www.makergear.com/blogs/case-studies/voodoo-manufacturing-case-study">Voodoo Manufacturing</a></li>
+</ul>
+<h4 style="padding-bottom: 0px; margin-bottom: 0px;">Resources</h4>
+<ul>
+<li><a href="https://www.makergear.com/pages/user-guides">User Guide</a></li>
+<li><a href="https://makergear.zendesk.com/hc/en-us/articles/115004464806-Simplify3D-Profiles-and-Factory-Files">Simplify3D Profiles</a></li>
+<li><a href="http://setup.makergear.com">Printer Setup</a></li>
+<li><a href="https://makergear.zendesk.com/hc/en-us">Knowledge Base</a></li>
+<li><a href="https://github.com/MakerGear/M3" title="3D Printed Parts for M3" target="_blank"><span>Published design files for the MakerGear M3 printer.</span></a></li>
+</ul>
+</li>
+</ul>
+</ul>
+<p><strong>M3SEs purchased today will ship in approx. 2 weeks.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3D Printers</s:tag>
+    <s:tag>M3 Printer</s:tag>
+    <s:variant>
+      <id>https://makergear.com/products/11285033551</id>
+      <title>Printer only</title>
+      <s:price currency="USD">1530.00</s:price>
+      <s:sku>MG1200A-1</s:sku>
+      <s:grams>68039</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makergear.com/products/11285033551</id>
+      <title>+ Simplify3D</title>
+      <s:price currency="USD">1729.00</s:price>
+      <s:sku>MG1200A-2</s:sku>
+      <s:grams>68492</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makergear.com/products/11285033551</id>
+      <title>+ Lcd for M3</title>
+      <s:price currency="USD">1630.00</s:price>
+      <s:sku>MG1200A-3</s:sku>
+      <s:grams>68039</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://makergear.com/products/11285033551</id>
+      <title>+ Simplify3D+Lcd for M3</title>
+      <s:price currency="USD">1829.00</s:price>
+      <s:sku>MG1200A-4</s:sku>
+      <s:grams>68039</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://makergear.com/products/1481086788</id>
+    <published>2016-07-22T15:27:00-04:00</published>
+    <updated>2016-07-22T15:27:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://makergear.com/products/m2"/>
+    <title>MakerGear M2 3D Printer</title>
+    <s:type>3D Printers</s:type>
+    <s:vendor>MakerGear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0030/7372/products/M2.jpg?v=1570712313"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MakerGear<br>
+        <strong>Type: </strong>3D Printers<br>
+        <strong>Price: </strong>
+            1999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="tabs">
+<li><a class="active" href="#tab1">Overview</a></li>
+<li><a href="#tab2">Features</a></li>
+<li><a href="#tab3">Specs</a></li>
+<li><a href="#tab4">Includes</a></li>
+<li><a href="#tab5">Accessories</a></li>
+<li><a href="#tab6">Warranty</a></li>
+<li><a href="#tab7">Lead Time</a></li>
+<li><a href="#tab8">International</a></li>
+<li>
+</li>
+</ul>
+<ul class="tabs-content">
+<ul class="tabs-content">
+<ul class="tabs-content">
+<li class="active" id="tab1">
+<h1>The Original Workhorse</h1>
+<p>We know that high precision print quality, especially over time, can’t exist without high-quality components. When you combine these components with our Made in the USA quality, it's easy to see why we are regarded as the top choice for industrial-level precision at an affordable price.</p>
+<p>Additionally, we have made this durable machine completely modular, so that maintenance is a breeze — this means less time troubleshooting, more time innovating.</p>
+<p>With our outstanding customer support and amazingly consistent reviews, you can be confident that you'll be delighted with your M2 and its performance.</p>
+<p><strong>M2s are in stock and ready to ship!</strong><a href="https://www.makergear.com/collections/clearance/products/lightly-used-refurbished?variant=21946342660"><br>(Refurbished M2s are also in stock and ready to ship.)</a></p>
+</li>
+<li id="tab2">
+<span>The M2 was originally released in 2012. MakerGear has continued to improve it based on real-world feedback and is now shipping the M2 Rev. E. (M2e), the fifth generation of the M2 series. </span><br><br><span>The M2 Revision E includes a number of improvements including the new, easy to adjust yet more rigid, four-point leveling system, metal components that replaced printed parts, QuickStart software, Tutorial video, and updated User Guide. Open the box, follow the instructions, and beautiful prints will soon follow. </span><br><br><span><strong>Reliability</strong>: With its steel frame and CNC machined cast aluminum construction, the M2 is engineered and manufactured to provide industrial-level precision with a small footprint. The new four-point print bed is easy to level, stays level, and removes the need for z-compensation (aka “auto-leveling”). Whether you are a professional or a weekend hobbyist, the M2 is built to run and built to last. </span><br><br><span><strong>Freedom</strong>: While MakerGear filament is recommended, you are free to use the filament of your choice. The M2 also uses open-source electronics and firmware. The M2 provides the versatility and flexibility you need to accomplish your project your way. </span><br><br><span><strong>Ready to Use</strong>: Every M2 is tested at the MakerGear factory in Beachwood, Ohio, and is ready to use out of the box. The QuickStart software, step-by-step user guide, and tutorial video will take you from unboxing through your first prints. </span><br><br><span><strong>The Real Deal</strong>: With it’s ease of use, reliability, excellent prints, high-quality construction and components, and MakerGear’s prompt in-house support from M2 experts, you really do get it all with the MakerGear M2.</span>
+</li>
+<li id="tab3">
+<table style="width: 534px;">
+<tbody>
+<tr>
+<td style="width: 151px;">Build Dimensions</td>
+<td style="width: 415px;">200 mm (8") x 250 mm (10") x 200 mm (8")</td>
+</tr>
+<tr>
+<td style="width: 151px;">Build Plate</td>
+<td style="width: 415px;">110 °C and higher. Borosilicate glass print bed with laminated, replaceable print surface.</td>
+</tr>
+<tr>
+<td style="width: 151px;">Build Plate Leveling</td>
+<td style="width: 415px;">4 point leveling. Level out of the box. Leveling assisted by quickstart app.</td>
+</tr>
+<tr>
+<td style="width: 151px;">Filament Feed</td>
+<td style="width: 415px;">Direct (non-Bowden).</td>
+</tr>
+<tr>
+<td style="width: 151px;">Materials</td>
+<td style="width: 415px;">1.75 mm. PLA, ABS*, PET, HIPS*, HDPE, TPU (i.e., flexible filament), Polycarbonate, composite (Metal-, Carbon Fiber-, or Wood-Filled), and many more!</td>
+</tr>
+<tr>
+<td style="width: 151px;">Nozzle</td>
+<td style="width: 415px;">Shipped with 0.35 mm brass (0.25mm, 0.5mm, 0.75mm brass and 0.35mm and 0.50mm steel are available on the MakerGear website).</td>
+</tr>
+<tr>
+<td style="width: 151px;">Maximum Extruding Temperature</td>
+<td style="width: 415px;">40 Watt heater and thermistor rated to 300 °C.</td>
+</tr>
+<tr>
+<td style="width: 151px;">Hot End</td>
+<td style="width: 415px;">Single extruder. Hot End is easy to swap/upgrade.</td>
+</tr>
+<tr>
+<td style="width: 151px;">Print technology</td>
+<td style="width: 415px;">FFF (Fused Filament Fabrication)</td>
+</tr>
+<tr>
+<td style="width: 151px;">X/Y Motion</td>
+<td style="width: 415px;">Independent axes with high precision linear rails guiding motion driven by kevlar reinforced belts.</td>
+</tr>
+<tr>
+<td style="width: 151px;">Z motion</td>
+<td style="width: 415px;">10 mm rods guide motion driven by lead screw.</td>
+</tr>
+<tr>
+<td style="width: 151px;">Layer Resolution</td>
+<td style="width: 415px;">smaller than 50 microns to 0.25 mm with a 0.35 mm nozzle. Please note there is more to print quality than layer thickness.</td>
+</tr>
+<tr>
+<td style="width: 151px;">Print head travel speed</td>
+<td style="width: 415px;">Printing: 80 - 200 mm/sec for best print quality. Travel Speed: 450 mm/sec maximum.</td>
+</tr>
+<tr>
+<td style="width: 151px;">Ambient operation temperature</td>
+<td style="width: 415px;">15 ˚C to 32 ˚C (59 ˚F to 90 ˚F)</td>
+</tr>
+<tr>
+<td style="width: 151px;">Storage temperature</td>
+<td style="width: 415px;">0 ˚C to 32 ˚C (32 ˚F to 90 ˚F)</td>
+</tr>
+<tr>
+<td style="width: 151px;">Operating Sound</td>
+<td style="width: 415px;">lower than 65 dBA</td>
+</tr>
+<tr>
+<td style="width: 151px;">Machine Weight</td>
+<td style="width: 415px;">12 kg (26.5 lbs.)</td>
+</tr>
+<tr>
+<td style="width: 151px;">Machine Dimensions with spool and full range of motion</td>
+<td style="width: 415px;">Width x Depth x Height: 533 mm (21") x 610 mm (24") x 420 mm (16.5").</td>
+</tr>
+<tr>
+<td style="width: 151px;">shipping box dimensions</td>
+<td style="width: 415px;">19 kg (42 lbs.). 535 mm x 535 mm x 535 mm (21" x 21" x 21").</td>
+</tr>
+<tr>
+<td style="width: 151px;">AC input</td>
+<td style="width: 415px;">100 - 120 V (4 A)/220 - 240 V (2 A), 47 - 63 Hz</td>
+</tr>
+<tr>
+<td style="width: 151px;">Power requirements</td>
+<td style="width: 415px;">24 Volts DC @ 15 Amp</td>
+</tr>
+<tr>
+<td style="width: 151px;">Power consumption</td>
+<td style="width: 415px;">360 Watt max</td>
+</tr>
+<tr>
+<td style="width: 151px;">Software</td>
+<td style="width: 415px;">Compatible with many open-source and commercially available modeling, slicing, and printer control software available for Windows, Mac, and Linux. Simplify3D software is recommended.</td>
+</tr>
+<tr>
+<td style="width: 151px;">Connectivity</td>
+<td style="width: 415px;">SD Card Reader, USB connection to a computer, LCD machine control optional</td>
+</tr>
+<tr>
+<td style="width: 150px;">*CA Prop 65</td>
+<td style="width: 376px;">
+<meta charset="UTF-8"> <img alt="" src="https://cdn.shopify.com/s/files/1/0030/7372/files/Warning_icon_480x480.png?v=1607011988" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0030/7372/files/Warning_icon_480x480.png?v=1607011988"> <span><strong>WARNING</strong>: This Filament - when used in the operation of 3D Printers or 3D Pens - can expose you and others in the same room to styrene, a chemical known to the State of California to cause cancer. </span><span></span><a href="www.P65Warnings.ca.gov" data-mce-href="www.P65Warnings.ca.gov">www.P65Warnings.ca.gov</a><span>.</span><br><strong>ALWAYS OPERATE THIS PRODUCT IN A WELL-VENTILATED AREA</strong>.</td>
+</tr>
+</tbody>
+</table>
+</li>
+<li id="tab4">- MakerGear M2e printer with V4 hot end <br><br>- Power supply with adjustable input voltage (115 V or 230 V) <br><br>- Power cord compliant with your country's power outlets <br><br>- 1 kg spool of black PLA <br><br>- 8 inch x 10 inch borosilicate glass print surface with applied film print surface <br><br>- Roll of 2 inch replacement printing film <br><br>Toolset <br><br>- Sample prints made by your M2 <br><br>- SD card with sample prints <br><br>- User guide</li>
+<li id="tab5">
+<h5>Software Options</h5>
+<br>
+<p><strong><a href="https://www.makergear.com/products/simplify-3d-software">Simplify3D</a></strong>™ ($199) Software (sold separately) is a powerful, integrated software platform that handles all of your 3D printing needs. The immersive environment brings your content to life. The software includes streamlined workflows that help you move from digital to physical faster than ever! S3D includes M2 settings to help you get started. S3D is recommended if you are new to 3D printing or just looking to get started quickly.</p>
+</li>
+<li>
+<strong><a href="https://www.makergear.com/pages/open-source-software">Open Source</a></strong> software is also available for free download. The open-source tool-chain allows you to prepare your models for printing and run your printer. This software is only recommended for intermediate to advanced users.</li>
+<li>
+<br>
+<h5>
+<a href="https://www.makergear.com/products/lcd-interface">LCD </a> ($99)</h5>
+<br>
+<p>The MakerGear LCD Interface is a perfect upgrade item for those who wish to control their printer without the use of a computer. It includes a RepRap Smart Controller-style LCD screen as well as a laser-cut ABS housing unit and 3D-printed ABS adjustment knob. </p>
+<br>
+<h5>
+<a href="https://www.makergear.com/products/v4-spare-parts-set">Spare Parts Set</a> ($110)</h5>
+<br>
+<p>The V4 Spare Parts Set is ideal for international customers and others who wish to maximize uptime by stocking spare parts, and includes: <br>1 - V4 Filament Drive<br>1 - 40 mm fan (24 V)<br>1 - 50 mm fan (24 V)<br>1 - Extra Thermistor<br>1 - Extra V4 Cartridge Heater<br>1 - V4 Hot End</p>
+</li>
+<li id="tab6">
+<p data-mce-fragment="1">Important: Review the <a href="https://makergear.com/policies/terms-of-service">Terms of Service</a> updated on 5/31/22 before purchasing.</p>
+</li>
+<li id="tab7">
+<p><strong></strong>M2s are in stock and ready to ship.</p>
+</li>
+<li id="tab8">MakerGear will include the standard power cord used in the country to which the 3D printer is shipped.<br><br>MakerGear shipping fees cover transportation only. Customs duties, domestic sales tax, etc. are the responsibility of the customer.<br><br>Customers who live in Canada and other certain countries who have applicable free trade agreements with the US will not be charged customs duties, though domestic sales tax may still apply. Customers in South Korea will need to fill out their portion of the Certificate of Origin form and send it to customs@makergear.com for completion by MakerGear to eliminate customs duties.</li>
+</ul>
+</ul>
+</ul>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>3D Printers</s:tag>
+    <s:tag>M2</s:tag>
+    <s:tag>M2 3D Printer</s:tag>
+    <s:tag>M2 Printer</s:tag>
+    <s:variant>
+      <id>https://makergear.com/products/1481086788</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1999.00</s:price>
+      <s:sku>MG1000</s:sku>
+      <s:grams>45813</s:grams>
+    </s:variant>
+  </entry>
+</feed>
