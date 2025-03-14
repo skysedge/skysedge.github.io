@@ -18,156 +18,58 @@
     </script>
     <script src="js/skel.min.js">
     </script>
-    <script src="js/skel-layers.min.js">
+       <script src="js/init.js">
     </script>
-    <script src="js/init.js">
-    </script> <noscript>
-        <link href="css/skel.css" rel="stylesheet">
-        <link href="css/style.css" rel="stylesheet">
-        <link href="css/style-xlarge.css" rel="stylesheet">
-    </noscript>
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Aref+Ruqaa">
+       <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Aref+Ruqaa">
   </head>
+
   <body>
-    <header class="skel-layers-fixed" id="header">&nbsp; HIS WE<!--TOP bar-->
-      <!-- Bootstrap core JavaScript
-    ================================================== -->
-      <!-- Placed at the end of the document so the pages load faster -->
-      <div class="row justify-content-center text-center text-muted ml-n1 mr-n1">
-        <div class="text-center col-md-2">
-          <div class="logo"> <img src="images/SkysEdge_Blue_Small.png" style="max-width:20%;height:auto;"><br>
-          </div>
-        </div>
-        <nav id="nav" style="font-family: Aref Ruqaa;">
-          <ul>
-            <li> <a href="https://forum.skysedge.com" target="_blank">Forum</a></li>
-            <li> <a href="/philosophy/index.html">Open Source Rant</a> </li>
-            <li> <a href="/work/index.html">The Purpose of Work</a> </li>
-            <li> <a href="/about/index.html">Strange Company</a> </li>
-            <li> <a href="/notes/index.html">Notes &amp; Links</a> </li>
-            <li>
-              <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr"
-                method="post"> <input name="cmd" value="_s-xclick" type="hidden">
-                <input name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----"
-                  type="hidden"> <input src="https://www.paypalobjects.com/en_US/i/btn/btn_viewcart_LG.gif"
-                  name="submit" alt="PayPal - The safer, easier way to pay online!"
-                  type="image" border="0"> <img alt="" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif"
-                  width="1" height="1" border="0"> </form>
-            </li>
-            <li> <a class="button special" href="/contact/index.html">Contact</a>
-            </li>
-          </ul>
-        </nav>
-      </div>
-    </header>
+    <header class="skel-layers-fixed" id="header"> <!--TOP bar-->
+   </header>
     <!--END TOP bar-->
     <!-- Main -->
     <section class="wrapper style1" id="main">
-      <header class="major">
-        <div class="embed-responsive embed-responsive-16by9" align="center"> <video
-            style="width:70%;max-height:auto" autoplay="autoplay" muted="muted"
-            loop=""> <source src="images/banner.mp4" type="video/mp4"> Your
-            browser does not support the video tag.</video> </div>
-        <br>
-        <!---MESSAGE---->
-        <div row="">
-          <h2 style="font-family: Aref Ruqaa;" align="center">Open Source
-            Technology from Justine &amp; Friends</h2>
-          <!---END MESSAGE---> <br>
-          <h2>
-          <a href="https://skysedge.github.io/blog/">CLICK HERE FOR BLOG/UPDATES</a>
-          </h2>
-        </div>
-      </header>
       <!-- Left side TOP -->
       <div class="container">
         <div class="row">
-          <div class="4u">
-            <section> <br>
-              <a href="https://www.youtube.com/@JustineHaupt"> Youtube channel</a>
-            </section>
-            <hr>
-            <!-- Left side LINKS --> </div>
-          <!-- END Left side LINKS -->
-          <!-- TOP Main Title -->
-          <div class="7u skel-cell-important">
+          <div class="body">
+
+          <div class="logo"> <img src="images/StackedLogo_White.png" style="max-width:40%;height:auto;display:block;margin-left:auto;margin-right:auto;"><br>
+          </div>
             <section>
-              <div> <br>
-                <div>
-                  <h2 style="font-family: Aref Ruqaa;"><strong>ROTARY
-                      UN-SMARTPHONE</strong></h2>
-                  <h5>IT'S NOT A SMARTPHONE</h5>
-                </div>
-                <div class="embed-responsive embed-responsive-16by9" align="center">
-                  <div class="embed-responsive embed-responsive-16by9" align="center">
-                    <a class="image fit" href="/telecom/RUSP/index.html"> <img
-                        alt="" src="images/rusp_mainbanner.jpg"> </a> </div>
-                </div>
-                <br>
-                <div>
-                  <h2 style="font-family: Aref Ruqaa;"><strong>STAND-ALONE
-                      ROTARY DIAL</strong></h2>
-                  <h5>YOU WANT JUST A DIAL? WE HAVE JUST A DIAL.</h5>
-                </div>
-                <div class="embed-responsive embed-responsive-16by9" align="center">
-                  <div class="embed-responsive embed-responsive-16by9" align="center">
-                    <a class="image fit" href="/telecom/SARD/index.html"> <img
-                        alt="" src="images/sard_banner.jpg"> </a> </div>
-                </div>
-                <br>
-                <h2 style="font-family: Aref Ruqaa;"><strong>ROBOTICS</strong></h2>
-                <h5>BRUSHLESS MOTOR CONTROL - HUB MOTORS - ROBOTICS PLATFORMS</h5>
-              </div>
-              <div class="embed-responsive embed-responsive-16by9" align="center">
-                <div class="embed-responsive embed-responsive-16by9" align="center">
-                  <a class="image fit" href="/robotics/index.html"> <img alt=""
-                      src="robotics/images/RoboticsCategoryImage.png"> </a> </div>
-              </div>
-              <div>
-                <h2 style="font-family: Aref Ruqaa;"><strong>ASTRONOMY<br>
-                  </strong></h2>
-              </div>
-              <div class="embed-responsive embed-responsive-16by9" align="center">
-                <div class="embed-responsive embed-responsive-16by9" align="center">
-                  <a class="image fit" href="/astronomy/index.html"> <img alt=""
-                      src="images/bellavia_ngc7000.jpg"> </a> </div>
-              </div>
-              <br>
-            </section>
+               <nav id="nav" style="font-family: Aref Ruqaa;">
+
+                <h1>IT'S HAPPENING IN 2025</h1>
+                <h2>
+                   <a href="https://skysedge.github.io/blog/">Updates</a>
+                   ~
+                   <a href="https://forum.skysedge.com" target="_blank">Forum</a>
+                   ~
+                   <a class="button special" href="/contact/index.html">Contact</a>
+                </h2>
+              </nav>
+             </section>
           </div>
         </div>
         <!-- END PRODUCT CATEGORIES --> </div>
       <!-- Footer -->
       <footer id="footer">
         <div class="container"> <em>There will be stars over the place forever;
-            Though the house we loved and the street we loved are lost, Every
-            time the earth circles her orbit On the night the autumn equinox is
-            crossed, Two stars we knew, poised on the peak of midnight Will
-            reach their zenith; stillness will be deep; There will be stars over
-            the place forever, There will be stars forever, while we sleep.”
-            &nbsp; &nbsp;— Sara Teasdale</em>
-          <div class="row double">
-            <div class="10u">
-              <div class="row collapse-at-3">
-                <div class="6u"> </div>
-                <div class="6u"> </div>
-              </div>
-            </div>
-          </div>
-          <br>
-          <br>
-          <br>
-          <br>
-          <ul class="copyright">
-            The name Sky's Edge comes from the <a href="https://www.goodreads.com/series/56392-revelation-space"><u>Revelation
-                Space universe</u></a> by Alastair Reynolds,<br>
             <br>
-            Skysedge.com created and maintained <a href="mailto:dobsoniandave@gmail.com">by
-              David van Popering &amp; Justine Haupt</a>
-          </ul>
+            Though the house we loved and the street we loved are lost,
+            <br>
+            Every time the earth circles her orbit On the night the autumn equinox is crossed,
+            <br>
+            Two stars we knew, poised on the peak of midnight will
+            reach their zenith; stillness will be deep;
+            <br>
+            There will be stars over the place forever
+            <br>
+            There will be stars forever, while we sleep.”
+            <br> <br>
+            &nbsp; &nbsp;— Sara Teasdale</em>
         </div>
-      </footer>
+     </footer>
     </section>
-    <p> </p>
   </body>
 </html>
