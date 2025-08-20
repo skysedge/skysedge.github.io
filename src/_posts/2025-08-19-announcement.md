@@ -7,7 +7,7 @@ author: Justine Haupt
 
 A number of months ago we decided the build is really just *too* tricky for the vast majority of first-time builders, so we started pre-assembling the difficult mechanical bits. Namely, the core of the dialing mechanism, which involved winding the main "clockspring", as well as the governor, can be rage-inducing.
 
-Our amazing volunteer team has been working on building these, and these will be sent out with the rest of the kit once the boards arrive. The batch of 300 RUSP Motherboards we're currently awaiting from China (pcbway.com) is expected now on August 31st, so many people will finally be getting their phones in September. We thought it would be August, but the customs situation for parts we sent going into China delayed things by at least two weeks, so it’s September.
+Our amazing volunteer team has been working on building these, and these will be sent out with the rest of the kit once the boards arrive. The batch of 300 RUSP Motherboards we're currently awaiting from China (pcbway.com) is expected now on August 31st, so many people will finally be getting their phones in September. We thought it would be August, but the customs situation for parts we sent going *into* China delayed things by at least two weeks, so it’s September.
 
 {% include blog-inline-image.html
     url="/assets/dialmechanisms.jpg"
