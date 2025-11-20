@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/jhaupt/Projects/Unsmartphones/RUSP/Electrical/Antenna/RUSP_Antenna.kicad_sch</source>
+    <date>Thu 29 Sep 2022 08:27:55 PM EDT</date>
+    <tool>Eeschema 6.0.2+dfsg-1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>RUSP Antenna Board</title>
+        <company>Sky's Edge</company>
+        <rev/>
+        <date/>
+        <source>RUSP_Antenna.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="AE1">
+      <value>Antenna</value>
+      <footprint>MyFootprints:Antenna_Ignion_RunmXtend_NN02-224</footprint>
+      <fields>
+        <field name="Mfg. Name">Ignion</field>
+        <field name="Mfg. Part. No.">NN-02-224</field>
+      </fields>
+      <libsource lib="Device" part="Antenna" description="Antenna"/>
+      <property name="Mfg. Part. No." value="NN-02-224"/>
+      <property name="Mfg. Name" value="Ignion"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RUSP_Antenna.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e6bf257d-5112-423c-b70a-adf8446f29da</tstamps>
+    </comp>
+    <comp ref="C1">
+      <value>0.7pF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Mfg. Name">Murata</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Mfg. Name" value="Murata"/>
+      <property name="Mfg. Part No." value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RUSP_Antenna.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>27acf950-55ca-4b81-991e-92a2c3d8c86d</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>0.6pF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Mfg. Name">Murata</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Mfg. Name" value="Murata"/>
+      <property name="Mfg. Part No." value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RUSP_Antenna.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>25b632ac-156c-4438-983c-fc462415dea4</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>1.5pF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Mfg. Name">Murata</field>
+      </fields>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Mfg. Name" value="Murata"/>
+      <property name="Mfg. Part No." value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RUSP_Antenna.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>780ce6d2-f54f-4bbc-a6aa-d43d29897ba3</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>u.FL</value>
+      <footprint>Connector_Coaxial:U.FL_Molex_MCRF_73412-0110_Vertical</footprint>
+      <datasheet> ~</datasheet>
+      <fields>
+        <field name="Mfg. Name">Molex</field>
+        <field name="Mfg. Part No.">0734120110</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_Coaxial" description="coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)"/>
+      <property name="Mfg. Name" value="Molex"/>
+      <property name="Mfg. Part No." value="0734120110"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RUSP_Antenna.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000600d9e19</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>19nH</value>
+      <footprint>Inductor_SMD:L_0603_1608Metric</footprint>
+      <fields>
+        <field name="Mfg. Name">Murata</field>
+      </fields>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Mfg. Name" value="Murata"/>
+      <property name="Mfg. Part No." value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RUSP_Antenna.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-0000602c88bb</tstamps>
+    </comp>
+    <comp ref="L2">
+      <value>4nH</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric</footprint>
+      <fields>
+        <field name="Mfg. Name">Murata</field>
+      </fields>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Mfg. Name" value="Murata"/>
+      <property name="Mfg. Part No." value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RUSP_Antenna.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d9305b65-05ec-4b58-9e1d-12260ccab5b4</tstamps>
+    </comp>
+    <comp ref="L3">
+      <value>12nH</value>
+      <footprint>Inductor_SMD:L_0603_1608Metric</footprint>
+      <fields>
+        <field name="Mfg. Name">Murata</field>
+      </fields>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Mfg. Name" value="Murata"/>
+      <property name="Mfg. Part No." value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RUSP_Antenna.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5f73a2ed-4a03-4a92-bd10-c6cd08289c0a</tstamps>
+    </comp>
+    <comp ref="L4">
+      <value>4.5nH</value>
+      <footprint>Inductor_SMD:L_0402_1005Metric</footprint>
+      <fields>
+        <field name="Mfg. Name">Murata</field>
+        <field name="Mfg. Part No.">LQW15AN4N0C10D </field>
+      </fields>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Mfg. Name" value="Murata"/>
+      <property name="Mfg. Part No." value="LQW15AN4N0C10D "/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="RUSP_Antenna.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1daf39bf-aa76-44e9-afc2-ac5209275946</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Conn_Coaxial">
+      <description>coaxial connector (BNC, SMA, SMB, SMC, Cinch/RCA, LEMO, ...)</description>
+      <docs> ~</docs>
+      <footprints>
+        <fp>*BNC*</fp>
+        <fp>*SMA*</fp>
+        <fp>*SMB*</fp>
+        <fp>*SMC*</fp>
+        <fp>*Cinch*</fp>
+        <fp>*LEMO*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_Coaxial</field>
+        <field name="Datasheet"> ~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="In" type="passive"/>
+        <pin num="2" name="Ext" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Antenna">
+      <description>Antenna</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">AE</field>
+        <field name="Value">Antenna</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="L">
+      <description>Inductor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MyLibrary" part="Fiducial">
+      <fields>
+        <field name="Reference">FID</field>
+        <field name="Value">MyLibrary_Fiducial</field>
+      </fields>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>/usr/share/kicad/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="MyLibrary">
+      <uri>/home/jhaupt/KiCad/MyLibrary.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="GNDA">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="Ext" pintype="passive"/>
+      <node ref="L1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="L3" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="2" name="Net-(AE1-Pad1)">
+      <node ref="AE1" pin="1" pinfunction="A" pintype="input"/>
+      <node ref="L2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="3" name="Net-(C1-Pad1)">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="L3" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="4" name="Net-(C1-Pad2)">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="L1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="L2" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="5" name="Net-(C3-Pad1)">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="L4" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="6" name="Net-(J1-Pad1)">
+      <node ref="J1" pin="1" pinfunction="In" pintype="passive"/>
+      <node ref="L4" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+  </nets>
+</export>

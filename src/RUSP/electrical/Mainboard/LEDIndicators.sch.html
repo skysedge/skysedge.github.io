@@ -1,0 +1,931 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 9 9
+Title "RCP STATUS LEDS"
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Device:R_US R44
+U 1 1 5F2F034F
+P 3100 2200
+F 0 "R44" V 3000 2200 50  0000 C CNN
+F 1 "160R*" V 3200 2200 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 3030 2200 50  0001 C CNN
+F 3 "" H 3100 2200 50  0000 C CNN
+	1    3100 2200
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	3250 2200 3350 2200
+Wire Wire Line
+	3650 2200 3700 2200
+$Comp
+L power:GND #PWR0216
+U 1 1 5F2F0368
+P 3700 2400
+F 0 "#PWR0216" H 3700 2150 50  0001 C CNN
+F 1 "GND" H 3700 2250 50  0000 C CNN
+F 2 "" H 3700 2400 50  0000 C CNN
+F 3 "" H 3700 2400 50  0000 C CNN
+	1    3700 2400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:LED D22
+U 1 1 5F2F0373
+P 3500 2200
+F 0 "D22" H 3650 2150 50  0000 C CNN
+F 1 "LED" H 3500 2100 50  0000 C CNN
+F 2 "LED_SMD:LED_0603_1608Metric_Castellated" H 3500 2200 50  0001 C CNN
+F 3 "" H 3500 2200 50  0000 C CNN
+F 4 "Rohm" H 3500 2200 50  0001 C CNN "Mfg. Name"
+F 5 "SMLE13EC8TT86" H 3500 2200 50  0001 C CNN "Mfg. Part No."
+F 6 "TEAL" H 3050 2200 60  0000 L CNN "Color"
+F 7 " LTST-C191TBKT" H 3500 2200 50  0001 C CNN "Alt. Part No."
+	1    3500 2200
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	2750 2200 2950 2200
+Text HLabel 2750 2200 0    50   Input ~ 0
+LED_STAT
+Text HLabel 2600 4450 0    50   Input ~ 0
+LED_FILAMENT
+Text HLabel 5050 1550 0    50   Input ~ 0
+LED4A
+$Comp
+L Device:R_US R45
+U 1 1 5EED8BBE
+P 5500 1550
+F 0 "R45" V 5450 1400 50  0000 C CNN
+F 1 "1k5" V 5400 1550 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 5430 1550 50  0001 C CNN
+F 3 "" H 5500 1550 50  0000 C CNN
+F 4 "Digi-Key" H 3700 -2300 50  0001 C CNN "Distrib. Name"
+F 5 "A130092CT-ND" H 3700 -2300 50  0001 C CNN "Distrib Part No."
+F 6 "" H 5500 1550 50  0001 C CNN "Mfg. Name"
+F 7 "" H 5500 1550 50  0001 C CNN "Mfg. Part No."
+	1    5500 1550
+	0    1    -1   0   
+$EndComp
+Wire Wire Line
+	5750 1750 5650 1750
+Wire Wire Line
+	5650 1550 5750 1550
+Wire Wire Line
+	5050 1550 5350 1550
+Wire Wire Line
+	6350 1550 6650 1550
+Wire Wire Line
+	6650 1750 6350 1750
+Text HLabel 5050 1750 0    50   Input ~ 0
+LED4B
+$Comp
+L Device:R_US R46
+U 1 1 5F11E868
+P 5500 1750
+F 0 "R46" V 5450 1600 50  0000 C CNN
+F 1 "1k5" V 5400 1750 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 5430 1750 50  0001 C CNN
+F 3 "" H 5500 1750 50  0000 C CNN
+F 4 "Digi-Key" H 3700 -2100 50  0001 C CNN "Distrib. Name"
+F 5 "A130092CT-ND" H 3700 -2100 50  0001 C CNN "Distrib Part No."
+F 6 "" H 5500 1750 50  0001 C CNN "Mfg. Name"
+F 7 "" H 5500 1750 50  0001 C CNN "Mfg. Part No."
+	1    5500 1750
+	0    1    -1   0   
+$EndComp
+Wire Wire Line
+	5050 1750 5350 1750
+Text HLabel 5050 2150 0    50   Input ~ 0
+LED10A
+$Comp
+L Device:R_US R47
+U 1 1 5F11F96E
+P 5500 2150
+F 0 "R47" V 5450 2000 50  0000 C CNN
+F 1 "1k5" V 5400 2150 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 5430 2150 50  0001 C CNN
+F 3 "" H 5500 2150 50  0000 C CNN
+F 4 "Digi-Key" H 3700 -1700 50  0001 C CNN "Distrib. Name"
+F 5 "A130092CT-ND" H 3700 -1700 50  0001 C CNN "Distrib Part No."
+F 6 "" H 5500 2150 50  0001 C CNN "Mfg. Name"
+F 7 "" H 5500 2150 50  0001 C CNN "Mfg. Part No."
+	1    5500 2150
+	0    1    -1   0   
+$EndComp
+Wire Wire Line
+	5750 2350 5650 2350
+Wire Wire Line
+	5650 2150 5750 2150
+Wire Wire Line
+	5050 2150 5350 2150
+Wire Wire Line
+	6350 2150 6650 2150
+Wire Wire Line
+	6650 2350 6350 2350
+Text HLabel 5050 2350 0    50   Input ~ 0
+LED10B
+$Comp
+L Device:R_US R48
+U 1 1 5F11F97D
+P 5500 2350
+F 0 "R48" V 5450 2200 50  0000 C CNN
+F 1 "1k5" V 5400 2350 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 5430 2350 50  0001 C CNN
+F 3 "" H 5500 2350 50  0000 C CNN
+F 4 "Digi-Key" H 3700 -1500 50  0001 C CNN "Distrib. Name"
+F 5 "A130092CT-ND" H 3700 -1500 50  0001 C CNN "Distrib Part No."
+F 6 "" H 5500 2350 50  0001 C CNN "Mfg. Name"
+F 7 "" H 5500 2350 50  0001 C CNN "Mfg. Part No."
+	1    5500 2350
+	0    1    -1   0   
+$EndComp
+Wire Wire Line
+	5050 2350 5350 2350
+Text HLabel 5050 2750 0    50   Input ~ 0
+LED1A
+$Comp
+L Device:R_US R49
+U 1 1 5F11FE5A
+P 5500 2750
+F 0 "R49" V 5450 2600 50  0000 C CNN
+F 1 "1k5" V 5400 2750 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 5430 2750 50  0001 C CNN
+F 3 "" H 5500 2750 50  0000 C CNN
+F 4 "Digi-Key" H 3700 -1100 50  0001 C CNN "Distrib. Name"
+F 5 "A130092CT-ND" H 3700 -1100 50  0001 C CNN "Distrib Part No."
+F 6 "" H 5500 2750 50  0001 C CNN "Mfg. Name"
+F 7 "" H 5500 2750 50  0001 C CNN "Mfg. Part No."
+	1    5500 2750
+	0    1    -1   0   
+$EndComp
+Wire Wire Line
+	5750 2950 5650 2950
+Wire Wire Line
+	5650 2750 5750 2750
+Wire Wire Line
+	5050 2750 5350 2750
+Wire Wire Line
+	6350 2750 6650 2750
+Wire Wire Line
+	6650 2950 6350 2950
+Text HLabel 5050 2950 0    50   Input ~ 0
+LED1B
+$Comp
+L Device:R_US R50
+U 1 1 5F11FE69
+P 5500 2950
+F 0 "R50" V 5450 2800 50  0000 C CNN
+F 1 "1k5" V 5400 2950 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 5430 2950 50  0001 C CNN
+F 3 "" H 5500 2950 50  0000 C CNN
+F 4 "Digi-Key" H 3700 -900 50  0001 C CNN "Distrib. Name"
+F 5 "A130092CT-ND" H 3700 -900 50  0001 C CNN "Distrib Part No."
+F 6 "" H 5500 2950 50  0001 C CNN "Mfg. Name"
+F 7 "" H 5500 2950 50  0001 C CNN "Mfg. Part No."
+	1    5500 2950
+	0    1    -1   0   
+$EndComp
+Wire Wire Line
+	5050 2950 5350 2950
+Text HLabel 5050 3350 0    50   Input ~ 0
+LED2A
+$Comp
+L Device:R_US R51
+U 1 1 5F12059E
+P 5500 3350
+F 0 "R51" V 5450 3200 50  0000 C CNN
+F 1 "1k5" V 5400 3350 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 5430 3350 50  0001 C CNN
+F 3 "" H 5500 3350 50  0000 C CNN
+F 4 "Digi-Key" H 3700 -500 50  0001 C CNN "Distrib. Name"
+F 5 "A130092CT-ND" H 3700 -500 50  0001 C CNN "Distrib Part No."
+F 6 "" H 5500 3350 50  0001 C CNN "Mfg. Name"
+F 7 "" H 5500 3350 50  0001 C CNN "Mfg. Part No."
+	1    5500 3350
+	0    1    -1   0   
+$EndComp
+Wire Wire Line
+	5750 3550 5650 3550
+Wire Wire Line
+	5650 3350 5750 3350
+Wire Wire Line
+	5050 3350 5350 3350
+Wire Wire Line
+	6350 3350 6650 3350
+Wire Wire Line
+	6650 3550 6350 3550
+Text HLabel 5050 3550 0    50   Input ~ 0
+LED2B
+$Comp
+L Device:R_US R52
+U 1 1 5F1205AD
+P 5500 3550
+F 0 "R52" V 5450 3400 50  0000 C CNN
+F 1 "1k5" V 5400 3550 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 5430 3550 50  0001 C CNN
+F 3 "" H 5500 3550 50  0000 C CNN
+F 4 "Digi-Key" H 3700 -300 50  0001 C CNN "Distrib. Name"
+F 5 "A130092CT-ND" H 3700 -300 50  0001 C CNN "Distrib Part No."
+F 6 "" H 5500 3550 50  0001 C CNN "Mfg. Name"
+F 7 "" H 5500 3550 50  0001 C CNN "Mfg. Part No."
+	1    5500 3550
+	0    1    -1   0   
+$EndComp
+Wire Wire Line
+	5050 3550 5350 3550
+Text HLabel 5050 3950 0    50   Input ~ 0
+LED3A
+$Comp
+L Device:R_US R53
+U 1 1 5F12101E
+P 5500 3950
+F 0 "R53" V 5450 3800 50  0000 C CNN
+F 1 "1k5" V 5400 3950 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 5430 3950 50  0001 C CNN
+F 3 "" H 5500 3950 50  0000 C CNN
+F 4 "Digi-Key" H 3700 100 50  0001 C CNN "Distrib. Name"
+F 5 "A130092CT-ND" H 3700 100 50  0001 C CNN "Distrib Part No."
+F 6 "" H 5500 3950 50  0001 C CNN "Mfg. Name"
+F 7 "" H 5500 3950 50  0001 C CNN "Mfg. Part No."
+	1    5500 3950
+	0    1    -1   0   
+$EndComp
+Wire Wire Line
+	5750 4150 5650 4150
+Wire Wire Line
+	5650 3950 5750 3950
+Wire Wire Line
+	5050 3950 5350 3950
+Wire Wire Line
+	6350 3950 6650 3950
+Wire Wire Line
+	6650 4150 6350 4150
+Text HLabel 5050 4150 0    50   Input ~ 0
+LED3B
+$Comp
+L Device:R_US R54
+U 1 1 5F12102D
+P 5500 4150
+F 0 "R54" V 5450 4000 50  0000 C CNN
+F 1 "1k5" V 5400 4150 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 5430 4150 50  0001 C CNN
+F 3 "" H 5500 4150 50  0000 C CNN
+F 4 "Digi-Key" H 3700 300 50  0001 C CNN "Distrib. Name"
+F 5 "A130092CT-ND" H 3700 300 50  0001 C CNN "Distrib Part No."
+F 6 "" H 5500 4150 50  0001 C CNN "Mfg. Name"
+F 7 "" H 5500 4150 50  0001 C CNN "Mfg. Part No."
+	1    5500 4150
+	0    1    -1   0   
+$EndComp
+Wire Wire Line
+	5050 4150 5350 4150
+Wire Wire Line
+	6650 1550 6650 1750
+Wire Wire Line
+	6650 1750 6650 2150
+Connection ~ 6650 1750
+Wire Wire Line
+	6650 2150 6650 2350
+Connection ~ 6650 2150
+Connection ~ 6650 2350
+Wire Wire Line
+	6650 2350 6650 2750
+Connection ~ 6650 2750
+Wire Wire Line
+	6650 2750 6650 2950
+Connection ~ 6650 2950
+Wire Wire Line
+	6650 2950 6650 3350
+Connection ~ 6650 3350
+Wire Wire Line
+	6650 3350 6650 3550
+Connection ~ 6650 3550
+Wire Wire Line
+	6650 3550 6650 3950
+Connection ~ 6650 3950
+Wire Wire Line
+	6650 3950 6650 4150
+Wire Wire Line
+	6650 4150 6650 4550
+Connection ~ 6650 4150
+$Comp
+L power:GND #PWR0217
+U 1 1 5F126F57
+P 6650 4550
+F 0 "#PWR0217" H 6650 4300 50  0001 C CNN
+F 1 "GND" H 6650 4400 50  0000 C CNN
+F 2 "" H 6650 4550 50  0000 C CNN
+F 3 "" H 6650 4550 50  0000 C CNN
+	1    6650 4550
+	1    0    0    -1  
+$EndComp
+Text HLabel 7850 1600 0    50   Input ~ 0
+LED9A
+$Comp
+L Device:R_US R55
+U 1 1 5F12828F
+P 8300 1600
+F 0 "R55" V 8250 1450 50  0000 C CNN
+F 1 "1k5" V 8200 1600 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 8230 1600 50  0001 C CNN
+F 3 "" H 8300 1600 50  0000 C CNN
+F 4 "Digi-Key" H 6500 -2250 50  0001 C CNN "Distrib. Name"
+F 5 "A130092CT-ND" H 6500 -2250 50  0001 C CNN "Distrib Part No."
+F 6 "" H 8300 1600 50  0001 C CNN "Mfg. Name"
+F 7 "" H 8300 1600 50  0001 C CNN "Mfg. Part No."
+	1    8300 1600
+	0    1    -1   0   
+$EndComp
+Wire Wire Line
+	8550 1800 8450 1800
+Wire Wire Line
+	8450 1600 8550 1600
+Wire Wire Line
+	7850 1600 8150 1600
+Wire Wire Line
+	9150 1600 9450 1600
+Wire Wire Line
+	9450 1800 9150 1800
+Text HLabel 7850 1800 0    50   Input ~ 0
+LED9B
+$Comp
+L Device:R_US R56
+U 1 1 5F12829E
+P 8300 1800
+F 0 "R56" V 8250 1650 50  0000 C CNN
+F 1 "1k5" V 8200 1800 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 8230 1800 50  0001 C CNN
+F 3 "" H 8300 1800 50  0000 C CNN
+F 4 "Digi-Key" H 6500 -2050 50  0001 C CNN "Distrib. Name"
+F 5 "A130092CT-ND" H 6500 -2050 50  0001 C CNN "Distrib Part No."
+F 6 "" H 8300 1800 50  0001 C CNN "Mfg. Name"
+F 7 "" H 8300 1800 50  0001 C CNN "Mfg. Part No."
+	1    8300 1800
+	0    1    -1   0   
+$EndComp
+Wire Wire Line
+	7850 1800 8150 1800
+Text HLabel 7850 2200 0    50   Input ~ 0
+LED8A
+$Comp
+L Device:R_US R57
+U 1 1 5F1282B2
+P 8300 2200
+F 0 "R57" V 8250 2050 50  0000 C CNN
+F 1 "1k5" V 8200 2200 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 8230 2200 50  0001 C CNN
+F 3 "" H 8300 2200 50  0000 C CNN
+F 4 "Digi-Key" H 6500 -1650 50  0001 C CNN "Distrib. Name"
+F 5 "A130092CT-ND" H 6500 -1650 50  0001 C CNN "Distrib Part No."
+F 6 "" H 8300 2200 50  0001 C CNN "Mfg. Name"
+F 7 "" H 8300 2200 50  0001 C CNN "Mfg. Part No."
+	1    8300 2200
+	0    1    -1   0   
+$EndComp
+Wire Wire Line
+	8550 2400 8450 2400
+Wire Wire Line
+	8450 2200 8550 2200
+Wire Wire Line
+	7850 2200 8150 2200
+Wire Wire Line
+	9150 2200 9450 2200
+Wire Wire Line
+	9450 2400 9150 2400
+Text HLabel 7850 2400 0    50   Input ~ 0
+LED8B
+$Comp
+L Device:R_US R58
+U 1 1 5F1282C1
+P 8300 2400
+F 0 "R58" V 8250 2250 50  0000 C CNN
+F 1 "1k5" V 8200 2400 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 8230 2400 50  0001 C CNN
+F 3 "" H 8300 2400 50  0000 C CNN
+F 4 "Digi-Key" H 6500 -1450 50  0001 C CNN "Distrib. Name"
+F 5 "A130092CT-ND" H 6500 -1450 50  0001 C CNN "Distrib Part No."
+F 6 "" H 8300 2400 50  0001 C CNN "Mfg. Name"
+F 7 "" H 8300 2400 50  0001 C CNN "Mfg. Part No."
+	1    8300 2400
+	0    1    -1   0   
+$EndComp
+Wire Wire Line
+	7850 2400 8150 2400
+Text HLabel 7850 2800 0    50   Input ~ 0
+LED7A
+$Comp
+L Device:R_US R59
+U 1 1 5F1282D5
+P 8300 2800
+F 0 "R59" V 8250 2650 50  0000 C CNN
+F 1 "1k5" V 8200 2800 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 8230 2800 50  0001 C CNN
+F 3 "" H 8300 2800 50  0000 C CNN
+F 4 "Digi-Key" H 6500 -1050 50  0001 C CNN "Distrib. Name"
+F 5 "A130092CT-ND" H 6500 -1050 50  0001 C CNN "Distrib Part No."
+F 6 "" H 8300 2800 50  0001 C CNN "Mfg. Name"
+F 7 "" H 8300 2800 50  0001 C CNN "Mfg. Part No."
+	1    8300 2800
+	0    1    -1   0   
+$EndComp
+Wire Wire Line
+	8550 3000 8450 3000
+Wire Wire Line
+	8450 2800 8550 2800
+Wire Wire Line
+	7850 2800 8150 2800
+Wire Wire Line
+	9150 2800 9450 2800
+Wire Wire Line
+	9450 3000 9150 3000
+Text HLabel 7850 3000 0    50   Input ~ 0
+LED7B
+$Comp
+L Device:R_US R60
+U 1 1 5F1282E4
+P 8300 3000
+F 0 "R60" V 8250 2850 50  0000 C CNN
+F 1 "1k5" V 8200 3000 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 8230 3000 50  0001 C CNN
+F 3 "" H 8300 3000 50  0000 C CNN
+F 4 "Digi-Key" H 6500 -850 50  0001 C CNN "Distrib. Name"
+F 5 "A130092CT-ND" H 6500 -850 50  0001 C CNN "Distrib Part No."
+F 6 "" H 8300 3000 50  0001 C CNN "Mfg. Name"
+F 7 "" H 8300 3000 50  0001 C CNN "Mfg. Part No."
+	1    8300 3000
+	0    1    -1   0   
+$EndComp
+Wire Wire Line
+	7850 3000 8150 3000
+Text HLabel 7850 3400 0    50   Input ~ 0
+LED6A
+$Comp
+L Device:R_US R61
+U 1 1 5F1282F8
+P 8300 3400
+F 0 "R61" V 8250 3250 50  0000 C CNN
+F 1 "1k5" V 8200 3400 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 8230 3400 50  0001 C CNN
+F 3 "" H 8300 3400 50  0000 C CNN
+F 4 "Digi-Key" H 6500 -450 50  0001 C CNN "Distrib. Name"
+F 5 "A130092CT-ND" H 6500 -450 50  0001 C CNN "Distrib Part No."
+F 6 "" H 8300 3400 50  0001 C CNN "Mfg. Name"
+F 7 "" H 8300 3400 50  0001 C CNN "Mfg. Part No."
+	1    8300 3400
+	0    1    -1   0   
+$EndComp
+Wire Wire Line
+	8550 3600 8450 3600
+Wire Wire Line
+	8450 3400 8550 3400
+Wire Wire Line
+	7850 3400 8150 3400
+Wire Wire Line
+	9150 3400 9450 3400
+Wire Wire Line
+	9450 3600 9150 3600
+Text HLabel 7850 3600 0    50   Input ~ 0
+LED6B
+$Comp
+L Device:R_US R62
+U 1 1 5F128307
+P 8300 3600
+F 0 "R62" V 8250 3450 50  0000 C CNN
+F 1 "1k5" V 8200 3600 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 8230 3600 50  0001 C CNN
+F 3 "" H 8300 3600 50  0000 C CNN
+F 4 "Digi-Key" H 6500 -250 50  0001 C CNN "Distrib. Name"
+F 5 "A130092CT-ND" H 6500 -250 50  0001 C CNN "Distrib Part No."
+F 6 "" H 8300 3600 50  0001 C CNN "Mfg. Name"
+F 7 "" H 8300 3600 50  0001 C CNN "Mfg. Part No."
+	1    8300 3600
+	0    1    -1   0   
+$EndComp
+Wire Wire Line
+	7850 3600 8150 3600
+Text HLabel 7850 4000 0    50   Input ~ 0
+LED5A
+$Comp
+L Device:R_US R63
+U 1 1 5F12831B
+P 8300 4000
+F 0 "R63" V 8250 3850 50  0000 C CNN
+F 1 "1k5" V 8200 4000 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 8230 4000 50  0001 C CNN
+F 3 "" H 8300 4000 50  0000 C CNN
+F 4 "Digi-Key" H 6500 150 50  0001 C CNN "Distrib. Name"
+F 5 "A130092CT-ND" H 6500 150 50  0001 C CNN "Distrib Part No."
+F 6 "" H 8300 4000 50  0001 C CNN "Mfg. Name"
+F 7 "" H 8300 4000 50  0001 C CNN "Mfg. Part No."
+	1    8300 4000
+	0    1    -1   0   
+$EndComp
+Wire Wire Line
+	8550 4200 8450 4200
+Wire Wire Line
+	8450 4000 8550 4000
+Wire Wire Line
+	7850 4000 8150 4000
+Wire Wire Line
+	9150 4000 9450 4000
+Wire Wire Line
+	9450 4200 9150 4200
+Text HLabel 7850 4200 0    50   Input ~ 0
+LED5B
+$Comp
+L Device:R_US R64
+U 1 1 5F12832A
+P 8300 4200
+F 0 "R64" V 8250 4050 50  0000 C CNN
+F 1 "1k5" V 8200 4200 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 8230 4200 50  0001 C CNN
+F 3 "" H 8300 4200 50  0000 C CNN
+F 4 "Digi-Key" H 6500 350 50  0001 C CNN "Distrib. Name"
+F 5 "A130092CT-ND" H 6500 350 50  0001 C CNN "Distrib Part No."
+F 6 "" H 8300 4200 50  0001 C CNN "Mfg. Name"
+F 7 "" H 8300 4200 50  0001 C CNN "Mfg. Part No."
+	1    8300 4200
+	0    1    -1   0   
+$EndComp
+Wire Wire Line
+	7850 4200 8150 4200
+Wire Wire Line
+	9450 1600 9450 1800
+Wire Wire Line
+	9450 1800 9450 2200
+Connection ~ 9450 1800
+Wire Wire Line
+	9450 2200 9450 2400
+Connection ~ 9450 2200
+Connection ~ 9450 2400
+Wire Wire Line
+	9450 2400 9450 2800
+Connection ~ 9450 2800
+Wire Wire Line
+	9450 2800 9450 3000
+Connection ~ 9450 3000
+Wire Wire Line
+	9450 3000 9450 3400
+Connection ~ 9450 3400
+Wire Wire Line
+	9450 3400 9450 3600
+Connection ~ 9450 3600
+Wire Wire Line
+	9450 3600 9450 4000
+Connection ~ 9450 4000
+Wire Wire Line
+	9450 4000 9450 4200
+Wire Wire Line
+	9450 4200 9450 4600
+Connection ~ 9450 4200
+$Comp
+L power:GND #PWR0218
+U 1 1 5F128345
+P 9450 4600
+F 0 "#PWR0218" H 9450 4350 50  0001 C CNN
+F 1 "GND" H 9450 4450 50  0000 C CNN
+F 2 "" H 9450 4600 50  0000 C CNN
+F 3 "" H 9450 4600 50  0000 C CNN
+	1    9450 4600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:LED_Dual_ACAC D25
+U 1 1 5F309D3D
+P 6050 1650
+F 0 "D25" H 5850 1800 50  0000 C CNN
+F 1 "R/Y" H 6200 1450 50  0000 C CNN
+F 2 "MyFootprints:LED_Dialight_5988560207F" H 6080 1650 50  0001 C CNN
+F 3 "http://www.dialightsignalsandcomponents.com/Assets/Brochures_And_Catalogs/Indication/CBI_SMD_new/Dialight_CBI_data_598-biRA_Apr2018.pdf" H 6080 1650 50  0001 C CNN
+F 4 "Dialight" H 6050 1650 50  0001 C CNN "Mfg. Name"
+F 5 "5988560207F" H 6050 1650 50  0001 C CNN "Mfg. Part No."
+	1    6050 1650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:LED_Dual_ACAC D26
+U 1 1 5F309DE3
+P 6050 2250
+F 0 "D26" H 5850 2400 50  0000 C CNN
+F 1 "R/Y" H 6200 2050 50  0000 C CNN
+F 2 "MyFootprints:LED_Dialight_5988560207F" H 6080 2250 50  0001 C CNN
+F 3 "http://www.dialightsignalsandcomponents.com/Assets/Brochures_And_Catalogs/Indication/CBI_SMD_new/Dialight_CBI_data_598-biRA_Apr2018.pdf" H 6080 2250 50  0001 C CNN
+F 4 "Dialight" H 6050 2250 50  0001 C CNN "Mfg. Name"
+F 5 "5988560207F" H 6050 2250 50  0001 C CNN "Mfg. Part No."
+	1    6050 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:LED_Dual_ACAC D27
+U 1 1 5F309E53
+P 6050 2850
+F 0 "D27" H 5850 3000 50  0000 C CNN
+F 1 "R/Y" H 6200 2650 50  0000 C CNN
+F 2 "MyFootprints:LED_Dialight_5988560207F" H 6080 2850 50  0001 C CNN
+F 3 "http://www.dialightsignalsandcomponents.com/Assets/Brochures_And_Catalogs/Indication/CBI_SMD_new/Dialight_CBI_data_598-biRA_Apr2018.pdf" H 6080 2850 50  0001 C CNN
+F 4 "Dialight" H 6050 2850 50  0001 C CNN "Mfg. Name"
+F 5 "5988560207F" H 6050 2850 50  0001 C CNN "Mfg. Part No."
+	1    6050 2850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:LED_Dual_ACAC D28
+U 1 1 5F309EBF
+P 6050 3450
+F 0 "D28" H 5850 3600 50  0000 C CNN
+F 1 "R/Y" H 6200 3250 50  0000 C CNN
+F 2 "MyFootprints:LED_Dialight_5988560207F" H 6080 3450 50  0001 C CNN
+F 3 "http://www.dialightsignalsandcomponents.com/Assets/Brochures_And_Catalogs/Indication/CBI_SMD_new/Dialight_CBI_data_598-biRA_Apr2018.pdf" H 6080 3450 50  0001 C CNN
+F 4 "Dialight" H 6050 3450 50  0001 C CNN "Mfg. Name"
+F 5 "5988560207F" H 6050 3450 50  0001 C CNN "Mfg. Part No."
+	1    6050 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:LED_Dual_ACAC D29
+U 1 1 5F309F2B
+P 6050 4050
+F 0 "D29" H 5850 4200 50  0000 C CNN
+F 1 "R/Y" H 6200 3850 50  0000 C CNN
+F 2 "MyFootprints:LED_Dialight_5988560207F" H 6080 4050 50  0001 C CNN
+F 3 "http://www.dialightsignalsandcomponents.com/Assets/Brochures_And_Catalogs/Indication/CBI_SMD_new/Dialight_CBI_data_598-biRA_Apr2018.pdf" H 6080 4050 50  0001 C CNN
+F 4 "Dialight" H 6050 4050 50  0001 C CNN "Mfg. Name"
+F 5 "5988560207F" H 6050 4050 50  0001 C CNN "Mfg. Part No."
+	1    6050 4050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:LED_Dual_ACAC D30
+U 1 1 5F30A041
+P 8850 1700
+F 0 "D30" H 8650 1850 50  0000 C CNN
+F 1 "R/Y" H 9000 1500 50  0000 C CNN
+F 2 "MyFootprints:LED_Dialight_5988560207F" H 8880 1700 50  0001 C CNN
+F 3 "http://www.dialightsignalsandcomponents.com/Assets/Brochures_And_Catalogs/Indication/CBI_SMD_new/Dialight_CBI_data_598-biRA_Apr2018.pdf" H 8880 1700 50  0001 C CNN
+F 4 "Dialight" H 8850 1700 50  0001 C CNN "Mfg. Name"
+F 5 "5988560207F" H 8850 1700 50  0001 C CNN "Mfg. Part No."
+	1    8850 1700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:LED_Dual_ACAC D31
+U 1 1 5F30A137
+P 8850 2300
+F 0 "D31" H 8650 2450 50  0000 C CNN
+F 1 "R/Y" H 9000 2100 50  0000 C CNN
+F 2 "MyFootprints:LED_Dialight_5988560207F" H 8880 2300 50  0001 C CNN
+F 3 "http://www.dialightsignalsandcomponents.com/Assets/Brochures_And_Catalogs/Indication/CBI_SMD_new/Dialight_CBI_data_598-biRA_Apr2018.pdf" H 8880 2300 50  0001 C CNN
+F 4 "Dialight" H 8850 2300 50  0001 C CNN "Mfg. Name"
+F 5 "5988560207F" H 8850 2300 50  0001 C CNN "Mfg. Part No."
+	1    8850 2300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:LED_Dual_ACAC D32
+U 1 1 5F30A1AF
+P 8850 2900
+F 0 "D32" H 8650 3050 50  0000 C CNN
+F 1 "R/Y" H 9000 2700 50  0000 C CNN
+F 2 "MyFootprints:LED_Dialight_5988560207F" H 8880 2900 50  0001 C CNN
+F 3 "http://www.dialightsignalsandcomponents.com/Assets/Brochures_And_Catalogs/Indication/CBI_SMD_new/Dialight_CBI_data_598-biRA_Apr2018.pdf" H 8880 2900 50  0001 C CNN
+F 4 "Dialight" H 8850 2900 50  0001 C CNN "Mfg. Name"
+F 5 "5988560207F" H 8850 2900 50  0001 C CNN "Mfg. Part No."
+	1    8850 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:LED_Dual_ACAC D33
+U 1 1 5F30A2FF
+P 8850 3500
+F 0 "D33" H 8650 3650 50  0000 C CNN
+F 1 "R/Y" H 9000 3300 50  0000 C CNN
+F 2 "MyFootprints:LED_Dialight_5988560207F" H 8880 3500 50  0001 C CNN
+F 3 "http://www.dialightsignalsandcomponents.com/Assets/Brochures_And_Catalogs/Indication/CBI_SMD_new/Dialight_CBI_data_598-biRA_Apr2018.pdf" H 8880 3500 50  0001 C CNN
+F 4 "Dialight" H 8850 3500 50  0001 C CNN "Mfg. Name"
+F 5 "5988560207F" H 8850 3500 50  0001 C CNN "Mfg. Part No."
+	1    8850 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:LED_Dual_ACAC D34
+U 1 1 5F30A38B
+P 8850 4100
+F 0 "D34" H 8650 4250 50  0000 C CNN
+F 1 "R/Y" H 9000 3900 50  0000 C CNN
+F 2 "MyFootprints:LED_Dialight_5988560207F" H 8880 4100 50  0001 C CNN
+F 3 "http://www.dialightsignalsandcomponents.com/Assets/Brochures_And_Catalogs/Indication/CBI_SMD_new/Dialight_CBI_data_598-biRA_Apr2018.pdf" H 8880 4100 50  0001 C CNN
+F 4 "Dialight" H 8850 4100 50  0001 C CNN "Mfg. Name"
+F 5 "5988560207F" H 8850 4100 50  0001 C CNN "Mfg. Part No."
+	1    8850 4100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_US R15
+U 1 1 5FE0AC85
+P 3325 3375
+F 0 "R15" V 3405 3375 50  0000 C CNN
+F 1 "10R" V 3225 3375 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 3255 3375 50  0001 C CNN
+F 3 "" H 3325 3375 50  0000 C CNN
+F 4 "Panasonic" H 3325 3375 50  0001 C CNN "Mfg. Name"
+F 5 "ERJ-3GEYJ100V" H 3325 3375 50  0001 C CNN "Mfg. Part No."
+	1    3325 3375
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	3325 3175 3325 3225
+$Comp
+L Transistor_BJT:MMBT3904 Q7
+U 1 1 5FCAEF2E
+P 3225 4450
+F 0 "Q7" H 3416 4496 50  0000 L CNN
+F 1 "MMBT3904" H 3416 4405 50  0000 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 3425 4375 50  0001 L CIN
+F 3 "https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf" H 3225 4450 50  0001 L CNN
+F 4 "Fairchild" H 3225 4450 50  0001 C CNN "Mfg. Name"
+F 5 "MMBT3904" H 3225 4450 50  0001 C CNN "Mfg. Part No."
+	1    3225 4450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_US R74
+U 1 1 5FCB3603
+P 2875 4450
+F 0 "R74" V 2825 4300 50  0000 C CNN
+F 1 "1k" V 2775 4450 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 2805 4450 50  0001 C CNN
+F 3 "" H 2875 4450 50  0000 C CNN
+F 4 "" H 2875 4450 50  0001 C CNN "Mfg. Name"
+F 5 "" H 2875 4450 50  0001 C CNN "Mfg. Part No."
+	1    2875 4450
+	0    1    -1   0   
+$EndComp
+$Comp
+L power:GND #PWR0189
+U 1 1 5FCBF0EC
+P 3325 4650
+F 0 "#PWR0189" H 3325 4400 50  0001 C CNN
+F 1 "GND" H 3325 4500 50  0000 C CNN
+F 2 "" H 3325 4650 50  0000 C CNN
+F 3 "" H 3325 4650 50  0000 C CNN
+	1    3325 4650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2725 4450 2600 4450
+Wire Wire Line
+	3700 2200 3700 2400
+$Comp
+L power:+3V8 #PWR0190
+U 1 1 5FD2B7EB
+P 3325 3175
+F 0 "#PWR0190" H 3325 3025 50  0001 C CNN
+F 1 "+3V8" H 3340 3348 50  0000 C CNN
+F 2 "" H 3325 3175 50  0001 C CNN
+F 3 "" H 3325 3175 50  0001 C CNN
+	1    3325 3175
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3400 3675 3325 3675
+Wire Wire Line
+	3325 3525 3325 3675
+Text Notes 3700 3925 0    50   ~ 0
+LED FILAMENT
+$Comp
+L Connector_Generic:Conn_01x02 J11
+U 1 1 60211AC5
+P 3600 3675
+F 0 "J11" H 3680 3621 50  0000 L CNN
+F 1 "Conn_01x02" H 3680 3576 50  0001 L CNN
+F 2 "MyFootprints:2pSocket_SMD_Samtec_SMM-102-02-S-S" H 3600 3675 50  0001 C CNN
+F 3 "~" H 3600 3675 50  0001 C CNN
+F 4 "Samtec" H 3600 3675 50  0001 C CNN "Mfg. Name"
+F 5 "SMM-102-02-S-S" H 3600 3675 50  0001 C CNN "Mfg. Part No."
+	1    3600 3675
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x02 J12
+U 1 1 60211F80
+P 3600 4025
+F 0 "J12" H 3680 3971 50  0000 L CNN
+F 1 "Conn_01x02" H 3680 3926 50  0001 L CNN
+F 2 "MyFootprints:2pSocket_SMD_Samtec_SMM-102-02-S-S" H 3600 4025 50  0001 C CNN
+F 3 "~" H 3600 4025 50  0001 C CNN
+F 4 "Samtec" H 3600 4025 50  0001 C CNN "Mfg. Name"
+F 5 "SMM-102-02-S-S" H 3600 4025 50  0001 C CNN "Mfg. Part No."
+	1    3600 4025
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3400 3775 3325 3775
+Wire Wire Line
+	3325 3775 3325 3675
+Connection ~ 3325 3675
+Wire Wire Line
+	3400 4025 3325 4025
+Wire Wire Line
+	3325 4025 3325 4125
+Wire Wire Line
+	3400 4125 3325 4125
+Connection ~ 3325 4125
+Wire Wire Line
+	3325 4125 3325 4250
+Text HLabel 2600 6300 0    50   Input ~ 0
+LED_BELL
+$Comp
+L Transistor_BJT:MMBT3904 Q6
+U 1 1 60BDFB6D
+P 3225 6300
+F 0 "Q6" H 3416 6346 50  0000 L CNN
+F 1 "MMBT3904" H 3416 6255 50  0000 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-23" H 3425 6225 50  0001 L CIN
+F 3 "https://www.fairchildsemi.com/datasheets/2N/2N3904.pdf" H 3225 6300 50  0001 L CNN
+F 4 "Fairchild" H 3225 6300 50  0001 C CNN "Mfg. Name"
+F 5 "MMBT3904" H 3225 6300 50  0001 C CNN "Mfg. Part No."
+	1    3225 6300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_US R78
+U 1 1 60BDFB75
+P 2875 6300
+F 0 "R78" V 2825 6150 50  0000 C CNN
+F 1 "1k" V 2775 6300 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 2805 6300 50  0001 C CNN
+F 3 "" H 2875 6300 50  0000 C CNN
+F 4 "" H 2875 6300 50  0001 C CNN "Mfg. Name"
+F 5 "" H 2875 6300 50  0001 C CNN "Mfg. Part No."
+	1    2875 6300
+	0    1    -1   0   
+$EndComp
+$Comp
+L power:GND #PWR0244
+U 1 1 60BDFB7B
+P 3325 6500
+F 0 "#PWR0244" H 3325 6250 50  0001 C CNN
+F 1 "GND" H 3325 6350 50  0000 C CNN
+F 2 "" H 3325 6500 50  0000 C CNN
+F 3 "" H 3325 6500 50  0000 C CNN
+	1    3325 6500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2725 6300 2600 6300
+Wire Wire Line
+	3325 5975 3325 6100
+$Comp
+L Device:LED D1
+U 1 1 60BE5621
+P 3325 5825
+F 0 "D1" H 3325 5700 50  0000 C CNN
+F 1 "LED" H 3325 5725 50  0001 C CNN
+F 2 "MyFootprints:Osram_1212" H 3325 5825 50  0001 C CNN
+F 3 "" H 3325 5825 50  0000 C CNN
+F 4 "Osram" H 3325 5825 50  0001 C CNN "Mfg. Name"
+F 5 "KW DSLP31.CC-GXHX-4J8K-Z444-60-R18" H 3325 5825 50  0001 C CNN "Mfg. Part No."
+F 6 "WHITE" V 3300 5925 60  0000 L CNN "Color"
+	1    3325 5825
+	0    1    -1   0   
+$EndComp
+Wire Wire Line
+	3325 5675 3325 5575
+Wire Wire Line
+	3325 5275 3325 5225
+$Comp
+L power:+3V8 #PWR0245
+U 1 1 60BF1584
+P 3325 5225
+F 0 "#PWR0245" H 3325 5075 50  0001 C CNN
+F 1 "+3V8" H 3340 5398 50  0000 C CNN
+F 2 "" H 3325 5225 50  0001 C CNN
+F 3 "" H 3325 5225 50  0001 C CNN
+	1    3325 5225
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R_US R79
+U 1 1 60BF157D
+P 3325 5425
+F 0 "R79" V 3405 5425 50  0000 C CNN
+F 1 "18R" V 3225 5425 50  0000 C CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" V 3255 5425 50  0001 C CNN
+F 3 "" H 3325 5425 50  0000 C CNN
+F 4 "TE" H 3325 5425 50  0001 C CNN "Mfg. Name"
+F 5 "CRGCQ0603F18R" H 3325 5425 50  0001 C CNN "Mfg. Part No."
+	1    3325 5425
+	-1   0    0    1   
+$EndComp
+$EndSCHEMATC

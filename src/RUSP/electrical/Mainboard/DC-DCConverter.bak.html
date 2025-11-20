@@ -1,0 +1,122 @@
+EESchema Schematic File Version 4
+LIBS:ATMega2560StartingPoint-cache
+EELAYER 26 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 3 4
+Title "DC-DC CONVERTER"
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Device:C C?
+U 1 1 5CE97897
+P 6200 4300
+AR Path="/5CE97897" Ref="C?"  Part="1" 
+AR Path="/5CE90595/5CE97897" Ref="C12"  Part="1" 
+F 0 "C12" H 6225 4400 50  0000 L CNN
+F 1 "10uF" H 6225 4200 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric_Pad1.05x0.95mm_HandSolder" H 6238 4150 50  0001 C CNN
+F 3 "" H 6200 4300 50  0000 C CNN
+	1    6200 4300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5950 4000 6200 4000
+Wire Wire Line
+	6200 4000 6200 4150
+Wire Wire Line
+	6200 4000 6200 3850
+Connection ~ 6200 4000
+$Comp
+L power:+5V #PWR?
+U 1 1 5CE978A2
+P 6200 3850
+AR Path="/5CE978A2" Ref="#PWR?"  Part="1" 
+AR Path="/5CE90595/5CE978A2" Ref="#PWR024"  Part="1" 
+F 0 "#PWR024" H 6200 3700 50  0001 C CNN
+F 1 "+5V" H 6215 4023 50  0000 C CNN
+F 2 "" H 6200 3850 50  0001 C CNN
+F 3 "" H 6200 3850 50  0001 C CNN
+	1    6200 3850
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 5CE978A8
+P 5550 4750
+AR Path="/5CE978A8" Ref="#PWR?"  Part="1" 
+AR Path="/5CE90595/5CE978A8" Ref="#PWR023"  Part="1" 
+F 0 "#PWR023" H 5550 4500 50  0001 C CNN
+F 1 "GND" H 5555 4577 50  0000 C CNN
+F 2 "" H 5550 4750 50  0001 C CNN
+F 3 "" H 5550 4750 50  0001 C CNN
+	1    5550 4750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5550 4750 5550 4550
+$Comp
+L Device:C C?
+U 1 1 5CE978AF
+P 4850 4300
+AR Path="/5CE978AF" Ref="C?"  Part="1" 
+AR Path="/5CE90595/5CE978AF" Ref="C11"  Part="1" 
+F 0 "C11" H 4875 4400 50  0000 L CNN
+F 1 "10uF, 50v" H 4875 4200 50  0000 L CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 4888 4150 50  0001 C CNN
+F 3 "" H 4850 4300 50  0000 C CNN
+	1    4850 4300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4850 4150 4850 4000
+Wire Wire Line
+	4850 4000 5150 4000
+$Comp
+L power:+BATT #PWR?
+U 1 1 5CE978B8
+P 4850 3850
+AR Path="/5CE978B8" Ref="#PWR?"  Part="1" 
+AR Path="/5CE90595/5CE978B8" Ref="#PWR022"  Part="1" 
+F 0 "#PWR022" H 4850 3700 50  0001 C CNN
+F 1 "+BATT" H 4850 3990 50  0000 C CNN
+F 2 "" H 4850 3850 50  0000 C CNN
+F 3 "" H 4850 3850 50  0000 C CNN
+	1    4850 3850
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4850 3850 4850 4000
+Connection ~ 4850 4000
+Wire Wire Line
+	4850 4550 5550 4550
+Wire Wire Line
+	4850 4450 4850 4550
+Connection ~ 5550 4550
+Wire Wire Line
+	5550 4550 5550 4250
+Wire Wire Line
+	5550 4550 6200 4550
+Wire Wire Line
+	6200 4450 6200 4550
+$Comp
+L MyLibrary:VX7815-500 U?
+U 1 1 5CE978CA
+P 5550 4000
+AR Path="/5CE978CA" Ref="U?"  Part="1" 
+AR Path="/5CE90595/5CE978CA" Ref="U2"  Part="1" 
+F 0 "U2" H 5550 4315 50  0000 C CNN
+F 1 "VX7805-500" H 5550 4224 50  0000 C CNN
+F 2 "MyFootprints:VX7805-500_SIP-3" H 5550 4000 50  0001 C CNN
+F 3 "" H 5550 4000 50  0001 C CNN
+	1    5550 4000
+	1    0    0    -1  
+$EndComp
+$EndSCHEMATC

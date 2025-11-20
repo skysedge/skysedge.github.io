@@ -1,0 +1,10 @@
+Ref,ValPackage,Val,Package,PosX,PosY,Rot,Side
+C1,.1uFC_0603_1608Metric,.1uF,C_0603_1608Metric,8.5,-15,-90,bottom
+FID1,FiducialFiducial_0.75mm_Dia_1.5mm_Outer,Fiducial,Fiducial_0.75mm_Dia_1.5mm_Outer,22,-19,0,bottom
+FID2,FiducialFiducial_0.75mm_Dia_1.5mm_Outer,Fiducial,Fiducial_0.75mm_Dia_1.5mm_Outer,-20.5,-19,0,bottom
+FID3,FiducialFiducial_0.75mm_Dia_1.5mm_Outer,Fiducial,Fiducial_0.75mm_Dia_1.5mm_Outer,0,17,0,bottom
+H1,M2 SMT NutSMTSO-M2-3ET,M2 SMT Nut,SMTSO-M2-3ET,14,14,0,bottom
+H2,M2 SMT NutSMTSO-M2-3ET,M2 SMT Nut,SMTSO-M2-3ET,26.5,4.5,0,bottom
+H3,M2 SMT NutSMTSO-M2-3ET,M2 SMT Nut,SMTSO-M2-3ET,-9,-13.5,0,bottom
+H5,M2 SMT NutSMTSO-M2-3ET,M2 SMT Nut,SMTSO-M2-3ET,-12,14,0,bottom
+U1,HallSwitchSC-59,HallSwitch,SC-59,5,-15,0,bottom
